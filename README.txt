@@ -17,3 +17,6 @@ http://www.twitter/OSDDMalaria
 
 If you make changes and feel like doing so, log your changes in this file. Don't worry if you don't have the time, we don't have too much many people to keep track of at the moment.
 
+## Log
+
+Added gdoc_Available OSDD Malaria Compounds.xlsx export of gspreadsheet 30/10/12
