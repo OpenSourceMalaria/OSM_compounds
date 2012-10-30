@@ -2,6 +2,11 @@
 
 This is the working directory for the database of the OSM compounds synthesised to date, biological data will be added as it is recieved.  
 
+This database is in alpha status; the current *live* version is at:
+
+https://docs.google.com/spreadsheet/ccc?key=0AtiWawH-4xdfdExVd3g5Y1MxNF9hcEtJcTQ1b2stR3c#gid=0
+
+
 For project info see:
 
 http://www.thesynapticleap.org
