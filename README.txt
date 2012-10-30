@@ -20,3 +20,4 @@ If you make changes and feel like doing so, log your changes in this file. Don't
 ## Log
 
 Added gdoc_Available OSDD Malaria Compounds.xlsx export of gspreadsheet 30/10/12
+Joined by Alice
