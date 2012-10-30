@@ -65,13 +65,15 @@ local.properties
 
 ## TODO: If you have NuGet Package Restore enabled, uncomment this
 #packages/
+## edited out .sdf ignore, extension for structural data files
 
 # Visual C++ cache files
 ipch/
 *.aps
 *.ncb
 *.opensdf
-*.sdf
+## *.sdf
+
 
 # Visual Studio profiler
 *.psess
