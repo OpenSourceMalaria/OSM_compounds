@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<form><formprops version="30" size="x:1211,y:792" backcolor="12632256" querycolor="12632224" layoutmode="true" grid="false" openreadonly="false" nomstupgrade="true" wplength="44" wpflags="2" showcmd="3" minpos="x:-1,y:-1" maxpos="x:-10,y:-32" normalpos="l:50,t:50,r:1186,b:621"></formprops>
+<security lastconfig="58" configsize="8" config="64,255,255,255,255,164,255,3"></security>
+<boxes><box type="Frame" rect="l:24,t:16,r:1029,b:290" dtype="Fixed" text="Structure" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Structure" rect="l:32,t:32,r:1021,b:282" field="Structure" text="Structure" tablewidth="20" boxname="Structure" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:280,t:289,r:520,b:345" dtype="Fixed" text="Mol_ID" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:288,t:305,r:512,b:337" field="Mol_ID" text="Mol_ID" tablewidth="7" boxname="Mol_ID" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:536,t:289,r:776,b:345" dtype="Fixed" text="Formula" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Formula" rect="l:544,t:305,r:768,b:337" field="Formula" text="Formula" tablewidth="30" boxname="Formula" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:792,t:289,r:1032,b:345" dtype="Fixed" text="MolWeight" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:800,t:305,r:1024,b:337" field="MolWeight" text="MolWeight" tablewidth="15" boxname="MolWeight" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:25,t:346,r:265,b:402" dtype="Fixed" text="MolfileName" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:33,t:362,r:257,b:394" field="MolfileName" text="MolfileName" tablewidth="8" boxname="MolfileName" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:25,t:410,r:265,b:466" dtype="Fixed" text="COMPOUND_ID" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:33,t:426,r:257,b:458" field="COMPOUND_ID" text="COMPOUND_ID" tablewidth="7" boxname="COMPOUND_ID" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:25,t:474,r:265,b:530" dtype="Fixed" text="OSM_ID" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:33,t:490,r:257,b:522" field="OSM_ID" text="OSM_ID" tablewidth="15" boxname="OSM_ID" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:25,t:538,r:265,b:594" dtype="Fixed" text="IC50_nM_Assay01" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:33,t:554,r:257,b:586" field="IC50_nM_Assay01" text="IC50_nM_Assay01" tablewidth="20" boxname="IC50_nM_Assay01" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:535,t:347,r:775,b:403" dtype="Fixed" text="Chemist_code" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:543,t:363,r:767,b:395" field="Chemist_code" text="Chemist_code" tablewidth="9" boxname="Chemist_code" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:535,t:411,r:775,b:467" dtype="Fixed" text="Mol Weight" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:543,t:427,r:767,b:459" field="Mol Weight" text="Mol Weight" tablewidth="15" boxname="Mol Weight" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:535,t:475,r:775,b:531" dtype="Fixed" text="Mol Formula" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:543,t:491,r:767,b:523" field="Mol Formula" text="Mol Formula" tablewidth="12" boxname="Mol Formula" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:535,t:539,r:775,b:595" dtype="Fixed" text="MolPort Reference Number" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:543,t:555,r:767,b:587" field="MolPort Reference Number" text="MolPort Reference Number" tablewidth="7" boxname="MolPort Reference Number" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:281,t:346,r:521,b:402" dtype="Fixed" text="MolPort Id" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:289,t:362,r:513,b:394" field="MolPort Id" text="MolPort Id" tablewidth="19" boxname="MolPort Id" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:281,t:410,r:521,b:466" dtype="Fixed" text="Catalog No_" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:289,t:426,r:513,b:458" field="Catalog No_" text="Catalog No_" tablewidth="10" boxname="Catalog No_" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:281,t:474,r:521,b:530" dtype="Fixed" text="Supplier" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:289,t:490,r:513,b:522" field="Supplier" text="Supplier" tablewidth="22" boxname="Supplier" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:281,t:538,r:521,b:594" dtype="Fixed" text="Box No_" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:289,t:554,r:513,b:586" field="Box No_" text="Box No_" tablewidth="7" boxname="Box No_" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:791,t:347,r:1031,b:403" dtype="Fixed" text="Box Row" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:799,t:363,r:1023,b:395" field="Box Row" text="Box Row" tablewidth="2" boxname="Box Row" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:791,t:411,r:1031,b:467" dtype="Fixed" text="Box Column" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:799,t:427,r:1023,b:459" field="Box Column" text="Box Column" tablewidth="7" boxname="Box Column" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:791,t:475,r:1031,b:531" dtype="Fixed" text="Quantity" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:799,t:491,r:1023,b:523" field="Quantity" text="Quantity" tablewidth="5" boxname="Quantity" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Frame" rect="l:791,t:539,r:1031,b:595" dtype="Fixed" text="OSM number" display="131"><font name="Arial" size="8" weight="0" color="10485760" italic="false" strikeout="false" underline="false"></font>
+</box>
+<box type="Data Box" rect="l:799,t:555,r:1023,b:587" field="OSM number" text="OSM number" tablewidth="8" boxname="OSM number" display="131"><font name="MS Sans Serif" size="8" weight="0" color="0" italic="false" strikeout="false" underline="false"></font>
+</box>
+</boxes>
+<tabs><tab name="Tab 1" viewtype="0"></tab>
+</tabs>
+<plots views="0"></plots>
+<filters></filters>
+<scripts></scripts>
+<connections dsn="OSM_database" tablename="MolTable" filename=".\OSM_database.mdb" mstname=".\OSM_database.mst" orasettings="4" tablesize="104"></connections>
+<queries></queries>
+<printing width="2100" height="2970" perpage="1" type="0" tmargin="254" bmargin="190" rmargin="254" lmargin="254" flags="0" units="1" orientation="1" scalepercent="100" papersize="9" duplex="1"></printing>
+</form>

@@ -1,0 +1,65 @@
+Log file opened on Wednesday, October 31, 2012, 11:36
+Importing SDFile C:\Users\Murray\Documents\Sydney\OSDD Malaria\SDF Data\OSM_compounds\OSM_Data_2D.sdf
+Appending to database C:\Users\Murray\Documents\Sydney\OSDD Malaria\SDF Data\OSM_compounds\OSM_database.mdb
+Database version: ChemFinder 12.0; Mst version: 74
+Starting at beginning -- line 1.
+Redundant reagents will only be stored once.
+A ChemDraw-style (CDX) version will only be stored where distinct from the ChemFinder version.
+
+SDFile Input Fields
+Structure      	type=Structure
+MolfileName    	type=Text(8)
+COMPOUND_ID    	type=Long
+OSM_ID         	type=Text(15)
+IC50_nM_Assay01	type=Text(20)
+Chemist_code   	type=Text(9)
+Mol Weight     	type=Double
+Mol Formula    	type=Text(12)
+MolPort Reference Number	type=Long
+MolPort Id     	type=Text(19)
+Catalog No_    	type=Text(10)
+Supplier       	type=Text(22)
+Box No_        	type=Long
+Box Row        	type=Text(2)
+Box Column     	type=Long
+Quantity       	type=Text(5)
+OSM number     	type=Text(8)
+
+Created column MolfileName: Text
+Created column COMPOUND_ID: Long
+Created column OSM_ID: Text
+Created column IC50_nM_Assay01: Text
+Created column Chemist_code: Text
+Created column Mol Weight: Double
+Created column Mol Formula: Text
+Created column MolPort Reference Number: Long
+Created column MolPort Id: Text
+Created column Catalog No_: Text
+Created column Supplier: Text
+Created column Box No_: Long
+Created column Box Row: Text
+Created column Box Column: Long
+Created column Quantity: Text
+Created column OSM number: Text
+Records found in input file: 104
+Structures in current database: 0
+Records in current database: 0
+Next available mol ID: 1
+-------------------------
+End of file reached
+Total import time: 0 secs, secs per record = 0.00
+
+     0 Errors, 0 distinct.
+     0 records existed at start of import.
+   104 records exist after import.
+   104 records were read from file.
+   104 records were created in database.
+   104 principal structures were created.
+     0 secondary structures were created.
+     0 input records were merged with preexisting ones.
+  Principal structures inhabit the "Structure" field in the
+  main table.  Secondary structures are catalysts and reagents,
+  which are visible only from secondary tables.
+
+Form file saved: C:\Users\Murray\Documents\Sydney\OSDD Malaria\SDF Data\OSM_compounds\OSM_database.CFX
+Log file closed on Wednesday, October 31, 2012, 11:36
