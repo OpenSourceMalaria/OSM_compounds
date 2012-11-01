@@ -19,7 +19,7 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 4	6	% inhibition	=	75		% at 60 uM			
 4	7	solubility	=	50-100		ug mL-1			
 4	8	solubility	=	50-100		ug mL-1			
-4	9	degradation	=	29		킠 min-1 mg-1 			
+4	9	degradation	=	29		uL min-1 mg-1 			
 4	10	half-life	=	59		min			
 4	11	composite descriptor		moderate					
 4	12	IC50	>	33		uM			
@@ -33,7 +33,7 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 5	6	IC50	=	0		nM			
 5	7	solubility	=	12.5-25		ug mL-1			
 5	8	solubility	=	12.5-25		ug mL-1			
-5	9	degradation	=	60		킠 min-1 mg-1 			
+5	9	degradation	=	60		uL min-1 mg-1 			
 5	10	half-life	=	29		min			
 5	11	composite descriptor		moderate					
 5	13	In Vivo		neg		at 50 mg kg-1			
@@ -50,7 +50,7 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 7	5	% inhibition	=	25		%			
 7	7	solubility	=	0-1.6		ug mL-1			
 7	8	solubility	=	0-1.6		ug mL-1			
-7	9	degradation	=	15-19		킠 min-1 mg-1 			
+7	9	degradation	=	15-19		uL min-1 mg-1 			
 7	10	half-life	=	92-113		min			
 7	11	composite descriptor		moderate					
 8	1	% inhibition	=	70		% at 120 uM			
@@ -95,7 +95,7 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 20	3	IC50	=	28		nM	3	3	
 20	7	solubility	=	0-1.6		ug mL-1			
 20	8	solubility	=	0-1.6		ug mL-1			
-20	9	degradation	<	7		킠 min-1 mg-1 			
+20	9	degradation	<	7		uL min-1 mg-1 			
 20	10	half-life	>	245		min			
 20	11	composite descriptor		low					
 21	1	IC50	=	2		nM			
@@ -104,7 +104,7 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 21	6	IC50	=	4		nM			
 21	7	solubility	=	0-1.6		ug mL-1			
 21	8	solubility	=	0-1.6		ug mL-1			
-21	9	degradation	<	7		킠 min-1 mg-1 			
+21	9	degradation	<	7		uL min-1 mg-1 			
 21	10	half-life	>	250		min			
 21	11	composite descriptor		low					
 22	1	IC50	=	1		nM			
@@ -113,7 +113,7 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 22	6	IC50	=	3		nM			
 22	7	solubility	=	0-1.6		ug mL-1			
 22	8	solubility	=	0-1.6		ug mL-1			
-22	9	degradation	<	7		킠 min-1 mg-1 			
+22	9	degradation	<	7		uL min-1 mg-1 			
 22	10	half-life	>	250		min			
 22	11	composite descriptor		low					
 23	1	IC50		Could not determine					
@@ -145,7 +145,7 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 31	3	IC50	=	276		nM	11	11	
 31	7	solubility	=	0-1.6		ug mL-1			
 31	8	solubility	=	0-1.6		ug mL-1			
-31	9	degradation	=	14		킠 min-1 mg-1 			
+31	9	degradation	=	14		uL min-1 mg-1 			
 31	10	half-life	=	121		min			
 31	11	composite descriptor		moderate					
 32	1	% inhibition	=	100		% at 100 uM			
