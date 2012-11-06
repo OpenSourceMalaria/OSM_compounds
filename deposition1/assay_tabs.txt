@@ -17,7 +17,7 @@ ASSAY_ID	REFERENCE_ID	ASSAY_DESCRIPTION	ASSAY_TYPE	ASSAY_TEST_TYPE	ASSAY_ORGANIS
 15	1	CSIR assay K1: Compounds were tested for inhibition of Plasmodium falciparum growth using a SYBR green I fluorescence based assay. 	F	In Vitro	plasmodium falciparum	K1	5839				ORGANISM			plasmodium falciparum			OSDDmalaria
 16	1	"Mouse Plasma stability: 500 ng/mL of test compound in male Swiss Outbred mouse plasma was incubated at 37 celcius. Samples taken at 2, 10, 30, 60, 120 and 240 min and analysed by LC/MS for loss of parent compound."	A	In Vitro	mus musculus	Swiss	10090	plasma			NONE			mus musculus			OSDDmalaria
 17	1	"Human Plasma stability: 500 ng/mL of test compound in human plasma (combined pool of 3 donors) was incubated at 37 celcius. Samples taken at 2, 10, 30, 60, 120 and 240 min and analysed by LC/MS for loss of parent compound."	A	In Vitro	homo sapiens		9606	plasma			NONE			homo sapiens			OSDDmalaria
-																	
+18	1	Compounds were tested for inhibition of Plasmodium falciparum 3D7 growth. % inhibition at 120 uM. Values determined from 21 point dose response curves. Avery Group Griffith. 	F	In Vitro	plasmodium falciparum	3D7	36329				ORGANISM			plasmodium falciparum	36329		OSDDmalaria
 																	
 																	
 																	
