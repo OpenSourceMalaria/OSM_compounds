@@ -35,24 +35,12 @@ M  END
 > <OSM_ID>
 OSM-S-1
 
-> <Sample_IDs>
+> <Sample_ID>
 PMY 1-1, PMY 1-2, PMY 1-3, PMY 1-4, PMY 1-5, PMY 1-6
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/1
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.2397725.html
-
-> <InChi>
-InChI=1S/C12H12FN/c1-9-3-4-10(2)14(9)12-7-5-11(13)6-8-12/h3-8H,1-2H3
-
-> <Smiles>
-Cc1ccc(C)n1c1ccc(cc1)F
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  16 17  0  0  0  0            999 V2000
     1.9206   -1.7688    0.7886 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -95,15 +83,15 @@ Molecule
 > <OSM_ID>
 OSM-S-2
 
-> <IC50_nM_Assay03_GSK>
->5000
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100,000
+
+> <Sample_ID>
+PMY 2-4
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  19 20  0  0  0  0            999 V2000
     5.3610    5.2335    0.9158 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -152,18 +140,15 @@ Molecule
 > <OSM_ID>
 OSM-S-3
 
-> <Sample_IDs>
-PMY 1-1, PMY 1-2, PMY 1-3, PMY 1-4, PMY 1-5, PMY 1-6
-
-> <IC50_nM_Assay03_GSK>
->5000
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 12000
+
+> <Sample_ID>
+PMY 6-1, JRC 1-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  17 18  0  0  0  0            999 V2000
     1.9509   -1.7378    0.7137 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -208,30 +193,15 @@ Molecule
 > <OSM_ID>
 OSM-S-4
 
-> <Sample_IDs>
-PMY 2-4
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/1
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.2397725.html
-
-> <InChi>
-InChI=1S/C12H12FN/c1-9-3-4-10(2)14(9)12-7-5-11(13)6-8-12/h3-8H,1-2H3
-
-> <Smiles>
-Cc1ccc(C)n1c1ccc(cc1)F
-
-> <IC50_nM_Assay03_GSK>
->5000
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100,000
+
+> <Sample_ID>
+PMY 8-2, JRC 2-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  21 22  0  0  0  0            999 V2000
     0.5975    2.6010    0.4260 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -284,33 +254,15 @@ Molecule
 > <OSM_ID>
 OSM-S-5
 
-> <Sample_IDs>
-PMY 6-1, JRC 1-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/14
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.827223.html
-
-> <InChi>
-InChI=1S/C13H12FNO/c1-9-7-11(8-16)10(2)15(9)13-5-3-12(14)4-6-13/h3-8H,1-2H3
-
-> <Smiles>
-Cc1cc(C=O)c(C)n1c1ccc(cc1)F
-
-> <IC50_nM_Assay03_GSK>
-818
-
-> <IC50_uM_hERG>
->33
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 404
+
+> <Sample_ID>
+PMY 10-2
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  35 38  0  0  0  0            999 V2000
    -3.8429    7.1921    0.4559 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -393,30 +345,15 @@ Molecule
 > <OSM_ID>
 OSM-S-6
 
-> <Sample_IDs>
-PMY 8-2, JRC 2-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/20
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.26285324.html
-
-> <InChi>
-InChI=1S/C15H16FNO2/c1-4-19-15(18)14-9-10(2)17(11(14)3)13-7-5-12(16)6-8-13/h5-9H,4H2,1-3H3
-
-> <Smiles>
-CCOC(=O)c1cc(C)n(c1C)c1ccc(cc1)F
-
-> <IC50_nM_Assay03_GSK>
-245
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 345
+
+> <Sample_ID>
+PMY 11-2
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  32 35  0  0  0  0            999 V2000
    17.6958  -40.6723   -0.1277 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -493,33 +430,15 @@ Molecule
 > <OSM_ID>
 OSM-S-7
 
-> <Sample_IDs>
-PMY 10-2
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/27
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.4187801.html
-
-> <InChi>
-InChI=1S/C13H12FNO2/c1-8-7-12(13(16)17)9(2)15(8)11-5-3-10(14)4-6-11/h3-7H,1-2H3,(H,16,17)
-
-> <Smiles>
-Cc1cc(c(C)n1c1ccc(cc1)F)C(=O)O
-
-> <IC50_nM_Assay02_Ralph>
->1000
-
-> <IC50_nM_Assay03_GSK>
->5000
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 7800
+
+> <Sample_ID>
+PMY 12-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  31 34  0  0  0  0            999 V2000
     9.8129  -24.2040   -0.0004 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -594,33 +513,15 @@ Molecule
 > <OSM_ID>
 OSM-S-8
 
-> <Sample_IDs>
-PMY 11-2
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/2b
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.1817204.html
-
-> <InChi>
-InChI=1S/C15H15FN2O3/c1-9-7-13(15(20)21-8-14(17)19)10(2)18(9)12-5-3-11(16)4-6-12/h3-7H,8H2,1-2H3,(H2,17,19)
-
-> <Smiles>
-Cc1cc(c(C)n1c1ccc(cc1)F)C(=O)OCC(=N)O
-
-> <IC50_nM_Assay02_Ralph>
->1000
-
-> <IC50_nM_Assay03_GSK>
->5000
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100,000
+
+> <Sample_ID>
+PMY 12-5
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  31 34  0  0  0  0            999 V2000
     3.8269    1.8638   -0.0027 F   0  0  0  0  0  0  0  0  0  1  0  0
@@ -695,30 +596,15 @@ Molecule
 > <OSM_ID>
 OSM-S-9
 
-> <Sample_IDs>
-PMY 12-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/2a
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.1769782.html
-
-> <InChi>
-InChI=1S/C26H25FN4O4/c1-16-14-22(17(2)30(16)20-12-10-19(27)11-13-20)26(34)35-15-23(32)28-24-18(3)29(4)31(25(24)33)21-8-6-5-7-9-21/h5-14H,15H2,1-4H3,(H,28,32)
-
-> <Smiles>
-Cc1cc(c(C)n1c1ccc(cc1)F)C(=O)OCC(=Nc1c(C)n(C)n(c2ccccc2)c1=O)O
-
-> <IC50_nM_Assay03_GSK>
-46.5
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 47
+
+> <Sample_ID>
+PMY 14-1, PMY 35-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  28 31  0  0  0  0            999 V2000
    -0.1525    3.5390   -0.1100 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -787,27 +673,15 @@ Molecule
 > <OSM_ID>
 OSM-S-10
 
-> <Sample_IDs>
-PMY 12-5
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/30
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C26H34FN3O2/c1-18-17-24(19(2)29(18)23-15-13-20(27)14-16-23)25(31)30(22-11-7-4-8-12-22)26(32)28-21-9-5-3-6-10-21/h13-17,21-22H,3-12H2,1-2H3,(H,28,32)
-
-> <Smiles>
-Cc1cc(c(C)n1c1ccc(cc1)F)C(=O)N(C1CCCCC1)C(=NC1CCCCC1)O
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 176
+
+> <Sample_ID>
+PMY 14-3-A, PMY 14-4, PMY 16-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  16 17  0  0  0  0            999 V2000
    13.0699  -31.3954   -0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -850,24 +724,12 @@ Molecule
 > <OSM_ID>
 OSM-S-11
 
-> <Sample_IDs>
-PMY 14-1, PMY 35-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/65
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C24H23FN4O2/c1-15-14-21(16(2)28(15)19-12-10-18(25)11-13-19)23(30)26-22-17(3)27(4)29(24(22)31)20-8-6-5-7-9-20/h5-14H,1-4H3,(H,26,30)
-
-> <Smiles>
-Cc1cc(c(C)n1c1ccc(cc1)F)C(=Nc1c(C)n(C)n(c2ccccc2)c1=O)O
+> <Sample_ID>
+PMY 18-3, PMY 15-2
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  16 17  0  0  0  0            999 V2000
     0.8633    2.5980    0.0000 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -910,27 +772,15 @@ Molecule
 > <OSM_ID>
 OSM-S-12
 
-> <Sample_IDs>
-PMY 14-3-A, PMY 14-4, PMY 16-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/33
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C24H20FN3O2S/c1-15-13-18(16(2)27(15)21-11-9-19(25)10-12-21)14-22-23(30)26-24(31-22)28(17(3)29)20-7-5-4-6-8-20/h4-14H,1-3H3/b22-14-
-
-> <Smiles>
-FC1=CC=C(N2C(C)=CC(/C=C3SC(N(C(C)=O)C4=CC=CC=C4)=NC\3=O)=C2C)C=C1
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100,000
+
+> <Sample_ID>
+PMY 20-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  17 18  0  0  0  0            999 V2000
     5.9787    2.3111    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -975,27 +825,15 @@ Molecule
 > <OSM_ID>
 OSM-S-13
 
-> <Sample_IDs>
-PMY 18-3, PMY 15-2
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/41
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.1033652.html
-
-> <InChi>
-InChI=1S/C22H18FN3OS/c1-14-12-16(15(2)26(14)19-10-8-17(23)9-11-19)13-20-21(27)25-22(28-20)24-18-6-4-3-5-7-18/h3-13H,1-2H3,(H,24,25,27)/b20-13-
-
-> <Smiles>
-Cc1cc(/C=C\2/C(=NC(=Nc3ccccc3)S2)O)c(C)n1c1ccc(cc1)F
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100,000
+
+> <Sample_ID>
+PMY 21-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  20 21  0  0  0  0            999 V2000
     1.1630    2.7602   -0.0330 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1046,27 +884,15 @@ Molecule
 > <OSM_ID>
 OSM-S-14
 
-> <Sample_IDs>
-PMY 20-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/38
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.781885.html
-
-> <InChi>
-InChI=1S/C13H14FNO/c1-9-7-11(8-16)10(2)15(9)13-5-3-12(14)4-6-13/h3-7,16H,8H2,1-2H3
-
-> <Smiles>
-Cc1cc(CO)c(C)n1c1ccc(cc1)F
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100,000
+
+> <Sample_ID>
+PMY 22-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  13 13  0  0  0  0            999 V2000
    19.7827  -17.9834    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1102,24 +928,12 @@ Molecule
 > <OSM_ID>
 OSM-S-15
 
-> <Sample_IDs>
-PMY 21-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/42
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.258535.html
-
-> <InChi>
-InChI=1S/C13H13NO2/c1-9-8-12(13(15)16)10(2)14(9)11-6-4-3-5-7-11/h3-8H,1-2H3,(H,15,16)
-
-> <Smiles>
-Cc1cc(c(C)n1c1ccccc1)C(=O)O
+> <Sample_ID>
+PMY 26-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  27 29  0  0  0  0            999 V2000
     7.1680   -2.9938   -2.3229 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1185,30 +999,15 @@ Molecule
 > <OSM_ID>
 OSM-S-16
 
-> <Sample_IDs>
-PMY 22-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/43
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.662663.html
-
-> <InChi>
-InChI=1S/C14H15NO2/c1-9-4-6-12(7-5-9)15-10(2)8-13(11(15)3)14(16)17/h4-8H,1-3H3,(H,16,17)
-
-> <Smiles>
-Cc1ccc(cc1)n1c(C)cc(c1C)C(=O)O
-
-> <IC50_nM_Assay03_GSK>
->5000
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100,000
+
+> <Sample_ID>
+PMY 27-2
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  26 27  0  0  0  0            999 V2000
    28.5224  -18.9275    0.3943 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1271,24 +1070,12 @@ Molecule
 > <OSM_ID>
 OSM-S-17
 
-> <Sample_IDs>
-PMY 26-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/44
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C14H12F3NO2/c1-8-7-12(13(19)20)9(2)18(8)11-5-3-10(4-6-11)14(15,16)17/h3-7H,1-2H3,(H,19,20)
-
-> <Smiles>
-Cc1cc(c(C)n1c1ccc(cc1)C(F)(F)F)C(=O)O
+> <Sample_ID>
+PMY 29-1, PMY 29-2
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  19 20  0  0  0  0            999 V2000
    29.1461  -17.9926    0.0033 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1337,24 +1124,12 @@ Molecule
 > <OSM_ID>
 OSM-S-18
 
-> <Sample_IDs>
-PMY 27-2
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/5e
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.451.html
-
-> <InChi>
-InChI=1S/C9H9NO3/c11-8(12)6-10-9(13)7-4-2-1-3-5-7/h1-5H,6H2,(H,10,13)(H,11,12)
-
-> <Smiles>
-c1ccc(cc1)C(=NCC(=O)O)O
+> <Sample_ID>
+PMY 30-3
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  21 22  0  0  0  0            999 V2000
     0.7808    2.8242    0.0551 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1407,33 +1182,15 @@ Molecule
 > <OSM_ID>
 OSM-S-19
 
-> <Sample_IDs>
-PMY 29-1, PMY 29-2
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/75
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.49411.html
-
-> <InChi>
-InChI=1S/C20H20N4O3/c1-14-18(20(27)24(23(14)2)16-11-7-4-8-12-16)22-17(25)13-21-19(26)15-9-5-3-6-10-15/h3-12H,13H2,1-2H3,(H,21,26)(H,22,25)
-
-> <Smiles>
-Cc1c(c(=O)n(c2ccccc2)n1C)N=C(CN=C(c1ccccc1)O)O
-
-> <IC50_nM_Assay02_Ralph>
->1000
-
-> <IC50_nM_Assay03_GSK>
->5000
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
+
+> <Sample_ID>
+PMY 31-5
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  17 18  0  0  0  0            999 V2000
    26.7178  -39.1434    0.0003 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1478,24 +1235,12 @@ Molecule
 > <OSM_ID>
 OSM-S-20
 
-> <Sample_IDs>
-PMY 30-3
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/6c
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C18H24N4O4/c1-12-15(20-14(23)11-19-17(25)26-18(2,3)4)16(24)22(21(12)5)13-9-7-6-8-10-13/h6-10H,11H2,1-5H3,(H,19,25)(H,20,23)
-
-> <Smiles>
-Cc1c(c(=O)n(c2ccccc2)n1C)N=C(CN=C(O)OC(C)(C)C)O
+> <Sample_ID>
+PMY 32-3
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  35 38  0  0  0  0            999 V2000
    11.4612  -27.1678   -0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1578,33 +1323,15 @@ Molecule
 > <OSM_ID>
 OSM-S-21
 
-> <Sample_IDs>
-PMY 31-5
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/8d
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.2332829.html
-
-> <InChi>
-InChI=1S/C13H16N4O2/c1-9-12(15-11(18)8-14)13(19)17(16(9)2)10-6-4-3-5-7-10/h3-7H,8,14H2,1-2H3,(H,15,18)
-
-> <Smiles>
-Cc1c(c(=O)n(c2ccccc2)n1C)N=C(CN)O
-
-> <IC50_nM_Assay02_Ralph>
->1000
-
-> <IC50_nM_Assay03_GSK>
->5000
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 31000
+
+> <Sample_ID>
+PMY 34-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  17 18  0  0  0  0            999 V2000
    12.1561  -34.7416   -0.0003 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1649,24 +1376,12 @@ Molecule
 > <OSM_ID>
 OSM-S-22
 
-> <Sample_IDs>
-PMY 32-3
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/8e
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C15H16FN3O2/c1-9-7-13(15(21)18-8-14(17)20)10(2)19(9)12-5-3-11(16)4-6-12/h3-7H,8H2,1-2H3,(H2,17,20)(H,18,21)
-
-> <Smiles>
-Cc1cc(c(C)n1c1ccc(cc1)F)C(=NCC(=N)O)O
+> <Sample_ID>
+PMY 42-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  17 18  0  0  0  0            999 V2000
    12.3116  -34.6922    0.0023 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1711,24 +1426,12 @@ Molecule
 > <OSM_ID>
 OSM-S-23
 
-> <Sample_IDs>
-PMY 34-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/bd
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C13H11ClFNO/c1-8-7-12(13(14)17)9(2)16(8)11-5-3-10(15)4-6-11/h3-7H,1-2H3
-
-> <Smiles>
-Cc1cc(c(C)n1c1ccc(cc1)F)C(=O)Cl
+> <Sample_ID>
+PMY 43-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  15 16  0  0  0  0            999 V2000
    12.2366  -34.7597    0.0009 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1769,24 +1472,12 @@ Molecule
 > <OSM_ID>
 OSM-S-24
 
-> <Sample_IDs>
-PMY 42-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/8f
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C26H26FN5O3/c1-16-14-22(17(2)31(16)20-12-10-19(27)11-13-20)25(34)28-15-23(33)29-24-18(3)30(4)32(26(24)35)21-8-6-5-7-9-21/h5-14H,15H2,1-4H3,(H,28,34)(H,29,33)
-
-> <Smiles>
-Cc1cc(c(C)n1c1ccc(cc1)F)C(=NCC(=Nc1c(C)n(C)n(c2ccccc2)c1=O)O)O
+> <Sample_ID>
+PMY 44-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  13 14  0  0  0  0            999 V2000
    12.1166  -34.8065    0.0006 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1823,24 +1514,12 @@ Molecule
 > <OSM_ID>
 OSM-S-25
 
-> <Sample_IDs>
-PMY 43-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/bf
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C13H11ClFNO/c1-8-7-12(13(14)17)9(2)16(8)11-5-3-10(15)4-6-11/h3-7H,1-2H3
-
-> <Smiles>
-Cc1cc(c(C)n1c1ccc(cc1)F)C(=O)Cl
+> <Sample_ID>
+LMW 1-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  14 15  0  0  0  0            999 V2000
    12.0686  -34.8455    0.0007 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1879,24 +1558,12 @@ Molecule
 > <OSM_ID>
 OSM-S-26
 
-> <Sample_IDs>
-PMY 44-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/c0
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.87287.html
-
-> <InChi>
-InChI=1S/C13H14N2O2/c1-3-17-13(16)12-9-14-15(10(12)2)11-7-5-4-6-8-11/h4-9H,3H2,1-2H3
-
-> <Smiles>
-CCOC(=O)c1cnn(c1C)c1ccccc1
+> <Sample_ID>
+LMW 2-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  17 18  0  0  0  0            999 V2000
    11.8348  -34.9821    0.0304 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1941,24 +1608,12 @@ Molecule
 > <OSM_ID>
 OSM-S-27
 
-> <Sample_IDs>
-LMW 1-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/c4
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.128103.html
-
-> <InChi>
-InChI=1S/C11H10N2O2/c1-8-10(11(14)15)7-12-13(8)9-5-3-2-4-6-9/h2-7H,1H3,(H,14,15)
-
-> <Smiles>
-Cc1c(cnn1c1ccccc1)C(=O)O
+> <Sample_ID>
+LMW 3-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  15 16  0  0  0  0            999 V2000
     0.9412    2.6332    0.0008 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1999,27 +1654,15 @@ Molecule
 > <OSM_ID>
 OSM-S-28
 
-> <Sample_IDs>
-LMW 2-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/4c
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.59889.html
-
-> <InChi>
-InChI=1S/C12H13N/c1-10-8-9-11(2)13(10)12-6-4-3-5-7-12/h3-9H,1-2H3
-
-> <Smiles>
-Cc1ccc(C)n1c1ccccc1
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
+
+> <Sample_ID>
+LMW 4-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  16 17  0  0  0  0            999 V2000
     5.8946    2.2774    0.0008 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2062,27 +1705,15 @@ Molecule
 > <OSM_ID>
 OSM-S-29
 
-> <Sample_IDs>
-LMW 3-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/4b
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.1468275.html
-
-> <InChi>
-InChI=1S/C13H15N/c1-10-4-8-13(9-5-10)14-11(2)6-7-12(14)3/h4-9H,1-3H3
-
-> <Smiles>
-Cc1ccc(cc1)n1c(C)ccc1C
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 could not determine
+
+> <Sample_ID>
+LMW 5-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  19 20  0  0  0  0            999 V2000
     5.3643    5.2412    0.9143 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2131,27 +1762,15 @@ Molecule
 > <OSM_ID>
 OSM-S-30
 
-> <Sample_IDs>
-LMW 4-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/4a
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.2018770.html
-
-> <InChi>
-InChI=1S/C13H12F3N/c1-9-3-4-10(2)17(9)12-7-5-11(6-8-12)13(14,15)16/h3-8H,1-2H3
-
-> <Smiles>
-Cc1ccc(C)n1c1ccc(cc1)C(F)(F)F
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
+
+> <Sample_ID>
+LMW 6-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  18 19  0  0  0  0            999 V2000
     5.2740    5.1861    0.9066 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2198,27 +1817,15 @@ Molecule
 > <OSM_ID>
 OSM-S-31
 
-> <Sample_IDs>
-LMW 5-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/4d
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.59886.html
-
-> <InChi>
-InChI=1S/C13H13NO/c1-10-8-12(9-15)11(2)14(10)13-6-4-3-5-7-13/h3-9H,1-2H3
-
-> <Smiles>
-Cc1cc(C=O)c(C)n1c1ccccc1
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
+
+> <Sample_ID>
+LMW 8-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  22 23  0  0  0  0            999 V2000
     5.5553    5.4224    0.8989 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2273,27 +1880,15 @@ Molecule
 > <OSM_ID>
 OSM-S-32
 
-> <Sample_IDs>
-LMW 6-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/4e
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.714789.html
-
-> <InChi>
-InChI=1S/C14H15NO/c1-10-4-6-14(7-5-10)15-11(2)8-13(9-16)12(15)3/h4-9H,1-3H3
-
-> <Smiles>
-Cc1ccc(cc1)n1c(C)cc(C=O)c1C
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
+
+> <Sample_ID>
+LMW 9-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  21 22  0  0  0  0            999 V2000
    11.7475  -35.0705   -0.1407 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2346,24 +1941,12 @@ Molecule
 > <OSM_ID>
 OSM-S-33
 
-> <Sample_IDs>
-LMW 8-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/4f
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.27420182.html
-
-> <InChi>
-InChI=1S/C16H19NO2/c1-5-19-16(18)15-10-12(3)17(13(15)4)14-8-6-11(2)7-9-14/h6-10H,5H2,1-4H3
-
-> <Smiles>
-CCOC(=O)c1cc(C)n(c1C)c1ccc(C)cc1
+> <Sample_ID>
+ZYH 1-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  19 20  0  0  0  0            999 V2000
    11.9155  -34.8971    0.0252 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2412,24 +1995,12 @@ Molecule
 > <OSM_ID>
 OSM-S-34
 
-> <Sample_IDs>
-LMW 9-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/50
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.2023706.html
-
-> <InChi>
-InChI=1S/C15H17NO2/c1-4-18-15(17)14-10-11(2)16(12(14)3)13-8-6-5-7-9-13/h5-10H,4H2,1-3H3
-
-> <Smiles>
-CCOC(=O)c1cc(C)n(c1C)c1ccccc1
+> <Sample_ID>
+ZYH 2-2
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  27 30  0  0  0  0            999 V2000
    -0.1720    3.5819   -0.0921 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2496,36 +2067,15 @@ Molecule
 > <OSM_ID>
 OSM-S-35
 
-> <Sample_IDs>
-ZYH 1-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/51
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.26282671.html
-
-> <InChi>
-InChI=1S/C16H16F3NO2/c1-4-22-15(21)14-9-10(2)20(11(14)3)13-7-5-12(6-8-13)16(17,18)19/h5-9H,4H2,1-3H3
-
-> <Smiles>
-CCOC(=O)c1cc(C)n(c1C)c1ccc(cc1)C(F)(F)F
-
-> <IC50_nM_Assay02_Ralph>
-10.9
-
-> <IC50_nM_Assay03_GSK>
-36
-
-> <IC50_uM_hERG>
->33
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 26
+
+> <Sample_ID>
+ZYH 3-1, PMY 47-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  23 24  0  0  0  0            999 V2000
    11.8944  -35.5839   -0.0844 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2582,24 +2132,12 @@ Molecule
 > <OSM_ID>
 OSM-S-36
 
-> <Sample_IDs>
-ZYH 2-2
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/52
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.1409714.html
-
-> <InChi>
-InChI=1S/C14H11F6N/c1-8-3-4-9(2)21(8)12-6-10(13(15,16)17)5-11(7-12)14(18,19)20/h3-7H,1-2H3
-
-> <Smiles>
-Cc1ccc(C)n1c1cc(cc(c1)C(F)(F)F)C(F)(F)F
+> <Sample_ID>
+ZYH 4-2/4-3
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  28 31  0  0  0  0            999 V2000
     6.9696    2.5415    0.0050 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2668,33 +2206,15 @@ Molecule
 > <OSM_ID>
 OSM-S-37
 
-> <Sample_IDs>
-ZYH 3-1, PMY 47-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/58
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.2061700.html
-
-> <InChi>
-InChI=1S/C14H12F3NO/c1-9-7-11(8-19)10(2)18(9)13-5-3-12(4-6-13)14(15,16)17/h3-8H,1-2H3
-
-> <Smiles>
-Cc1cc(C=O)c(C)n1c1ccc(cc1)C(F)(F)F
-
-> <IC50_nM_Assay02_Ralph>
-9.2
-
-> <IC50_nM_Assay03_GSK>
-28
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 15
+
+> <Sample_ID>
+ZYH 5-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  31 34  0  0  0  0            999 V2000
    -0.0043    3.3934    0.5783 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2769,33 +2289,15 @@ Molecule
 > <OSM_ID>
 OSM-S-38
 
-> <Sample_IDs>
-ZYH 4-2/4-3
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/54
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.4780684.html
-
-> <InChi>
-InChI=1S/C22H19N3OS/c1-15-13-17(16(2)25(15)19-11-7-4-8-12-19)14-20-21(26)24-22(27-20)23-18-9-5-3-6-10-18/h3-14H,1-2H3,(H,23,24,26)/b20-14-
-
-> <Smiles>
-Cc1cc(/C=C\2/C(=NC(=Nc3ccccc3)S2)O)c(C)n1c1ccccc1
-
-> <IC50_nM_Assay02_Ralph>
-205
-
-> <IC50_nM_Assay03_GSK>
-29
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 2
+
+> <Sample_ID>
+ZYH 6-1/6-2
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  35 38  0  0  0  0            999 V2000
     0.1115    3.2919   -0.6447 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2878,33 +2380,15 @@ Molecule
 > <OSM_ID>
 OSM-S-39
 
-> <Sample_IDs>
-ZYH 5-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/near_neighbours/1140/Preparation_of_25dimethyl135bistrifluoromethylphenyl1Hpyrrole3carbaldehyde_ZYH_42.html
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C15H11F6NO/c1-8-3-10(7-23)9(2)22(8)13-5-11(14(16,17)18)4-12(6-13)15(19,20)21/h3-7H,1-2H3
-
-> <Smiles>
-Cc1cc(C=O)c(C)n1c1cc(cc(c1)C(F)(F)F)C(F)(F)F
-
-> <IC50_nM_Assay02_Ralph>
-4.7
-
-> <IC50_nM_Assay03_GSK>
-7
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 0.78
+
+> <Sample_ID>
+ZYH 7-2
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  18 19  0  0  0  0            999 V2000
    11.8223  -35.6489    0.0005 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2951,24 +2435,12 @@ Molecule
 > <OSM_ID>
 OSM-S-40
 
-> <Sample_IDs>
-ZYH 6-1/6-2
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/56
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C23H21N3OS/c1-15-9-11-20(12-10-15)26-16(2)13-18(17(26)3)14-21-22(27)25-23(28-21)24-19-7-5-4-6-8-19/h4-14H,1-3H3,(H,24,25,27)/b21-14-
-
-> <Smiles>
-Cc1ccc(cc1)n1c(C)cc(/C=C\2/C(=NC(=Nc3ccccc3)S2)O)c1C
+> <Sample_ID>
+ZYH 8-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  13 14  0  0  0  0            999 V2000
    12.1407  -35.5620    0.0004 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3005,24 +2477,12 @@ Molecule
 > <OSM_ID>
 OSM-S-41
 
-> <Sample_IDs>
-ZYH 7-2
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/near_neighbours/1167/Synthesis_of_ptrifluoromethyl_arylpyrrole_based_nearneighbour_analogue__ZYH_61.html
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C23H18F3N3OS/c1-14-12-16(15(2)29(14)19-10-8-17(9-11-19)23(24,25)26)13-20-21(30)28-22(31-20)27-18-6-4-3-5-7-18/h3-13H,1-2H3,(H,27,28,30)/b20-13-
-
-> <Smiles>
-Cc1cc(/C=C\2/C(=NC(=Nc3ccccc3)S2)O)c(C)n1c1ccc(cc1)C(F)(F)F
+> <Sample_ID>
+ZYH 9-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  34 37  0  0  0  0            999 V2000
    -0.2522    3.4907   -0.0009 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3103,33 +2563,15 @@ Molecule
 > <OSM_ID>
 OSM-S-42
 
-> <Sample_IDs>
-ZYH 8-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/64
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C24H17F6N3OS/c1-13-8-15(9-20-21(34)32-22(35-20)31-18-6-4-3-5-7-18)14(2)33(13)19-11-16(23(25,26)27)10-17(12-19)24(28,29)30/h3-12H,1-2H3,(H,31,32,34)/b20-9-
-
-> <Smiles>
-Cc1cc(/C=C\2/C(=NC(=Nc3ccccc3)S2)O)c(C)n1c1cc(cc(c1)C(F)(F)F)C(F)(F)F
-
-> <IC50_nM_Assay02_Ralph>
->1000
-
-> <IC50_nM_Assay03_GSK>
->5000
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 could not dertermine
+
+> <Sample_ID>
+ZYH 10-1 A
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  34 37  0  0  0  0            999 V2000
     0.4705   -3.5767   -0.0012 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3210,33 +2652,15 @@ Molecule
 > <OSM_ID>
 OSM-S-43
 
-> <Sample_IDs>
-ZYH 9-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/5f
-
-> <ChemSpider_ID>
-http://www.chemspider.com/Chemical-Structure.611947.html
-
-> <InChi>
-InChI=1S/C15H17NO2/c1-4-18-15(17)13-7-9-14(10-8-13)16-11(2)5-6-12(16)3/h5-10H,4H2,1-3H3
-
-> <Smiles>
-CCOC(=O)c1ccc(cc1)n1c(C)ccc1C
-
-> <IC50_nM_Assay02_Ralph>
->1000
-
-> <IC50_nM_Assay03_GSK>
->5000
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 3120
+
+> <Sample_ID>
+ZYH 10-1 B
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  15 16  0  0  0  0            999 V2000
    12.1857  -35.5087    0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3277,24 +2701,12 @@ Molecule
 > <OSM_ID>
 OSM-S-44
 
-> <Sample_IDs>
-ZYH 10-1 A
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/60
-
-> <ChemSpider_ID>
-http://www.chemspider.com/Chemical-Structure.4481626.html
-
-> <InChi>
-InChI=1S/C11H12N2/c1-9-6-7-10(2)13(9)11-5-3-4-8-12-11/h3-8H,1-2H3
-
-> <Smiles>
-Cc1ccc(C)n1c1ccccn1
+> <Sample_ID>
+ZYH 11-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  34 37  0  0  0  0            999 V2000
     7.5037    1.9038    0.1298 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3375,33 +2787,15 @@ Molecule
 > <OSM_ID>
 OSM-S-45
 
-> <Sample_IDs>
-ZYH 10-1 B
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/61
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C25H19F3N4OS/c1-16-14-18(17(2)32(16)21-10-8-19(9-11-21)25(26,27)28)15-22-23(33)30-24(34-22)31(13-12-29)20-6-4-3-5-7-20/h3-11,14-15H,13H2,1-2H3/b22-15-
-
-> <Smiles>
-Cc1cc(/C=C\2/C(=O)N=C(N(CC#N)c3ccccc3)S2)c(C)n1c1ccc(cc1)C(F)(F)F
-
-> <IC50_nM_Assay02_Ralph>
-7.7
-
-> <IC50_nM_Assay03_GSK>
-26
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 12
+
+> <Sample_ID>
+ZYH 12-1/12-2
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  20 21  0  0  0  0            999 V2000
    11.8768  -35.5676   -0.0006 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3452,24 +2846,12 @@ Molecule
 > <OSM_ID>
 OSM-S-46
 
-> <Sample_IDs>
-ZYH 11-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/61
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C25H19F3N4OS/c1-16-14-18(17(2)32(16)21-10-8-19(9-11-21)25(26,27)28)15-22-23(33)31(13-12-29)24(34-22)30-20-6-4-3-5-7-20/h3-11,14-15H,13H2,1-2H3/b22-15-,30-24-
-
-> <Smiles>
-Cc1cc(/C=C\2/C(=O)N(CC#N)/C(=N/c3ccccc3)/S2)c(C)n1c1ccc(cc1)C(F)(F)F
+> <Sample_ID>
+ZYH 13-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  19 21  0  0  0  0            999 V2000
    27.7011  -21.6173   -0.0006 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3519,24 +2901,12 @@ Molecule
 > <OSM_ID>
 OSM-S-47
 
-> <Sample_IDs>
-ZYH 12-1/12-2
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/67
-
-> <ChemSpider_ID>
-http://www.chemspider.com/Chemical-Structure.846831.html
-
-> <InChi>
-InChI=1S/C12H12N2O/c1-9-7-11(8-15)10(2)14(9)12-5-3-4-6-13-12/h3-8H,1-2H3
-
-> <Smiles>
-Cc1cc(C=O)c(C)n1c1ccccn1
+> <Sample_ID>
+ZYH 14-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  32 35  0  0  0  0            999 V2000
     9.8647    1.0958    0.0005 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3613,30 +2983,15 @@ Molecule
 > <OSM_ID>
 OSM-S-48
 
-> <Sample_IDs>
-ZYH 13-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/74
-
-> <InChi>
-InChI=1S/C25H20F3N3O2S/c1-15-13-18(16(2)30(15)21-11-9-19(10-12-21)25(26,27)28)14-22-23(33)29-24(34-22)31(17(3)32)20-7-5-4-6-8-20/h4-14H,1-3H3/b22-14-
-
-> <Smiles>
-O=C1N=C(N(C(C)=O)C2=CC=CC=C2)S/C1=C\C3=C(C)N(C(C)=C3)C4=CC=C(C(F)(F)F)C=C4
-
-> <IC50_nM_Assay02_Ralph>
-338.9
-
-> <IC50_nM_Assay03_GSK>
-267
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 169
+
+> <Sample_ID>
+ZYH 15-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  30 33  0  0  0  0            999 V2000
     7.2492    1.7861   -0.0450 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3709,33 +3064,15 @@ Molecule
 > <OSM_ID>
 OSM-S-49
 
-> <Sample_IDs>
-ZYH 14-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/69
-
-> <ChemSpider_ID>
-http://www.chemspider.com/Chemical-Structure.523156.html
-
-> <InChi>
-InChI=1S/C16H17NO3/c1-4-20-16(19)13-5-7-15(8-6-13)17-11(2)9-14(10-18)12(17)3/h5-10H,4H2,1-3H3
-
-> <Smiles>
-CCOC(=O)c1ccc(cc1)n1c(C)cc(C=O)c1C
-
-> <IC50_nM_Assay02_Ralph>
-27.6
-
-> <IC50_nM_Assay03_GSK>
-85
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 63
+
+> <Sample_ID>
+ZYH 16-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  31 34  0  0  0  0            999 V2000
     7.3380    1.8243   -0.0436 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3810,33 +3147,15 @@ Molecule
 > <OSM_ID>
 OSM-S-50
 
-> <Sample_IDs>
-ZYH 15-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/70
-
-> <ChemSpider_ID>
-http://www.chemspider.com/Chemical-Structure.1065422.html
-
-> <InChi>
-InChI=1S/C15H12N2OS/c18-14-11-19-15(16-12-7-3-1-4-8-12)17(14)13-9-5-2-6-10-13/h1-10H,11H2/b16-15-
-
-> <Smiles>
-c1ccc(cc1)/N=C\1/N(c2ccccc2)C(=O)CS1
-
-> <IC50_nM_Assay02_Ralph>
-156
-
-> <IC50_nM_Assay03_GSK>
-25
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 326
+
+> <Sample_ID>
+ZYH 17-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  27 30  0  0  0  0            999 V2000
    -0.2484    3.4588   -0.0940 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3903,33 +3222,15 @@ Molecule
 > <OSM_ID>
 OSM-S-51
 
-> <Sample_IDs>
-ZYH 16-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/71
-
-> <ChemSpider_ID>
-http://www.chemspider.com/Chemical-Structure.13013200.html
-
-> <InChi>
-InChI=1S/C25H23N3O3S/c1-4-31-24(30)18-10-12-21(13-11-18)28-16(2)14-19(17(28)3)15-22-23(29)27-25(32-22)26-20-8-6-5-7-9-20/h5-15H,4H2,1-3H3,(H,26,27,29)/b22-15-
-
-> <Smiles>
-CCOC(=O)c1ccc(cc1)n1c(C)cc(/C=C\2/C(=NC(=Nc3ccccc3)S2)O)c1C
-
-> <IC50_nM_Assay02_Ralph>
-442.4
-
-> <IC50_nM_Assay03_GSK>
-309
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 307
+
+> <Sample_ID>
+ZYH 18-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  37 41  0  0  0  0            999 V2000
    -0.3272   -3.4468    0.4952 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4017,33 +3318,15 @@ Molecule
 > <OSM_ID>
 OSM-S-52
 
-> <Sample_IDs>
-ZYH 17-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/77
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C24H21N3O2S/c1-16-14-19(17(2)26(16)20-10-6-4-7-11-20)15-22-23(29)25-24(30-22)27(18(3)28)21-12-8-5-9-13-21/h4-15H,1-3H3/b22-15-
-
-> <Smiles>
-O=C1N=C(N(C(C)=O)C2=CC=CC=C2)S/C1=C\C3=C(C)N(C(C)=C3)C4=CC=CC=C4
-
-> <IC50_nM_Assay02_Ralph>
-484.7
-
-> <IC50_nM_Assay03_GSK>
-372
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 54
+
+> <Sample_ID>
+ZYH 19-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  13 13  0  0  0  0            999 V2000
    24.9258  -36.1119   -0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4079,24 +3362,12 @@ Molecule
 > <OSM_ID>
 OSM-S-53
 
-> <Sample_IDs>
-ZYH 18-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/78
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C25H23N3O2S/c1-16-10-12-22(13-11-16)27-17(2)14-20(18(27)3)15-23-24(30)26-25(31-23)28(19(4)29)21-8-6-5-7-9-21/h5-15H,1-4H3/b23-15-
-
-> <Smiles>
-O=C1N=C(N(C(C)=O)C2=CC=CC=C2)S/C1=C\C3=C(C)N(C(C)=C3)C4=CC=C(C)C=C4
+> <Sample_ID>
+ZYH 20-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  36 40  0  0  0  0            999 V2000
    -0.3604    3.5055    0.1854 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4182,33 +3453,15 @@ Molecule
 > <OSM_ID>
 OSM-S-54
 
-> <Sample_IDs>
-ZYH 19-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/79
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C21H18N4OS/c1-14-12-16(15(2)25(14)19-10-6-7-11-22-19)13-18-20(26)24-21(27-18)23-17-8-4-3-5-9-17/h3-13H,1-2H3,(H,23,24,26)/b18-13-
-
-> <Smiles>
-Cc1cc(/C=C\2/C(=NC(=Nc3ccccc3)S2)O)c(C)n1c1ccccn1
-
-> <IC50_nM_Assay02_Ralph>
-520.1
-
-> <IC50_nM_Assay03_GSK>
-276
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 34
+
+> <Sample_ID>
+ZYH 22-3
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  20 22  0  0  0  0            999 V2000
     3.3165    4.1216    0.0004 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4260,33 +3513,15 @@ Molecule
 > <OSM_ID>
 OSM-S-55
 
-> <Sample_IDs>
-ZYH 20-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/7a
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C29H22F3N3OS/c1-19-17-21(20(2)34(19)25-15-13-22(14-16-25)29(30,31)32)18-26-27(36)35(24-11-7-4-8-12-24)28(37-26)33-23-9-5-3-6-10-23/h3-18H,1-2H3/b26-18-,33-28-
-
-> <Smiles>
-Cc1cc(/C=C\2/C(=O)N(c3ccccc3)/C(=N/c3ccccc3)/S2)c(C)n1c1ccc(cc1)C(F)(F)F
-
-> <IC50_nM_Assay02_Ralph>
->1000
-
-> <IC50_nM_Assay03_GSK>
->5000
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
+
+> <Sample_ID>
+ZYH 23-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  21 22  0  0  0  0            999 V2000
    20.2984   -9.8956   -0.0814 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4339,27 +3574,15 @@ Molecule
 > <OSM_ID>
 OSM-S-56
 
-> <Sample_IDs>
-ZYH 22-3
+> <Sample_ID>
+JRC 12-4(a)
 
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/7b
-
-> <ChemSpider_ID>
-http://www.chemspider.com/Chemical-Structure.746274.html
-
-> <InChi>
-InChI=1S/C9H10N2OS/c1-7(12)10-9(13)11-8-5-3-2-4-6-8/h2-6H,1H3,(H2,10,11,12,13)
-
-> <Smiles>
-CC(=NC(=Nc1ccccc1)S)O
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 333
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  19 20  0  0  0  0            999 V2000
    12.4845  -32.9606    0.0035 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4408,27 +3631,15 @@ Molecule
 > <OSM_ID>
 OSM-S-57
 
-> <Sample_IDs>
-ZYH 23-1
+> <Sample_ID>
+PMY 50-1
 
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/83
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C28H26F3N3OS/c1-18-16-20(19(2)33(18)24-14-12-21(13-15-24)28(29,30)31)17-25-26(35)34(23-10-6-7-11-23)27(36-25)32-22-8-4-3-5-9-22/h3-5,8-9,12-17,23H,6-7,10-11H2,1-2H3/b25-17-,32-27-
-
-> <Smiles>
-Cc1cc(/C=C\2/C(=O)N(C3CCCC3)/C(=N/c3ccccc3)/S2)c(C)n1c1ccc(cc1)C(F)(F)F
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  20 21  0  0  0  0            999 V2000
    26.1087   -7.7645    0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4479,27 +3690,15 @@ Molecule
 > <OSM_ID>
 OSM-S-58
 
-> <Sample_IDs>
-JRC 12-4(a)
+> <Sample_ID>
+PMY 38-5-B
 
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/85
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.1069675.html
-
-> <InChi>
-InChI=1S/C16H12N2OS/c19-15-14(11-12-7-3-1-4-8-12)20-16(18-15)17-13-9-5-2-6-10-13/h1-11H,(H,17,18,19)/b14-11-
-
-> <Smiles>
-c1ccc(cc1)/C=C\1/C(=NC(=Nc2ccccc2)S1)O
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  21 22  0  0  0  0            999 V2000
    26.1159   -7.7400    0.0000 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4552,27 +3751,15 @@ Molecule
 > <OSM_ID>
 OSM-S-59
 
-> <Sample_IDs>
-PMY 50-1
+> <Sample_ID>
+PMY 55-1
 
-> <Experiment_URL>
-http://malaria.ourexperiment.org/tasing/3284/Investigation_on_whether_benzylamine_or_4chloroNmethylaniline_can_couple_with_3chlorosulfonyl1dimethylcarbamoyl1H124triazole_JRC_124.html
-
-> <ChemSpider_ID>
-https://www.chemspider.com/Chemical-Structure.15995932.html?rid=a2f27a0f-8ab2-45dc-b772-76c0ac9d564e
-
-> <InChi>
-InChI=1S/C12H14ClN5O3S/c1-16(2)12(19)18-8-14-11(15-18)22(20,21)17(3)10-6-4-9(13)5-7-10/h4-8H,1-3H3
-
-> <Smiles>
-CN(C)C(=O)n1cnc(n1)S(=O)(=O)N(C)c2ccc(Cl)cc2
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  21 22  0  0  0  0            999 V2000
    26.1753   -7.9026    0.0461 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4625,24 +3812,15 @@ Molecule
 > <OSM_ID>
 OSM-S-60
 
-> <Sample_IDs>
-PMY 38-5-B
+> <Sample_ID>
+PMY 56-1
 
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/106
-
-> <InChi>
-InChI=1S/C13H13N3O3/c1-9-11(13(18)19-8-12(14)17)7-15-16(9)10-5-3-2-4-6-10/h2-7H,8H2,1H3,(H2,14,17)
-
-> <Smiles>
-O=C(OCC(N)=O)C1=C(C)N(N=C1)C2=CC=CC=C2
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  24 25  0  0  0  0            999 V2000
    25.2731   -7.6732   -0.0749 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4701,15 +3879,15 @@ Molecule
 > <OSM_ID>
 OSM-S-61
 
-> <Sample_IDs>
-PMY 55-1
+> <Sample_ID>
+PMY 57-1
 
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  23 25  0  0  0  0            999 V2000
    26.9912   -7.0866    5.7388 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4767,15 +3945,15 @@ Molecule
 > <OSM_ID>
 OSM-S-62
 
-> <Sample_IDs>
-PMY 56-1
+> <Sample_ID>
+PMY 58-1-A
 
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  23 25  0  0  0  0            999 V2000
    36.9959  -20.0934   -0.0399 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4833,12 +4011,12 @@ Molecule
 > <OSM_ID>
 OSM-S-63
 
-> <Sample_IDs>
-PMY 57-1
+> <IC50_nM_Assay01>
+>100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  15 17  0  0  0  0            999 V2000
    20.5656   -7.8758   -0.0701 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4880,15 +4058,15 @@ Molecule
 > <OSM_ID>
 OSM-S-64
 
-> <Sample_IDs>
-PMY 58-1-A
+> <Sample_ID>
+JRC 17-1
 
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  11 12  0  0  0  0            999 V2000
    18.8282   -8.0647   -0.0020 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4921,12 +4099,15 @@ Molecule
 > <OSM_ID>
 OSM-S-65
 
-> <IC50_nm_Assay01_Avery>
+> <Sample_ID>
+JRC 20-3
+
+> <IC50_nM_Assay01>
 >100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  13 14  0  0  0  0            999 V2000
    11.4623  -15.5590   -0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4963,15 +4144,15 @@ Molecule
 > <OSM_ID>
 OSM-S-66
 
-> <Sample_IDs>
-JRC 17-1
+> <Sample_ID>
+JRC 6-5
 
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  18 19  0  0  0  0            999 V2000
    13.3971   -5.0703   -0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5018,15 +4199,15 @@ Molecule
 > <OSM_ID>
 OSM-S-67
 
-> <Sample_IDs>
-JRC 20-3
+> <Sample_ID>
+JRC 10-5
 
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 438
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  23 24  0  0  0  0            999 V2000
    18.0751   -8.0462   -0.0159 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5083,15 +4264,15 @@ Molecule
 > <OSM_ID>
 OSM-S-68
 
-> <Sample_IDs>
-JRC 6-5
+> <Sample_ID>
+MD 5-1
 
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  12 12  0  0  0  0            999 V2000
    18.1190  -10.8069   -0.0009 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5125,15 +4306,15 @@ Molecule
 > <OSM_ID>
 OSM-S-69
 
-> <Sample_IDs>
-JRC 10-5
+> <Sample_ID>
+JRC15-3
 
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  10 11  0  0  0  0            999 V2000
    11.1813  -10.2524   -0.0005 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5164,15 +4345,15 @@ Molecule
 > <OSM_ID>
 OSM-S-70
 
-> <Sample_IDs>
-MD 5-1
+> <Sample_ID>
+JRC13-3
 
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 9400
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  10 11  0  0  0  0            999 V2000
    11.1828  -10.2052   -0.0006 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5203,18 +4384,15 @@ Molecule
 > <OSM_ID>
 OSM-S-71
 
-> <Sample_IDs>
-JRC15-3
+> <Sample_ID>
+JRC 14-5
 
-> <Experiment_URL>
-http://malaria.ourexperiment.org/matind/4131/Synthesis_of_1amino2methyl1oxopropan2yl_14fluorophenyl25dimethyl1Hpyrrole3carboxylate_MD_51.html
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 >100000
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  25 28  0  0  0  0            999 V2000
     4.8636    3.0984   -1.0132 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5280,21 +4458,18 @@ Molecule
 > <Mol Formula>
 C18H13N3O2S2
 
-> <MolPort Id>
-MolPort-004-175-448
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z31210525
 
 > <OSM_ID>
 OSM-S-72
 
-> <Sample_IDs>
-JRC13-3
+> <Sample_ID>
+Z31210525
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  23 25  0  0  0  0            999 V2000
     1.3365    6.3824   -0.5402 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5355,21 +4530,18 @@ Molecule
 > <Mol Formula>
 C15H16N4O2S2
 
-> <MolPort Id>
-MolPort-005-695-125
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z196131886
 
 > <OSM_ID>
 OSM-S-73
 
-> <Sample_IDs>
-JRC 14-5
+> <Sample_ID>
+Z196131886
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  29 32  0  0  0  0            999 V2000
     3.7463    8.0014    0.6487 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5443,21 +4615,18 @@ Molecule
 > <Mol Formula>
 C19H18N4O3S3
 
-> <MolPort Id>
-MolPort-005-522-375
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z217709300
 
 > <OSM_ID>
 OSM-S-74
 
-> <Sample_IDs>
-Z31210525
+> <Sample_ID>
+Z217709300
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  27 30  0  0  0  0            999 V2000
    -0.3995    4.1088    0.3382 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5527,24 +4696,18 @@ Molecule
 > <Mol Formula>
 C18H20N4O3S2
 
-> <MolPort Id>
-MolPort-009-449-876
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z229496652
 
 > <OSM_ID>
 OSM-S-75
 
-> <Sample_IDs>
-Z196131886
-
-> <Smiles>
-O=S(=O)(Nc1ncnc2sc(cc12)c1ccccc1)c1ccccc1
+> <Sample_ID>
+Z229496652
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  22 24  0  0  0  0            999 V2000
     6.7046    6.9296    0.0604 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5603,24 +4766,18 @@ Molecule
 > <Mol Formula>
 C14H14N4O2S2
 
-> <MolPort Id>
-MolPort-009-147-618
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z196139376
 
 > <OSM_ID>
 OSM-S-76
 
-> <Sample_IDs>
-Z217709300
-
-> <Smiles>
-Cc1ccc(Nc2ncnc3ccsc23)cc1S(=O)(=O)N(C)C
+> <Sample_ID>
+Z196139376
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  25 27  0  0  0  0            999 V2000
    -0.6685    2.2093   -0.7095 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5685,24 +4842,18 @@ Molecule
 > <Mol Formula>
 C16H18N4O3S2
 
-> <MolPort Id>
-MolPort-003-316-814
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z196139364
 
 > <OSM_ID>
 OSM-S-77
 
-> <Sample_IDs>
-Z229496652
-
-> <Smiles>
-COc1ccc(cc1)c1sc2c(ncnc2c1)NCc1ccc(s1)S(=O)(=O)NC
+> <Sample_ID>
+Z196139364
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  27 30  0  0  0  0            999 V2000
     2.4212   -9.3126   -0.1885 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5772,24 +4923,18 @@ Molecule
 > <Mol Formula>
 C19H16N4O2S2
 
-> <MolPort Id>
-MolPort-009-231-093
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z86248675
 
 > <OSM_ID>
 OSM-S-78
 
-> <Sample_IDs>
-Z196139376
-
-> <Smiles>
-COc1ccc(cc1)S(=O)(=O)N1CCC(CC1)Nc1ncnc2ccsc12
+> <Sample_ID>
+Z86248675
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  21 23  0  0  0  0            999 V2000
     0.0349    6.9867   -0.5688 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5846,24 +4991,18 @@ Molecule
 > <Mol Formula>
 C13H12N4O2S2
 
-> <MolPort Id>
-MolPort-009-539-442
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z367550756
 
 > <OSM_ID>
 OSM-S-79
 
-> <Sample_IDs>
-Z196139364
-
-> <Smiles>
-CC(Nc1ncnc2ccsc12)c1cccc(c1)S(=O)(=O)N
+> <Sample_ID>
+Z367550756
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  33 37  0  0  0  0            999 V2000
    -0.5171   -5.5954   -0.7751 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5946,24 +5085,18 @@ Molecule
 > <Mol Formula>
 C23H21N3O5S2
 
-> <MolPort Id>
-MolPort-005-561-851
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z127173570
 
 > <OSM_ID>
 OSM-S-80
 
-> <Sample_IDs>
-Z86248675
-
-> <Smiles>
-CCOc1ccc(Nc2ncnc3ccsc23)cc1S(=O)(=O)N(C)C
+> <Sample_ID>
+Z127173570
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  22 23  0  0  0  0            999 V2000
     5.4667   -5.6882    0.0007 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6021,24 +5154,18 @@ Molecule
 > <Mol Formula>
 C17H21N3O2
 
-> <MolPort Id>
-MolPort-009-131-728
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z102381252
 
 > <OSM_ID>
 OSM-S-81
 
-> <Sample_IDs>
-Z367550756
-
-> <Smiles>
-NS(=O)(=O)c1ccc(CNc2nc(nc3ccccc23)c2cscc2)cc1
+> <Sample_ID>
+Z102381252
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  22 23  0  0  0  0            999 V2000
     5.1900   -5.6482    0.0008 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6096,24 +5223,18 @@ Molecule
 > <Mol Formula>
 C16H17FN2O3
 
-> <MolPort Id>
-MolPort-004-025-267
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z18964039
 
 > <OSM_ID>
 OSM-S-82
 
-> <Sample_IDs>
-Z127173570
-
-> <Smiles>
-NS(=O)(=O)c1cccc(CNc2ncnc3ccsc23)c1
+> <Sample_ID>
+Z18964039
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  22 24  0  0  0  0            999 V2000
     1.1951   -2.5497   -0.0158 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6172,24 +5293,18 @@ Molecule
 > <Mol Formula>
 C17H19N3O2
 
-> <MolPort Id>
-n/a
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z31603451
 
 > <OSM_ID>
 OSM-S-83
 
-> <Sample_IDs>
-Z102381252
-
-> <Smiles>
-COc1ccc(cc1)c1cc2ncnc(Oc3ccc(cc3)S(=O)(=O)N3CCOCC3)c2s1
+> <Sample_ID>
+Z31603451
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  23 24  0  0  0  0            999 V2000
     5.3235   -5.5548    0.0006 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6249,24 +5364,18 @@ Molecule
 > <Mol Formula>
 C17H20BrN3O2
 
-> <MolPort Id>
-MolPort-019-648-967
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z322133338
 
 > <OSM_ID>
 OSM-S-84
 
-> <Sample_IDs>
-Z18964039
-
-> <Smiles>
-c1(c(n(c(c1)C)c1ccccc1)C)C(=O)NCC(=O)N(C)C
+> <Sample_ID>
+Z322133338
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  31 34  0  0  0  0            999 V2000
     0.1828   -6.0720    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6344,24 +5453,18 @@ Molecule
 > <Mol Formula>
 C23H22N4O3S
 
-> <MolPort Id>
-MolPort-004-258-884
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z56895831
 
 > <OSM_ID>
 OSM-S-85
 
-> <Sample_IDs>
-Z31603451
-
-> <Smiles>
-c1(c(n(c(c1)C)c1ccc(cc1)F)C)C(=O)OCC(=O)NC
+> <Sample_ID>
+Z56895831
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  31 33  0  0  0  0            999 V2000
     6.3705   -5.6478   -0.0393 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6438,24 +5541,18 @@ Molecule
 > <Mol Formula>
 C23H22F3N3O2
 
-> <MolPort Id>
-MolPort-009-471-103
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z252425684
 
 > <OSM_ID>
 OSM-S-86
 
-> <Sample_IDs>
-Z322133338
-
-> <Smiles>
-c1(c(n(c(c1)C)c1ccccc1)C)C(=O)N1CC(=O)NCC1
+> <Sample_ID>
+Z252425684
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  28 30  0  0  0  0            999 V2000
     6.1197   -5.5395    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6526,24 +5623,18 @@ Molecule
 > <Mol Formula>
 C21H24N4O3
 
-> <MolPort Id>
-MolPort-009-144-790
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z168527658
 
 > <OSM_ID>
 OSM-S-87
 
-> <Sample_IDs>
-Z56895831
-
-> <Smiles>
-c1(c(n(c(c1)C)c1ccc(cc1)Br)C)C(=O)N(CC(=O)NC)C
+> <Sample_ID>
+Z168527658
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  27 29  0  0  0  0            999 V2000
     0.1550   -3.9466    0.0095 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6612,24 +5703,18 @@ Molecule
 > <Mol Formula>
 C21H29ClN4O
 
-> <MolPort Id>
-MolPort-023-135-563
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z401944072
 
 > <OSM_ID>
 OSM-S-88
 
-> <Sample_IDs>
-Z252425684
-
-> <Smiles>
-c1(c(n(c(c1)C)c1ccccc1)C)c1oc(nn1)SCC(=O)Nc1cc(OC)ccc1
+> <Sample_ID>
+Z401944072
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  26 28  0  0  0  0            999 V2000
    -0.6876   -5.2808    0.0233 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6696,24 +5781,18 @@ Molecule
 > <Mol Formula>
 C20H27ClN4O
 
-> <MolPort Id>
-MolPort-019-816-620
-
-> <Supplier>
-ChemBridge Corporation
+> <Catalog No.>
+70163819
 
 > <OSM_ID>
 OSM-S-89
 
-> <Sample_IDs>
-Z168527658
-
-> <Smiles>
-c1(c(n(c(c1)C)c1ccc(cc1)F)C)C(=O)N(CC(=O)Nc1c(F)cccc1F)CC
+> <Sample_ID>
+70163819
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  25 27  0  0  0  0            999 V2000
     4.2953    1.7301   -0.0169 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6778,24 +5857,18 @@ Molecule
 > <Mol Formula>
 C21H28N2O2
 
-> <MolPort Id>
-MolPort-007-674-571
-
-> <Supplier>
-ChemDiv, Inc.
+> <Catalog No.>
+C799-0833
 
 > <OSM_ID>
 OSM-S-90
 
-> <Sample_IDs>
-Z401944072
-
-> <Smiles>
-c1(c(n(c(c1)C)c1cc(ccc1)C)C)C(=O)N(CC(=O)Nc1noc(c1)C)C
+> <Sample_ID>
+C799-0833
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  23 24  0  0  0  0            999 V2000
     5.3198   -5.6173    0.0009 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6855,24 +5928,18 @@ Molecule
 > <Mol Formula>
 C17H19FN2O3
 
-> <MolPort Id>
-MolPort-004-024-481
-
-> <Supplier>
-ENAMINE Ltd.
+> <Catalog No.>
+Z18963831
 
 > <OSM_ID>
 OSM-S-91
 
-> <Sample_IDs>
-70163819
-
-> <Smiles>
-n1(c(cc(c1C)CNC1CCN(CC(=O)NC)CC1)C)c1ccc(cc1)Cl
+> <Sample_ID>
+Z18963831
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  19 20  0  0  0  0            999 V2000
    25.2018  -44.9054   -0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6921,15 +5988,12 @@ Molecule
 > <OSM_ID>
 OSM-S-92
 
-> <Sample_IDs>
-C799-0833
-
-> <Smiles>
-n1(c(cc(c1C)CN1[C@H](C(=O)NCC)C[C@H](C1)N)C)c1c(Cl)cccc1
+> <Sample_ID>
+PMY 66-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  19 20  0  0  0  0            999 V2000
    40.7006  -43.9233    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6978,15 +6042,12 @@ Molecule
 > <OSM_ID>
 OSM-S-93
 
-> <Sample_IDs>
-Z18963831
-
-> <Smiles>
-c1(c(n(c(c1)C)c1ccc(cc1)CC)C)CN1CCC(C(=O)O)CC1
+> <Sample_ID>
+AEW 16-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  20 22  0  0  0  0            999 V2000
    52.3476  -43.8303    0.0368 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7038,15 +6099,12 @@ Molecule
 > <OSM_ID>
 OSM-S-94
 
-> <Sample_IDs>
-PMY 66-1
-
-> <Smiles>
-c1(c(n(c(c1)C)c1ccc(cc1)F)C)C(=O)OCC(=O)N(C)C
+> <Sample_ID>
+AEW 12-1
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  29 32  0  0  0  0            999 V2000
    65.9044  -45.0247    0.0495 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7117,24 +6175,12 @@ Molecule
 > <OSM_ID>
 OSM-S-95
 
-> <Sample_IDs>
-AEW 16-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/197
-
-> <ChemSpider_ID>
-not found
-
-> <InChi>
-InChI=1S/C12H10FN3O3/c13-9-1-3-10(4-2-9)16-6-8(5-15-16)12(18)19-7-11(14)17/h1-6H,7H2,(H2,14,17)
-
-> <Smiles>
-FC1=CC=C(N2C=C(C(OCC(N)=O)=O)C=N2)C=C1
+> <Sample_ID>
+AEW 9-2
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  34 38  0  0  0  0            999 V2000
    -0.2000   -3.6446   -0.1020 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7216,24 +6262,12 @@ Molecule
 > <OSM_ID>
 OSM-L-01
 
-> <Sample_IDs>
-AEW 12-1
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/uri/1a2
-
-> <InChi>
-InChI=1S/C15H17FN2O/c1-10-9-14(15(19)17(3)4)11(2)18(10)13-7-5-12(16)6-8-13/h5-9H,1-4H3
-
-> <Smiles>
-CC(N1C2=CC=C(F)C=C2)=CC(C(N(C)C)=O)=C1C
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 3200
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  22 23  0  0  0  0            999 V2000
     1.5444   -3.8862   -0.0689 Cl  0  0  0  0  0  0  0  0  0  1  0  0
@@ -7288,24 +6322,12 @@ Molecule
 > <OSM_ID>
 chloroquine
 
-> <Sample_IDs>
-AEW 9-2
-
-> <Experiment_URL>
-http://malaria.ourexperiment.org/tcmdc_ap/4685/Synthesis_of_aminelinked_analogue_of_TCMDC123812_via_reductive_amination_using_sodium_cyanoborohydride_in_acidic_conditions_AEW_121.html
-
-> <InChi>
-InChI=1S/C17H21FN2/c1-13-11-15(12-19-9-3-4-10-19)14(2)20(13)17-7-5-16(18)6-8-17/h5-8,11H,3-4,9-10,12H2,1-2H3
-
-> <Smiles>
-Cc1cc(CN2CCCC2)c(C)n1c1ccc(cc1)F
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 15
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  25 28  0  0  0  0            999 V2000
     1.4648    1.9211   -0.5332 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7368,21 +6390,12 @@ Molecule
 > <OSM_ID>
 artemisinin
 
-> <Experiment_URL>
-http://malaria.ourexperiment.org/tcmdc_ap/4606
-
-> <InChi>
-InChI=1S/C25H30FN3/c1-19-16-22(20(2)29(19)25-10-8-23(26)9-11-25)17-27-24-12-14-28(15-13-24)18-21-6-4-3-5-7-21/h3-11,16,24,27H,12-15,17-18H2,1-2H3
-
-> <Smiles>
-Cc1cc(CNC2CCN(CC2)Cc2ccccc2)c(C)n1c1ccc(cc1)F
-
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 3
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  33 36  0  0  0  0            999 V2000
    -4.7850   -5.6787    0.2945 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7461,12 +6474,9 @@ Molecule
 > <OSM_ID>
 artesunate
 
-> <Smiles>
-CC1=CC(/C=C2C(N(C3=CC=CC=C3)/C(S/2)=N/C4=CC=CC=C4)=O)=C(C)N1C5=CC(F)=CC=C5
-
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  17 18  0  0  0  0            999 V2000
     3.5789    0.7114   -0.0001 Cl  0  0  0  0  0  0  0  0  0  1  0  0
@@ -7511,12 +6521,12 @@ Molecule
 > <OSM_ID>
 Pyrimethamine
 
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 9
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  33 35  0  0  0  0            999 V2000
     4.1994   -1.3183    0.5021 F   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7596,7 +6606,7 @@ Tafenoquine
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  37 42  0  0  0  0            999 V2000
    -5.5131    2.8279    0.2570 Cl  0  0  0  0  0  0  0  0  0  1  0  0
@@ -7685,12 +6695,12 @@ Molecule
 > <OSM_ID>
 Pyronaridine
 
-> <IC50_nm_Assay01_Avery>
+> <IC50_nM_Assay01>
 4
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  46 46  0  0  0  0            999 V2000
     2.1928   -2.6204   -0.6772 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7794,7 +6804,7 @@ Stan-Epoxomicin
 
 $$$$
 Molecule
-  SciTegic11081208143D
+  SciTegic11081208473D
 
  28 31  0  0  0  0            999 V2000
     2.4533    1.8316   -5.3120 O   0  0  0  0  0  0  0  0  0  1  0  0
