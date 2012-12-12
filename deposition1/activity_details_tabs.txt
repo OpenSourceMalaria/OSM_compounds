@@ -29,21 +29,21 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 5	3	IC50	=	245		nM			
 5	4	IC50	=	152		nM			
 5	5	% inhibition	=	20		% at 120 uM			
-5	22	IC50	=	0		nM			
 5	7	solubility	=	12.5	25	ug mL-1			
 5	8	solubility	=	12.5	25	ug mL-1			
 5	9	degradation	=	60		uL min-1 mg-1 			
 5	10	half-life	=	29		min			
 5	11	composite descriptor							moderate
 5	13	In Vivo				at 50 mg kg-1			negative
+5	22	IC50	=	0		nM			
 6	1	IC50	=	47		nM			
 6	3	IC50	=	47		nM			
 6	4	IC50	=	66		nM			
 6	5	% inhibition	=	75		% at 120 uM			
-6	22	IC50	=	28		nM			
 6	7	solubility	=	0	1.6	ug mL-1			
 6	8	solubility	=	0	1.6	ug mL-1			
 6	11	composite descriptor							rapid non-NADPH acetamide hydrolysis to OSM-S-10
+6	22	IC50	=	28		nM			
 7	1	IC50	=	176		nM			
 7	4	IC50	=	361		nM			
 7	5	% inhibition	=	25		% at 120 uM			
@@ -100,21 +100,21 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 21	1	IC50	=	2		nM			
 21	2	IC50	=	205		nM	191		
 21	3	IC50	=	29		nM	9		
-21	22	IC50	=	4		nM			
 21	7	solubility	=	0	1.6	ug mL-1			
 21	8	solubility	=	3	1.6	ug mL-1			
 21	9	degradation	<	7		uL min-1 mg-1 			
 21	10	half-life	>	250		min			
 21	11	composite descriptor							low
+21	22	IC50	=	4		nM			
 22	1	IC50	=	1		nM			
 22	2	IC50	=	5		nM	0.4		
 22	3	IC50	=	7		nM	2		
-22	22	IC50	=	3		nM			
 22	7	solubility	=	0	1.6	ug mL-1			
 22	8	solubility	=	4	1.6	ug mL-1			
 22	9	degradation	<	7		uL min-1 mg-1 			
 22	10	half-life	>	250		min			
 22	11	composite descriptor							low
+22	22	IC50	=	3		nM			
 23	1	IC50	=						Could not determine
 23	2	IC50	>	1000		nM			
 23	3	IC50	>	5000		nM			
@@ -168,8 +168,8 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 37	1	IC50	=	8.95	11	nM			
 37	3	IC50	=	33.2		nM	15		
 37	4	IC50	=	11900		nM			
-37	21	IC50	=	13921		nM			
 37	6	% inhibition	=	50		% at 120 uM			
+37	21	IC50	=	13921		nM			
 38	22	IC50	=	2800		nM			
 39	1	IC50	=	3.2	15.2	nM			
 39	22	IC50	=	2960		nM			
