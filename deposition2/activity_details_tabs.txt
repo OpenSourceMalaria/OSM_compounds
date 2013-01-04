@@ -1,0 +1,51 @@
+COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_PLUS	ACTIVITY_COMMENT					
+1	1	IC50	=	333		nM								
+2	1	IC50	>	40000		nM								
+3	1	IC50	>	40000		nM								
+4	1	IC50	>	40000		nM								
+5	1	IC50	>	40000		nM								
+6	1	IC50	>	40000		nM								
+7	1	IC50	>	40000		nM								
+8	1	IC50	>	40000		nM								
+9	1	IC50	>	40000		nM								
+10	1	IC50	>	40000		nM								
+11	1	IC50	>	40000		nM								
+12	1	IC50	=	438		nM								
+13	1	IC50	>	40000		nM								
+14	1	IC50	>	40000		nM								
+15	1	IC50	=	9400		nM								
+16	1	IC50	>	40000		nM								
+17	1	IC50	>	40000		nM								
+18	1	IC50	>	40000		nM								
+19	1	IC50	=	17600		nM								
+20	1	IC50	>	40000		nM								
+21	1	IC50	>	40000		nM								
+22	1	IC50	>	40000		nM								
+23	1	IC50	>	40000		nM								
+24	1	IC50	>	40000		nM								
+25	2	% inhibition	=	80		% at 40 uM								
+26	1	IC50	>	40000		nM								
+27	1	IC50	=	9400		nM								
+28	1	IC50	>	40000		nM								
+29	2	% inhibition	=	70		% at 40 uM								
+30	1	IC50	>	40000		nM								
+31	1	IC50	>	40000		nM								
+32	2	% inhibition	=	85		% at 40 uM								
+33	1	IC50	=	14700		nM								
+34	1	IC50	=	24700		nM								
+35	1	IC50	>	40000		nM								
+36	1	IC50	=	11300		nM								
+37	1	IC50	>	40000		nM								
+38	1	IC50	>	40000		nM								
+39	2	% inhibition	=	96		% at 40 uM								
+40	1	IC50	=	4800		nM								
+41	1	IC50	>	40000		nM								
+42	1	IC50	>	40000		nM								
+43	1	IC50	>	40000		nM								
+44	1	IC50	>	40000		nM								
+45	1	IC50	>	40000		nM								
+46	1	IC50	>	40000		nM								
+47	1	IC50	>	40000		nM								
+48	2	% inhibition	=	61		% at 40 uM								
+49	1	IC50	>	40000		nM								
+50	1	IC50	>	40000		nM								
