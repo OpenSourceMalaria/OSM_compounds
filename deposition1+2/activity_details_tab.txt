@@ -5,7 +5,7 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 1	18	% inhibition	=	60		% at 120 uM			
 2	1	IC50	=	11960		nM			
 2	3	IC50	>	5000		nM			
-2	4	IC50	=	12400		nM			
+2	24	IC50	=	12400		nM			
 2	5	% inhibition	=	25		% at 120 uM			
 3	3	IC50	>	5000		nM			
 3	4	% inhibition	=	50		% at 120 uM			
@@ -13,9 +13,8 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 3	18	% inhibition	=	75		% at 120 uM			
 4	1	IC50	=	404		nM			
 4	3	IC50	=	818		nM			
-4	4	IC50	=	375		nM			
+4	24	IC50	=	375		nM			
 4	5	% inhibition	=	20		% at 120 uM			
-4	6	% inhibition	=	75		% at 60 uM			
 4	7	solubility	=	50	100	ug mL-1			
 4	8	solubility	=	50	100	ug mL-1			
 4	9	degradation	=	29		uL min-1 mg-1 			
@@ -27,7 +26,7 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 4	15	IC50	=	641		nM			
 5	1	IC50	=	345		nM			
 5	3	IC50	=	245		nM			
-5	4	IC50	=	152		nM			
+5	24	IC50	=	152		nM			
 5	5	% inhibition	=	20		% at 120 uM			
 5	7	solubility	=	12.5	25	ug mL-1			
 5	8	solubility	=	12.5	25	ug mL-1			
@@ -38,14 +37,14 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 5	22	IC50	=	0		nM			
 6	1	IC50	=	47		nM			
 6	3	IC50	=	47		nM			
-6	4	IC50	=	66		nM			
+6	24	IC50	=	66		nM			
 6	5	% inhibition	=	75		% at 120 uM			
 6	7	solubility	=	0	1.6	ug mL-1			
 6	8	solubility	=	0	1.6	ug mL-1			
 6	11	composite descriptor							rapid non-NADPH acetamide hydrolysis to OSM-S-10
 6	22	IC50	=	28		nM			
 7	1	IC50	=	176		nM			
-7	4	IC50	=	361		nM			
+7	24	IC50	=	361		nM			
 7	5	% inhibition	=	25		% at 120 uM			
 7	7	solubility	=	0	1.6	ug mL-1			
 7	8	solubility	=	1	1.6	ug mL-1			
@@ -154,27 +153,23 @@ COMPOUND_ID	ASSAY_ID	MEASUREMENT_TYPE	STATUS	VALUE	UPPER_VALUE	UNIT	SD_MINUS	SD_
 33	15	IC50	>	5000		nM			
 34	1	IC50	=	15	18	nM			
 34	3	IC50	=	23	52	nM			
-34	4	IC50		266		nM			
+34	24	IC50		266		nM			
 34	5	% inhibition	=	100		% at 120 uM			
-34	6	% inhibition	=	86		% at 120 uM			
 34	14	IC50	=	6.3	8.3	nM			
 34	15	IC50	=	235	252	nM			
 35	1	IC50	=	41063		nM			
-35	4	IC50	=	1		nM			
+35	24	IC50	=	1		nM			
 35	5	% inhibition	=	25		% at 120 uM			
-35	6	% inhibition	=	67		% at 2.4 nM			
 36	3	IC50	=	19	23				
-36	6	% inhibition	=	88		% at 1.1 nM			
 37	1	IC50	=	8.95	11	nM			
 37	3	IC50	=	33.2		nM	15		
-37	4	IC50	=	11900		nM			
-37	6	% inhibition	=	50		% at 120 uM			
+37	24	IC50	=	11900		nM			
 37	21	IC50	=	13921		nM			
 38	22	IC50	=	2800		nM			
 39	1	IC50	=	3.2	15.2	nM			
 39	22	IC50	=	2960		nM			
 40	1	IC50	=	4.2		nM			
-40	4	IC50	=	2.8		nM			
+40	24	IC50	=	2.8		nM			
 40	21	IC50	=	33.6		nM			
 40	22	IC50	=	0.3		nM			
 41	3	IC50	=	1		nM	0.3		
