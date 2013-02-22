@@ -40,7 +40,7 @@ PMY 1-1, PMY 1-2, PMY 1-3, PMY 1-4, PMY 1-5, PMY 1-6
 
 $$$$
 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carbaldehyde
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  16 17  0  0  0  0            999 V2000
     1.9206   -1.7688    0.7886 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -94,7 +94,7 @@ dep1
 
 $$$$
 ethyl 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  19 20  0  0  0  0            999 V2000
     5.3610    5.2335    0.9158 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -154,7 +154,7 @@ dep1
 
 $$$$
 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylic acid
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  17 18  0  0  0  0            999 V2000
     1.9509   -1.7378    0.7137 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -210,7 +210,7 @@ dep1
 
 $$$$
 TCMDC-123812
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  21 22  0  0  0  0            999 V2000
     0.5975    2.6010    0.4260 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -274,7 +274,7 @@ dep1
 
 $$$$
 TCMDC-123794
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  35 38  0  0  0  0            999 V2000
    -3.8429    7.1921    0.4559 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -368,7 +368,7 @@ dep1
 
 $$$$
 N-cyclohexyl-N-(cyclohexylcarbamoyl)-1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  32 35  0  0  0  0            999 V2000
    17.6958  -40.6723   -0.1277 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -456,7 +456,7 @@ dep1+2
 
 $$$$
 N-(1,5-dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazol-4-yl)-1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  31 34  0  0  0  0            999 V2000
     9.8129  -24.2040   -0.0004 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -542,7 +542,7 @@ dep1+2
 
 $$$$
 (Z)-N-(5-((1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methylene)-4-oxo-4,5-
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  31 34  0  0  0  0            999 V2000
     3.8269    1.8638   -0.0027 F   0  0  0  0  0  0  0  0  0  1  0  0
@@ -628,7 +628,7 @@ dep1
 
 $$$$
 (Z)-5-((1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methylene)-2-(phenylamin
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  28 31  0  0  0  0            999 V2000
    -0.1525    3.5390   -0.1100 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -708,7 +708,7 @@ dep1
 
 $$$$
 (1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methanol
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  16 17  0  0  0  0            999 V2000
    13.0699  -31.3954   -0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -756,7 +756,7 @@ PMY 18-3, PMY 15-2
 
 $$$$
 2,5-dimethyl-1-phenyl-1H-pyrrole-3-carboxylic acid
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  16 17  0  0  0  0            999 V2000
     0.8633    2.5980    0.0000 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -810,7 +810,7 @@ dep1
 
 $$$$
 2,5-dimethyl-1-(p-tolyl)-1H-pyrrole-3-carboxylic acid
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  17 18  0  0  0  0            999 V2000
     5.9787    2.3111    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -866,7 +866,7 @@ dep1
 
 $$$$
 2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrole-3-carboxylic acid
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  20 21  0  0  0  0            999 V2000
     1.1630    2.7602   -0.0330 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -928,7 +928,7 @@ dep1
 
 $$$$
 2-benzamidoacetic acid
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  13 13  0  0  0  0            999 V2000
    19.7827  -17.9834    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -969,7 +969,7 @@ PMY 26-1
 
 $$$$
 N-(2-((1,5-dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazol-4-yl)amino)-2-oxoethyl)benzamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  27 29  0  0  0  0            999 V2000
     7.1680   -2.9938   -2.3229 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1046,7 +1046,7 @@ dep1
 
 $$$$
 tert-butyl (2-((1,5-dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazol-4-yl)amino)-2-oxoethyl)carbamate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  26 27  0  0  0  0            999 V2000
    28.5224  -18.9275    0.3943 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1114,7 +1114,7 @@ PMY 29-1, PMY 29-2
 
 $$$$
 Molecule
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  19 20  0  0  0  0            999 V2000
    29.1461  -17.9926    0.0033 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1168,7 +1168,7 @@ PMY 30-3
 
 $$$$
 N-(2-amino-2-oxoethyl)-1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  21 22  0  0  0  0            999 V2000
     0.7808    2.8242    0.0551 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1232,7 +1232,7 @@ dep1
 
 $$$$
 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carbonyl chloride
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  17 18  0  0  0  0            999 V2000
    26.7178  -39.1434    0.0003 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1282,7 +1282,7 @@ PMY 32-3
 
 $$$$
 N-(2-((1,5-dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazol-4-yl)amino)-2-oxoethyl)-1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  35 38  0  0  0  0            999 V2000
    11.4612  -27.1678   -0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1376,7 +1376,7 @@ dep1
 
 $$$$
 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  17 18  0  0  0  0            999 V2000
    12.1561  -34.7416   -0.0003 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1426,7 +1426,7 @@ PMY 42-1
 
 $$$$
 Molecule
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  17 18  0  0  0  0            999 V2000
    12.3116  -34.6922    0.0023 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1476,7 +1476,7 @@ PMY 43-1
 
 $$$$
 Molecule
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  15 16  0  0  0  0            999 V2000
    12.2366  -34.7597    0.0009 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1522,7 +1522,7 @@ PMY 44-1
 
 $$$$
 Molecule
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  13 14  0  0  0  0            999 V2000
    12.1166  -34.8065    0.0006 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1564,7 +1564,7 @@ LMW 1-1
 
 $$$$
 Molecule
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  14 15  0  0  0  0            999 V2000
    12.0686  -34.8455    0.0007 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1608,7 +1608,7 @@ LMW 2-1
 
 $$$$
 Molecule
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  17 18  0  0  0  0            999 V2000
    11.8348  -34.9821    0.0304 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1658,7 +1658,7 @@ LMW 3-1
 
 $$$$
 2,5-dimethyl-1-phenyl-1H-pyrrole-3-carbaldehyde
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  15 16  0  0  0  0            999 V2000
     0.9412    2.6332    0.0008 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1710,7 +1710,7 @@ dep1
 
 $$$$
 2,5-dimethyl-1-(p-tolyl)-1H-pyrrole-3-carbaldehyde
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  16 17  0  0  0  0            999 V2000
     5.8946    2.2774    0.0008 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1764,7 +1764,7 @@ dep1
 
 $$$$
 ethyl 2,5-dimethyl-1-(p-tolyl)-1H-pyrrole-3-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  19 20  0  0  0  0            999 V2000
     5.3643    5.2412    0.9143 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1824,7 +1824,7 @@ dep1
 
 $$$$
 ethyl 2,5-dimethyl-1-phenyl-1H-pyrrole-3-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  18 19  0  0  0  0            999 V2000
     5.2740    5.1861    0.9066 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1882,7 +1882,7 @@ dep1
 
 $$$$
 ethyl 2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrole-3-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  22 23  0  0  0  0            999 V2000
     5.5553    5.4224    0.8989 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1948,7 +1948,7 @@ dep1
 
 $$$$
 1-(3,5-bis(trifluoromethyl)phenyl)-2,5-dimethyl-1H-pyrrole
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  21 22  0  0  0  0            999 V2000
    11.7475  -35.0705   -0.1407 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2006,7 +2006,7 @@ ZYH 1-1
 
 $$$$
 Molecule
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  19 20  0  0  0  0            999 V2000
    11.9155  -34.8971    0.0252 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2060,7 +2060,7 @@ ZYH 2-2
 
 $$$$
 (2Z,5Z)-5-((2,5-dimethyl-1-phenyl-1H-pyrrol-3-yl)methylene)-2-(phenylimino)thiazolidin-4-one
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  27 30  0  0  0  0            999 V2000
    -0.1720    3.5819   -0.0921 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2128,7 +2128,7 @@ M  END
 OSM-S-35
 
 > <Sample_ID>
-ZYH 3-1, PMY 47-1
+ZYH 3-1, PMY 47-1, MNR93-1
 
 > <ChEMBL>
 dep1
@@ -2138,7 +2138,7 @@ dep1
 
 $$$$
 1-(3,5-bis(trifluoromethyl)phenyl)-2,5-dimethyl-1H-pyrrole-3-carbaldehyde
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  23 24  0  0  0  0            999 V2000
    11.8944  -35.5839   -0.0844 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2200,7 +2200,7 @@ ZYH 4-2/4-3
 
 $$$$
 (2Z,5Z)-5-((2,5-dimethyl-1-(p-tolyl)-1H-pyrrol-3-yl)methylene)-2-(phenylimino)thiazolidin-4-one
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  28 31  0  0  0  0            999 V2000
     6.9696    2.5415    0.0050 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2280,7 +2280,7 @@ dep1
 
 $$$$
 (2Z,5Z)-5-((2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrol-3-yl)methylene)-2-(phenylimino)thiazolidin-4-one
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  31 34  0  0  0  0            999 V2000
    -0.0043    3.3934    0.5783 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2366,7 +2366,7 @@ dep1
 
 $$$$
 (2Z,5Z)-5-((1-(3,5-bis(trifluoromethyl)phenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methylene)-2-(phenylimino)thiazolidin-4-one
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  35 38  0  0  0  0            999 V2000
     0.1115    3.2919   -0.6447 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2460,7 +2460,7 @@ dep1
 
 $$$$
 ethyl 4-(2,5-dimethyl-1H-pyrrol-1-yl)benzoate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  18 19  0  0  0  0            999 V2000
    11.8223  -35.6489    0.0005 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2512,7 +2512,7 @@ ZYH 8-1
 
 $$$$
 Molecule
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  13 14  0  0  0  0            999 V2000
    12.1407  -35.5620    0.0004 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2554,7 +2554,7 @@ ZYH 9-1
 
 $$$$
 2-((2Z,5Z)-5-((2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrol-3-yl)methylene)-4-oxo-2-(phenylimino)thiazolidin-3-yl)acetonitrile
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  34 37  0  0  0  0            999 V2000
    -0.2522    3.4907   -0.0009 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2646,7 +2646,7 @@ could not determine
 
 $$$$
 (Z)-2-((5-((2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrol-3-yl)methylene)-4-oxo-4,5-dihydrothiazol-2-yl)(phenyl)amino)acetonitrile
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  34 37  0  0  0  0            999 V2000
     0.4705   -3.5767   -0.0012 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2738,7 +2738,7 @@ dep1
 
 $$$$
 2,5-dimethyl-1-(pyridin-2-yl)-1H-pyrrole-3-carbaldehyde
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  15 16  0  0  0  0            999 V2000
    12.1857  -35.5087    0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2784,7 +2784,7 @@ ZYH 11-1
 
 $$$$
 (Z)-N-(5-((2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrol-3-yl)methylene)-4-oxo-4,5-dihydrothiazol-2-yl)-N-phenylacetamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  34 37  0  0  0  0            999 V2000
     7.5037    1.9038    0.1298 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2876,7 +2876,7 @@ dep1
 
 $$$$
 ethyl 4-(3-formyl-2,5-dimethyl-1H-pyrrol-1-yl)benzoate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  20 21  0  0  0  0            999 V2000
    11.8768  -35.5676   -0.0006 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2932,7 +2932,7 @@ ZYH 13-1
 
 $$$$
 Molecule
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  19 21  0  0  0  0            999 V2000
    27.7011  -21.6173   -0.0006 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2987,7 +2987,7 @@ ZYH 14-1
 
 $$$$
 ethyl 4-(2,5-dimethyl-3-((Z)-((Z)-4-oxo-2-(phenylimino)thiazolidin-5-ylidene)methyl)-1H-pyrrol-1-yl)benzoate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  32 35  0  0  0  0            999 V2000
     9.8647    1.0958    0.0005 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3075,7 +3075,7 @@ dep1
 
 $$$$
 (Z)-N-(5-((2,5-dimethyl-1-phenyl-1H-pyrrol-3-yl)methylene)-4-oxo-4,5-dihydrothiazol-2-yl)-N-phenylacetamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  30 33  0  0  0  0            999 V2000
     7.2492    1.7861   -0.0450 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3159,7 +3159,7 @@ dep1
 
 $$$$
 (Z)-N-(5-((2,5-dimethyl-1-(p-tolyl)-1H-pyrrol-3-yl)methylene)-4-oxo-4,5-dihydrothiazol-2-yl)-N-phenylacetamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  31 34  0  0  0  0            999 V2000
     7.3380    1.8243   -0.0436 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3245,7 +3245,7 @@ dep1
 
 $$$$
 (2Z,5Z)-5-((2,5-dimethyl-1-(pyridin-2-yl)-1H-pyrrol-3-yl)methylene)-2-(phenylimino)thiazolidin-4-one
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  27 30  0  0  0  0            999 V2000
    -0.2484    3.4588   -0.0940 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3323,7 +3323,7 @@ dep1
 
 $$$$
 (2Z,5Z)-5-((2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrol-3-yl)methylene)-3-phenyl-2-(phenylimino)thiazolidin-4-one
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  37 41  0  0  0  0            999 V2000
    -0.3272   -3.4468    0.4952 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3422,7 +3422,7 @@ dep1
 
 $$$$
 N-(phenylcarbamoyl)acetamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  13 13  0  0  0  0            999 V2000
    24.9258  -36.1119   -0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3463,7 +3463,7 @@ ZYH 20-1
 
 $$$$
 (2Z,5Z)-3-cyclopentyl-5-((2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrol-3-yl)methylene)-2-(phenylimino)thiazolidin-4-one
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  36 40  0  0  0  0            999 V2000
    -0.3604    3.5055    0.1854 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3560,7 +3560,7 @@ dep1
 
 $$$$
 (2Z,5E)-5-benzylidene-2-(phenylimino)thiazolidin-4-one
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  20 22  0  0  0  0            999 V2000
     3.3165    4.1216    0.0004 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3623,7 +3623,7 @@ dep1
 
 $$$$
 3-(N-(4-chlorobenzyl)sulfamoyl)-N,N-dimethyl-1H-1,2,4-triazole-1-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  21 22  0  0  0  0            999 V2000
    20.2984   -9.8956   -0.0814 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3687,7 +3687,7 @@ dep2
 
 $$$$
 2-amino-2-oxoethyl 5-methyl-1-phenyl-1H-pyrazole-4-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  19 20  0  0  0  0            999 V2000
    12.4845  -32.9606    0.0035 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3747,7 +3747,7 @@ dep2
 
 $$$$
 2-(((1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)amino)acetamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  20 21  0  0  0  0            999 V2000
    26.1087   -7.7645    0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3809,7 +3809,7 @@ dep2
 
 $$$$
 N-(2-amino-2-oxoethyl)-1-(4-fluorophenyl)-N,2,5-trimethyl-1H-pyrrole-3-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  22 23  0  0  0  0            999 V2000
    26.1159   -7.7400    0.0000 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3875,7 +3875,7 @@ dep2
 
 $$$$
 2-(((1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)(methyl)amino)acetamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  21 22  0  0  0  0            999 V2000
    26.1753   -7.9026    0.0461 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3939,7 +3939,7 @@ dep2
 
 $$$$
 methyl 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamido)-3-hydroxypropanoate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  24 25  0  0  0  0            999 V2000
    25.2731   -7.6732   -0.0749 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4009,7 +4009,7 @@ dep2
 
 $$$$
 methyl 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)oxazole-4-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  23 25  0  0  0  0            999 V2000
    26.9912   -7.0866    5.7388 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4078,7 +4078,7 @@ dep2
 
 $$$$
 methyl 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)-4,5-dihydrooxazole-4-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  23 25  0  0  0  0            999 V2000
    36.9959  -20.0934   -0.0399 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4144,7 +4144,7 @@ dep2
 
 $$$$
 4-(thieno[3,2-d]pyrimidin-4-yl)morpholine
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  15 17  0  0  0  0            999 V2000
    20.5656   -7.8758   -0.0701 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4197,7 +4197,7 @@ dep2
 
 $$$$
 6-iodothieno[3,2-d]pyrimidin-4-ol
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  11 12  0  0  0  0            999 V2000
    18.8282   -8.0647   -0.0020 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4241,7 +4241,7 @@ dep2
 
 $$$$
 3-(benzylthio)-1H-1,2,4-triazole
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  13 14  0  0  0  0            999 V2000
    11.4623  -15.5590   -0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4289,7 +4289,7 @@ dep2
 
 $$$$
 3-(benzylthio)-N,N-dimethyl-1H-1,2,4-triazole-1-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  18 19  0  0  0  0            999 V2000
    13.3971   -5.0703   -0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4347,7 +4347,7 @@ dep2
 
 $$$$
 1-amino-2-methyl-1-oxopropan-2-yl 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  23 24  0  0  0  0            999 V2000
    18.0751   -8.0462   -0.0159 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4415,7 +4415,7 @@ dep2
 
 $$$$
 methyl 3-formamidothiophene-2-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  12 12  0  0  0  0            999 V2000
    18.1190  -10.8069   -0.0009 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4460,7 +4460,7 @@ dep2
 
 $$$$
 4-chlorothieno[3,2-d]pyrimidine
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  10 11  0  0  0  0            999 V2000
    11.1813  -10.2524   -0.0005 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4502,7 +4502,7 @@ dep2
 
 $$$$
 thieno[3,2-d]pyrimidin-4-amine
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  10 11  0  0  0  0            999 V2000
    11.1828  -10.2052   -0.0006 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4544,7 +4544,7 @@ dep2
 
 $$$$
 N-(6-phenylthieno[2,3-d]pyrimidin-4-yl)benzenesulfonamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  25 28  0  0  0  0            999 V2000
     4.8636    3.0984   -1.0132 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4627,7 +4627,7 @@ dep2
 
 $$$$
 N-(3-hydrosulfonyl-4-methylphenyl)thieno[3,2-d]pyrimidin-4-amine
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  23 25  0  0  0  0            999 V2000
     1.3365    6.3824   -0.5402 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4705,7 +4705,7 @@ dep2
 
 $$$$
 5-(((6-(4-methoxyphenyl)thieno[3,2-d]pyrimidin-4-yl)amino)methyl)-N-methylthiophene-2-sulfonamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  29 32  0  0  0  0            999 V2000
     3.7463    8.0014    0.6487 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4796,7 +4796,7 @@ dep2
 
 $$$$
 N-(1-((4-methoxyphenyl)sulfonyl)piperidin-4-yl)thieno[3,2-d]pyrimidin-4-amine
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  27 30  0  0  0  0            999 V2000
    -0.3995    4.1088    0.3382 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4883,7 +4883,7 @@ dep2
 
 $$$$
 (S)-3-(1-(thieno[3,2-d]pyrimidin-4-ylamino)ethyl)benzenesulfonamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  22 24  0  0  0  0            999 V2000
     6.7046    6.9296    0.0604 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4959,7 +4959,7 @@ dep2
 
 $$$$
 2-ethoxy-N,N-dimethyl-5-(thieno[3,2-d]pyrimidin-4-ylamino)benzenesulfonamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  25 27  0  0  0  0            999 V2000
    -0.6685    2.2093   -0.7095 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5041,7 +5041,7 @@ dep2
 
 $$$$
 4-(((2-(thiophen-3-yl)quinazolin-4-yl)amino)methyl)benzenesulfonamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  27 30  0  0  0  0            999 V2000
     2.4212   -9.3126   -0.1885 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5128,7 +5128,7 @@ dep2
 
 $$$$
 3-((thieno[3,2-d]pyrimidin-4-ylamino)methyl)benzenesulfonamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  21 23  0  0  0  0            999 V2000
     0.0349    6.9867   -0.5688 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5202,7 +5202,7 @@ dep2
 
 $$$$
 4-((4-((6-(4-methoxyphenyl)thieno[3,2-d]pyrimidin-4-yl)oxy)phenyl)sulfonyl)morpholine
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  33 37  0  0  0  0            999 V2000
    -0.5171   -5.5954   -0.7751 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5302,7 +5302,7 @@ dep2
 
 $$$$
 N-(2-(dimethylamino)-2-oxoethyl)-2,5-dimethyl-1-phenyl-1H-pyrrole-3-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  22 23  0  0  0  0            999 V2000
     5.4667   -5.6882    0.0007 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5377,7 +5377,7 @@ dep2
 
 $$$$
 2-(methylamino)-2-oxoethyl 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  22 23  0  0  0  0            999 V2000
     5.1900   -5.6482    0.0008 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5452,7 +5452,7 @@ dep2
 
 $$$$
 4-(2,5-dimethyl-1-phenyl-1H-pyrrole-3-carbonyl)piperazin-2-one
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  22 24  0  0  0  0            999 V2000
     1.1951   -2.5497   -0.0158 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5528,7 +5528,7 @@ dep2
 
 $$$$
 1-(4-bromophenyl)-N,2,5-trimethyl-N-(2-(methylamino)-2-oxoethyl)-1H-pyrrole-3-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  23 24  0  0  0  0            999 V2000
     5.3235   -5.5548    0.0006 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5605,7 +5605,7 @@ dep2
 
 $$$$
 2-((5-(2,5-dimethyl-1-phenyl-1H-pyrrol-3-yl)-1,3,4-oxadiazol-2-yl)thio)-N-(3-methoxyphenyl)acetamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  31 34  0  0  0  0            999 V2000
     0.1828   -6.0720    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5700,7 +5700,7 @@ dep2
 
 $$$$
 N-(2-((2,6-difluorophenyl)amino)-2-oxoethyl)-N-ethyl-1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  31 33  0  0  0  0            999 V2000
     6.3705   -5.6478   -0.0393 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5794,7 +5794,7 @@ dep2
 
 $$$$
 N,2,5-trimethyl-N-(2-((5-methylisoxazol-3-yl)amino)-2-oxoethyl)-1-(m-tolyl)-1H-pyrrole-3-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  28 30  0  0  0  0            999 V2000
     6.1197   -5.5395    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5882,7 +5882,7 @@ dep2
 
 $$$$
 2-(4-(((1-(4-chlorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)amino)piperidin-1-yl)-N-methylacetamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  27 29  0  0  0  0            999 V2000
     0.1550   -3.9466    0.0095 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5968,7 +5968,7 @@ dep2
 
 $$$$
 4-amino-1-((1-(2-chlorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)-N-ethylpyrrolidine-2-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  26 28  0  0  0  0            999 V2000
    -0.6876   -5.2808    0.0233 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6052,7 +6052,7 @@ dep2
 
 $$$$
 1-((1-(4-ethylphenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)piperidine-4-carboxylic acid
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  25 27  0  0  0  0            999 V2000
     4.2953    1.7301   -0.0169 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6134,7 +6134,7 @@ dep2
 
 $$$$
 2-(dimethylamino)-2-oxoethyl 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  23 24  0  0  0  0            999 V2000
     5.3198   -5.6173    0.0009 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6211,7 +6211,7 @@ dep2
 
 $$$$
 2-amino-2-oxoethyl 1-(4-fluorophenyl)-1H-pyrazole-4-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  19 20  0  0  0  0            999 V2000
    25.2018  -44.9054   -0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6271,7 +6271,7 @@ dep2
 
 $$$$
 1-(4-fluorophenyl)-N,N,2,5-tetramethyl-1H-pyrrole-3-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  19 20  0  0  0  0            999 V2000
    40.7006  -43.9233    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6331,7 +6331,7 @@ dep2
 
 $$$$
 1-(4-fluorophenyl)-2,5-dimethyl-3-(pyrrolidin-1-ylmethyl)-1H-pyrrole
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  20 22  0  0  0  0            999 V2000
    52.3476  -43.8303    0.0368 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6394,7 +6394,7 @@ dep2
 
 $$$$
 1-benzyl-N-((1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)piperidin-4-amine
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  29 32  0  0  0  0            999 V2000
    65.9044  -45.0247    0.0495 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6476,7 +6476,7 @@ dep2
 
 $$$$
 methyl 2-(1-(4-fluorophenyl)-5-methyl-1H-pyrazol-4-yl)oxazole-4-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  22 24  0  0  0  0            999 V2000
     8.5064  -10.2965   -0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6543,7 +6543,7 @@ dep2
 
 $$$$
 4-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)-4-oxobutanoic acid
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  21 22  0  0  0  0            999 V2000
    10.5098  -10.7295   -0.0004 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6607,7 +6607,7 @@ dep2
 
 $$$$
 4-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)-N,N-dimethyl-4-oxobutanamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  23 24  0  0  0  0            999 V2000
     8.9022  -10.8805    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6675,7 +6675,7 @@ dep2
 
 $$$$
 1-ethoxy-1-oxopropan-2-yl 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  24 25  0  0  0  0            999 V2000
    12.1490  -10.4430   -0.0721 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6745,7 +6745,7 @@ dep2
 
 $$$$
 2-((1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carbonyl)oxy)propanoic acid
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  22 23  0  0  0  0            999 V2000
     8.9601  -11.0027   -0.0694 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6811,7 +6811,7 @@ dep2
 
 $$$$
 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)oxazole-4-carboxylic acid
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  22 24  0  0  0  0            999 V2000
    10.4859  -13.3517    0.0000 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6878,7 +6878,7 @@ dep2
 
 $$$$
 4-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)-N-methyl-4-oxobutanamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  22 23  0  0  0  0            999 V2000
     9.4864  -11.6090    0.0000 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6944,7 +6944,7 @@ dep2
 
 $$$$
 4-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)-4-oxobutanamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  21 22  0  0  0  0            999 V2000
    10.6043  -11.6267    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7008,7 +7008,7 @@ dep2
 
 $$$$
 2-(1-(4-fluorophenyl)-5-methyl-1H-pyrazol-4-yl)oxazole-4-carboxylic acid
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  21 23  0  0  0  0            999 V2000
     7.7878  -10.9128   -0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7073,7 +7073,7 @@ dep2
 
 $$$$
 2-(1-(4-fluorophenyl)-5-methyl-1H-pyrazol-4-yl)oxazole-4-carboxamide
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  21 23  0  0  0  0            999 V2000
     8.3120  -10.2538   -0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7137,8 +7137,750 @@ MNR56-1
 dep2
 
 $$$$
+Molecule
+  SciTegic02221311313D
+
+ 20 22  0  0  0  0            999 V2000
+   33.4954  -26.1670   -0.0207 N   0  0  0  0  0  0  0  0  0  1  0  0
+   33.6940  -27.4348   -0.0281 C   0  0  0  0  0  0  0  0  0  2  0  0
+   35.0116  -27.9781   -0.0404 N   0  0  0  0  0  0  0  0  0  3  0  0
+   35.9975  -27.1803   -0.0463 C   0  0  0  0  0  0  0  0  0  4  0  0
+   35.7997  -25.7893   -0.0394 C   0  0  0  0  0  0  0  0  0  5  0  0
+   34.5833  -25.2726   -0.0262 C   0  0  0  0  0  0  0  0  0  6  0  0
+   37.4293  -27.5622   -0.0502 C   0  0  0  0  0  0  0  0  0  7  0  0
+   38.2158  -26.4726   -0.0488 C   0  0  0  0  0  0  0  0  0  8  0  0
+   37.3094  -24.9438   -0.0472 S   0  0  0  0  0  0  0  0  0  9  0  0
+   39.6735  -26.5322   -0.0295 C   0  0  0  0  0  0  0  0  0 10  0  0
+   40.2961  -27.7099   -0.0126 C   0  0  0  0  0  0  0  0  0 11  0  0
+   41.7592  -27.7622    0.0300 C   0  0  0  0  0  0  0  0  0 12  0  0
+   42.4646  -26.6325    0.0525 C   0  0  0  0  0  0  0  0  0 13  0  0
+   41.7795  -25.3392    0.0281 C   0  0  0  0  0  0  0  0  0 14  0  0
+   40.4497  -25.2918   -0.0113 C   0  0  0  0  0  0  0  0  0 15  0  0
+   44.2303  -26.6925    0.1249 S   0  0  0  0  0  0  0  0  0 16  0  0
+   44.7648  -25.3985    0.7088 O   0  0  0  0  0  0  0  0  0 17  0  0
+   44.6653  -27.8817    0.9600 O   0  0  0  0  0  0  0  0  0 18  0  0
+   44.8536  -26.8893   -1.4865 N   0  0  0  0  0  0  0  0  0 19  0  0
+   34.3855  -23.8913   -0.0170 N   0  0  0  0  0  0  0  0  0 20  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  4  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9  5  1  0
+  8 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 10  1  0
+ 13 16  1  0
+ 16 17  2  0
+ 16 18  2  0
+ 16 19  1  0
+  6 20  1  0
+M  END
+> <Name>
+Molecule
+
+> <OSM_ID>
+OSM-S-106
+
+> <Sample_ID>
+JRC50-2
+
+> <IC50_nM_Assay01>
+36
+
+$$$$
+Molecule
+  SciTegic02221311313D
+
+ 21 23  0  0  0  0            999 V2000
+   41.7457  -27.6715    0.0045 C   0  0  0  0  0  0  0  0  0  1  0  0
+   41.5764  -28.9879    0.0044 C   0  0  0  0  0  0  0  0  0  2  0  0
+   42.7338  -29.8555    0.0125 C   0  0  0  0  0  0  0  0  0  3  0  0
+   43.9565  -29.3253    0.0164 C   0  0  0  0  0  0  0  0  0  4  0  0
+   44.1461  -27.8595    0.0132 C   0  0  0  0  0  0  0  0  0  5  0  0
+   43.0910  -27.0473    0.0148 C   0  0  0  0  0  0  0  0  0  6  0  0
+   43.3044  -25.5892   -0.0081 N   0  0  0  0  0  0  0  0  0  7  0  0
+   42.3709  -24.7080    0.0864 C   0  0  0  0  0  0  0  0  0  8  0  0
+   42.5550  -23.2868   -0.0076 N   0  0  0  0  0  0  0  0  0  9  0  0
+   41.3628  -22.6247   -0.0270 C   0  0  0  0  0  0  0  0  0 10  0  0
+   40.1780  -23.5212    0.0529 C   0  0  0  0  0  0  0  0  0 11  0  0
+   40.7150  -25.0804    0.2888 S   0  0  0  0  0  0  0  0  0 12  0  0
+   38.8910  -23.1538   -0.0467 C   0  0  0  0  0  0  0  0  0 13  0  0
+   37.5919  -24.0289   -0.0281 C   0  0  0  0  0  0  0  0  0 14  0  0
+   41.2756  -21.3927   -0.1298 O   0  0  0  0  0  0  0  0  0 15  0  0
+   36.2824  -23.3892    0.0904 C   0  0  0  0  0  0  0  0  0 16  0  0
+   35.3802  -24.3671    0.0567 C   0  0  0  0  0  0  0  0  0 17  0  0
+   35.9858  -25.5918   -0.0729 N   0  0  0  0  0  0  0  0  0 18  0  0
+   37.3494  -25.3678   -0.1339 C   0  0  0  0  0  0  0  0  0 19  0  0
+   38.2668  -26.5295   -0.3248 C   0  0  0  0  0  0  0  0  0 20  0  0
+   33.8991  -24.1744    0.1384 C   0  0  0  0  0  0  0  0  0 21  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  8  1  0
+ 11 13  2  0
+ 13 14  1  0
+ 10 15  2  0
+ 14 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 14  2  0
+ 19 20  1  0
+ 17 21  1  0
+M  END
+> <Name>
+Molecule
+
+> <OSM_ID>
+OSM-S-108
+
+> <Sample_ID>
+AEW34-1
+
+> <IC50_nM_Assay01>
+1200
+
+$$$$
+Molecule
+  SciTegic02221311313D
+
+ 30 33  0  0  0  0            999 V2000
+   41.1937  -23.9857    0.2400 C   0  0  0  0  0  0  0  0  0  1  0  0
+   41.0571  -25.3071    0.2173 C   0  0  0  0  0  0  0  0  0  2  0  0
+   42.2299  -26.1475    0.0785 C   0  0  0  0  0  0  0  0  0  3  0  0
+   43.4338  -25.5871   -0.0301 C   0  0  0  0  0  0  0  0  0  4  0  0
+   43.5841  -24.1168   -0.0201 C   0  0  0  0  0  0  0  0  0  5  0  0
+   42.5156  -23.3328    0.1202 C   0  0  0  0  0  0  0  0  0  6  0  0
+   42.6821  -21.8747    0.0671 N   0  0  0  0  0  0  0  0  0  7  0  0
+   41.7496  -21.0085    0.2687 C   0  0  0  0  0  0  0  0  0  8  0  0
+   41.8937  -19.5949    0.0335 N   0  0  0  0  0  0  0  0  0  9  0  0
+   40.6810  -18.9684   -0.0647 C   0  0  0  0  0  0  0  0  0 10  0  0
+   39.5391  -19.8959    0.0969 C   0  0  0  0  0  0  0  0  0 11  0  0
+   40.1199  -21.3877    0.6830 S   0  0  0  0  0  0  0  0  0 12  0  0
+   38.2392  -19.6584   -0.1868 C   0  0  0  0  0  0  0  0  0 13  0  0
+   37.1839  -20.7779   -0.1062 C   0  0  0  0  0  0  0  0  0 14  0  0
+   40.5587  -17.7705   -0.3327 O   0  0  0  0  0  0  0  0  0 15  0  0
+   35.8285  -20.5942    0.4459 C   0  0  0  0  0  0  0  0  0 16  0  0
+   35.1899  -21.7680    0.3302 C   0  0  0  0  0  0  0  0  0 17  0  0
+   36.0879  -22.7512   -0.2237 N   0  0  0  0  0  0  0  0  0 18  0  0
+   37.2737  -22.0360   -0.5759 C   0  0  0  0  0  0  0  0  0 19  0  0
+   38.4189  -22.5969   -1.4247 C   0  0  0  0  0  0  0  0  0 20  0  0
+   33.7620  -21.9665    0.7872 C   0  0  0  0  0  0  0  0  0 21  0  0
+   35.9441  -24.2532   -0.1898 C   0  0  0  0  0  0  0  0  0 22  0  0
+   34.7669  -24.8802   -0.1104 C   0  0  0  0  0  0  0  0  0 23  0  0
+   34.7022  -26.3656   -0.0373 C   0  0  0  0  0  0  0  0  0 24  0  0
+   35.8267  -27.0901   -0.0189 C   0  0  0  0  0  0  0  0  0 25  0  0
+   37.1003  -26.4282   -0.0729 C   0  0  0  0  0  0  0  0  0 26  0  0
+   37.1613  -25.1070   -0.1574 C   0  0  0  0  0  0  0  0  0 27  0  0
+   35.7891  -28.4867    0.0448 N   0  3  0  0  0  0  0  0  0 28  0  0
+   34.7642  -29.0558    0.0610 O   0  0  0  0  0  0  0  0  0 29  0  0
+   36.9300  -29.1703    0.0766 O   0  5  0  0  0  0  0  0  0 30  0  0
+ 28 29  2  0
+ 28 30  1  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  8  1  0
+ 11 13  2  0
+ 13 14  1  0
+ 10 15  2  0
+ 14 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 14  2  0
+ 19 20  1  0
+ 17 21  1  0
+ 18 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 27 22  1  0
+ 25 28  1  0
+M  CHG  2  28   1  30  -1
+M  END
+> <Name>
+Molecule
+
+> <OSM_ID>
+OSM-S-109
+
+> <Sample_ID>
+MNR82-1
+
+> <IC50_nM_Assay01>
+262
+
+$$$$
+Molecule
+  SciTegic02221311313D
+
+ 31 34  0  0  0  0            999 V2000
+   41.0883  -24.0549    0.2470 C   0  0  0  0  0  0  0  0  0  1  0  0
+   40.8830  -25.3657    0.2340 C   0  0  0  0  0  0  0  0  0  2  0  0
+   42.0049  -26.2640    0.1198 C   0  0  0  0  0  0  0  0  0  3  0  0
+   43.2375  -25.7724    0.0234 C   0  0  0  0  0  0  0  0  0  4  0  0
+   43.4690  -24.3039    0.0235 C   0  0  0  0  0  0  0  0  0  5  0  0
+   42.4370  -23.4653    0.1419 C   0  0  0  0  0  0  0  0  0  6  0  0
+   42.6613  -22.0093    0.0817 N   0  0  0  0  0  0  0  0  0  7  0  0
+   41.7530  -21.1106    0.2737 C   0  0  0  0  0  0  0  0  0  8  0  0
+   41.9370  -19.6969    0.0333 N   0  0  0  0  0  0  0  0  0  9  0  0
+   40.7446  -19.0482   -0.0685 C   0  0  0  0  0  0  0  0  0 10  0  0
+   39.5677  -19.9293    0.0868 C   0  0  0  0  0  0  0  0  0 11  0  0
+   40.1112  -21.4378    0.6825 S   0  0  0  0  0  0  0  0  0 12  0  0
+   38.2852  -19.6772   -0.1999 C   0  0  0  0  0  0  0  0  0 13  0  0
+   37.2118  -20.7728   -0.1126 C   0  0  0  0  0  0  0  0  0 14  0  0
+   40.6494  -17.8354   -0.3439 O   0  0  0  0  0  0  0  0  0 15  0  0
+   35.8737  -20.6002    0.4680 C   0  0  0  0  0  0  0  0  0 16  0  0
+   35.2273  -21.7649    0.3513 C   0  0  0  0  0  0  0  0  0 17  0  0
+   36.1029  -22.7439   -0.2337 N   0  0  0  0  0  0  0  0  0 18  0  0
+   37.2920  -22.0411   -0.6066 C   0  0  0  0  0  0  0  0  0 19  0  0
+   38.4161  -22.5870   -1.4812 C   0  0  0  0  0  0  0  0  0 20  0  0
+   33.8093  -21.9660    0.8402 C   0  0  0  0  0  0  0  0  0 21  0  0
+   35.9676  -24.2461   -0.2059 C   0  0  0  0  0  0  0  0  0 22  0  0
+   34.7792  -24.8723   -0.1114 C   0  0  0  0  0  0  0  0  0 23  0  0
+   34.7231  -26.3582   -0.0358 C   0  0  0  0  0  0  0  0  0 24  0  0
+   35.8322  -27.0801   -0.0268 C   0  0  0  0  0  0  0  0  0 25  0  0
+   37.1175  -26.4232   -0.0977 C   0  0  0  0  0  0  0  0  0 26  0  0
+   37.1746  -25.1008   -0.1860 C   0  0  0  0  0  0  0  0  0 27  0  0
+   35.8103  -28.4774    0.0439 N   0  3  0  0  0  0  0  0  0 28  0  0
+   34.7737  -29.0469    0.0723 O   0  0  0  0  0  0  0  0  0 29  0  0
+   36.9415  -29.1642    0.0728 O   0  5  0  0  0  0  0  0  0 30  0  0
+   44.3072  -26.6489   -0.0854 O   0  0  0  0  0  0  0  0  0 31  0  0
+ 28 29  2  0
+ 28 30  1  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  8  1  0
+ 11 13  2  0
+ 13 14  1  0
+ 10 15  2  0
+ 14 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 14  2  0
+ 19 20  1  0
+ 17 21  1  0
+ 18 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 27 22  1  0
+  4 31  1  0
+ 25 28  1  0
+M  CHG  2  28   1  30  -1
+M  END
+> <Name>
+Molecule
+
+> <OSM_ID>
+OSM-S-110
+
+> <Sample_ID>
+MNR83-1
+
+> <IC50_nM_Assay01>
+2300
+
+$$$$
+Molecule
+  SciTegic02221311313D
+
+ 29 32  0  0  0  0            999 V2000
+   41.2066  -23.9605    0.2373 C   0  0  0  0  0  0  0  0  0  1  0  0
+   41.0633  -25.2812    0.2150 C   0  0  0  0  0  0  0  0  0  2  0  0
+   42.2320  -26.1274    0.0779 C   0  0  0  0  0  0  0  0  0  3  0  0
+   43.4388  -25.5729   -0.0296 C   0  0  0  0  0  0  0  0  0  4  0  0
+   43.5965  -24.1033   -0.0200 C   0  0  0  0  0  0  0  0  0  5  0  0
+   42.5317  -23.3139    0.1187 C   0  0  0  0  0  0  0  0  0  6  0  0
+   42.7050  -21.8565    0.0652 N   0  0  0  0  0  0  0  0  0  7  0  0
+   41.7762  -20.9863    0.2675 C   0  0  0  0  0  0  0  0  0  8  0  0
+   41.9258  -19.5730    0.0318 N   0  0  0  0  0  0  0  0  0  9  0  0
+   40.7159  -18.9435   -0.0652 C   0  0  0  0  0  0  0  0  0 10  0  0
+   39.5694  -19.8648    0.0965 C   0  0  0  0  0  0  0  0  0 11  0  0
+   40.1456  -21.3589    0.6832 S   0  0  0  0  0  0  0  0  0 12  0  0
+   38.2721  -19.6236   -0.1867 C   0  0  0  0  0  0  0  0  0 13  0  0
+   37.2085  -20.7349   -0.1064 C   0  0  0  0  0  0  0  0  0 14  0  0
+   40.5972  -17.7433   -0.3336 O   0  0  0  0  0  0  0  0  0 15  0  0
+   35.8540  -20.5406    0.4405 C   0  0  0  0  0  0  0  0  0 16  0  0
+   35.2064  -21.7083    0.3263 C   0  0  0  0  0  0  0  0  0 17  0  0
+   36.0977  -22.7011   -0.2232 N   0  0  0  0  0  0  0  0  0 18  0  0
+   37.2915  -21.9977   -0.5731 C   0  0  0  0  0  0  0  0  0 19  0  0
+   38.4340  -22.5685   -1.4144 C   0  0  0  0  0  0  0  0  0 20  0  0
+   33.7741  -21.8915    0.7793 C   0  0  0  0  0  0  0  0  0 21  0  0
+   35.9395  -24.2021   -0.1897 C   0  0  0  0  0  0  0  0  0 22  0  0
+   34.7525  -24.8098   -0.0940 C   0  0  0  0  0  0  0  0  0 23  0  0
+   34.6615  -26.2893   -0.0114 C   0  0  0  0  0  0  0  0  0 24  0  0
+   35.7648  -27.0395   -0.0026 C   0  0  0  0  0  0  0  0  0 25  0  0
+   37.0603  -26.3969   -0.0811 C   0  0  0  0  0  0  0  0  0 26  0  0
+   37.1425  -25.0758   -0.1722 C   0  0  0  0  0  0  0  0  0 27  0  0
+   35.6721  -28.4409    0.0819 O   0  0  0  0  0  0  0  0  0 28  0  0
+   36.9802  -29.0463    0.0818 C   0  0  0  0  0  0  0  0  0 29  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  8  1  0
+ 11 13  2  0
+ 13 14  1  0
+ 10 15  2  0
+ 14 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 14  2  0
+ 19 20  1  0
+ 17 21  1  0
+ 18 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 27 22  1  0
+ 25 28  1  0
+ 28 29  1  0
+M  END
+> <Name>
+Molecule
+
+> <OSM_ID>
+OSM-S-111
+
+> <Sample_ID>
+MNR84-1
+
+> <IC50_nM_Assay01>
+146
+
+$$$$
+Molecule
+  SciTegic02221311313D
+
+ 30 33  0  0  0  0            999 V2000
+   41.0954  -24.0292    0.2435 C   0  0  0  0  0  0  0  0  0  1  0  0
+   40.8806  -25.3384    0.2308 C   0  0  0  0  0  0  0  0  0  2  0  0
+   41.9958  -26.2445    0.1179 C   0  0  0  0  0  0  0  0  0  3  0  0
+   43.2321  -25.7618    0.0220 C   0  0  0  0  0  0  0  0  0  4  0  0
+   43.4741  -24.2945    0.0216 C   0  0  0  0  0  0  0  0  0  5  0  0
+   42.4483  -23.4489    0.1390 C   0  0  0  0  0  0  0  0  0  6  0  0
+   42.6812  -21.9935    0.0786 N   0  0  0  0  0  0  0  0  0  7  0  0
+   41.7794  -21.0894    0.2723 C   0  0  0  0  0  0  0  0  0  8  0  0
+   41.9702  -19.6787    0.0325 N   0  0  0  0  0  0  0  0  0  9  0  0
+   40.7769  -19.0146   -0.0703 C   0  0  0  0  0  0  0  0  0 10  0  0
+   39.6046  -19.9034    0.0899 C   0  0  0  0  0  0  0  0  0 11  0  0
+   40.1352  -21.4072    0.6848 S   0  0  0  0  0  0  0  0  0 12  0  0
+   38.3140  -19.6360   -0.1996 C   0  0  0  0  0  0  0  0  0 13  0  0
+   37.2406  -20.7365   -0.1149 C   0  0  0  0  0  0  0  0  0 14  0  0
+   40.6913  -17.8124   -0.3428 O   0  0  0  0  0  0  0  0  0 15  0  0
+   35.8990  -20.5429    0.4627 C   0  0  0  0  0  0  0  0  0 16  0  0
+   35.2436  -21.7063    0.3457 C   0  0  0  0  0  0  0  0  0 17  0  0
+   36.1186  -22.6950   -0.2360 N   0  0  0  0  0  0  0  0  0 18  0  0
+   37.3075  -21.9925   -0.6014 C   0  0  0  0  0  0  0  0  0 19  0  0
+   38.4334  -22.5563   -1.4724 C   0  0  0  0  0  0  0  0  0 20  0  0
+   33.8215  -21.8913    0.8289 C   0  0  0  0  0  0  0  0  0 21  0  0
+   35.9599  -24.1946   -0.2042 C   0  0  0  0  0  0  0  0  0 22  0  0
+   34.7741  -24.8025   -0.0945 C   0  0  0  0  0  0  0  0  0 23  0  0
+   34.6846  -26.2818   -0.0072 C   0  0  0  0  0  0  0  0  0 24  0  0
+   35.7884  -27.0311   -0.0067 C   0  0  0  0  0  0  0  0  0 25  0  0
+   37.0825  -26.3877   -0.1022 C   0  0  0  0  0  0  0  0  0 26  0  0
+   37.1628  -25.0667   -0.1991 C   0  0  0  0  0  0  0  0  0 27  0  0
+   35.6976  -28.4322    0.0867 O   0  0  0  0  0  0  0  0  0 28  0  0
+   37.0061  -29.0367    0.0788 C   0  0  0  0  0  0  0  0  0 29  0  0
+   44.2953  -26.6461   -0.0855 O   0  0  0  0  0  0  0  0  0 30  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  8  1  0
+ 11 13  2  0
+ 13 14  1  0
+ 10 15  2  0
+ 14 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 14  2  0
+ 19 20  1  0
+ 17 21  1  0
+ 18 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 27 22  1  0
+ 25 28  1  0
+ 28 29  1  0
+  4 30  1  0
+M  END
+> <Name>
+Molecule
+
+> <OSM_ID>
+OSM-S-112
+
+> <Sample_ID>
+MNR85-1
+
+> <IC50_nM_Assay01>
+1600
+
+$$$$
+Molecule
+  SciTegic02221311313D
+
+ 28 31  0  0  0  0            999 V2000
+   41.0705  -23.9868    0.2927 C   0  0  0  0  0  0  0  0  0  1  0  0
+   40.8319  -25.2899    0.2596 C   0  0  0  0  0  0  0  0  0  2  0  0
+   41.9224  -26.2092    0.0757 C   0  0  0  0  0  0  0  0  0  3  0  0
+   43.1656  -25.7427   -0.0604 C   0  0  0  0  0  0  0  0  0  4  0  0
+   43.4296  -24.2808   -0.0393 C   0  0  0  0  0  0  0  0  0  5  0  0
+   42.4221  -23.4242    0.1384 C   0  0  0  0  0  0  0  0  0  6  0  0
+   42.6709  -21.9732    0.0807 N   0  0  0  0  0  0  0  0  0  7  0  0
+   41.7775  -21.0610    0.2784 C   0  0  0  0  0  0  0  0  0  8  0  0
+   41.9804  -19.6536    0.0290 N   0  0  0  0  0  0  0  0  0  9  0  0
+   40.7963  -18.9959   -0.0836 C   0  0  0  0  0  0  0  0  0 10  0  0
+   39.6072  -19.8604    0.0744 C   0  0  0  0  0  0  0  0  0 11  0  0
+   40.1320  -21.3616    0.6897 S   0  0  0  0  0  0  0  0  0 12  0  0
+   38.3326  -19.5912   -0.2158 C   0  0  0  0  0  0  0  0  0 13  0  0
+   37.2126  -20.6413   -0.1225 C   0  0  0  0  0  0  0  0  0 14  0  0
+   40.7137  -17.7821   -0.3674 O   0  0  0  0  0  0  0  0  0 15  0  0
+   35.8644  -20.3777    0.3930 C   0  0  0  0  0  0  0  0  0 16  0  0
+   35.1724  -21.5173    0.3085 C   0  0  0  0  0  0  0  0  0 17  0  0
+   36.0281  -22.5506   -0.2002 N   0  0  0  0  0  0  0  0  0 18  0  0
+   37.2452  -21.9432   -0.5423 C   0  0  0  0  0  0  0  0  0 19  0  0
+   38.3465  -22.6294   -1.3080 C   0  0  0  0  0  0  0  0  0 20  0  0
+   33.7275  -21.6336    0.7459 C   0  0  0  0  0  0  0  0  0 21  0  0
+   35.8409  -24.0234   -0.1729 C   0  0  0  0  0  0  0  0  0 22  0  0
+   34.6389  -24.5944   -0.0005 C   0  0  0  0  0  0  0  0  0 23  0  0
+   34.5271  -26.0505    0.0823 C   0  0  0  0  0  0  0  0  0 24  0  0
+   35.6230  -26.7962    0.0176 C   0  0  0  0  0  0  0  0  0 25  0  0
+   36.9081  -26.1422   -0.1525 C   0  0  0  0  0  0  0  0  0 26  0  0
+   36.9783  -24.8752   -0.2454 N   0  0  0  0  0  0  0  0  0 27  0  0
+   41.6662  -27.5762    0.0436 O   0  0  0  0  0  0  0  0  0 28  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  8  1  0
+ 11 13  2  0
+ 13 14  1  0
+ 10 15  2  0
+ 14 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 14  2  0
+ 19 20  1  0
+ 17 21  1  0
+ 18 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 27 22  1  0
+  3 28  1  0
+M  END
+> <Name>
+Molecule
+
+> <OSM_ID>
+OSM-S-113
+
+> <Sample_ID>
+MNR92-1
+
+> <IC50_nM_Assay01>
+>40000
+
+$$$$
+Molecule
+  SciTegic02221311313D
+
+ 28 31  0  0  0  0            999 V2000
+   41.0794  -23.9961    0.2678 C   0  0  0  0  0  0  0  0  0  1  0  0
+   40.8508  -25.3030    0.2546 C   0  0  0  0  0  0  0  0  0  2  0  0
+   41.9566  -26.2201    0.1291 C   0  0  0  0  0  0  0  0  0  3  0  0
+   43.1969  -25.7494    0.0227 C   0  0  0  0  0  0  0  0  0  4  0  0
+   43.4533  -24.2860    0.0225 C   0  0  0  0  0  0  0  0  0  5  0  0
+   42.4381  -23.4302    0.1507 C   0  0  0  0  0  0  0  0  0  6  0  0
+   42.6886  -21.9791    0.0885 N   0  0  0  0  0  0  0  0  0  7  0  0
+   41.7987  -21.0636    0.2768 C   0  0  0  0  0  0  0  0  0  8  0  0
+   42.0098  -19.6577    0.0336 N   0  0  0  0  0  0  0  0  0  9  0  0
+   40.8255  -18.9788   -0.0814 C   0  0  0  0  0  0  0  0  0 10  0  0
+   39.6449  -19.8545    0.0751 C   0  0  0  0  0  0  0  0  0 11  0  0
+   40.1490  -21.3592    0.6801 S   0  0  0  0  0  0  0  0  0 12  0  0
+   38.3603  -19.5680   -0.2221 C   0  0  0  0  0  0  0  0  0 13  0  0
+   37.2683  -20.6453   -0.1320 C   0  0  0  0  0  0  0  0  0 14  0  0
+   40.7559  -17.7783   -0.3567 O   0  0  0  0  0  0  0  0  0 15  0  0
+   35.9348  -20.4030    0.4367 C   0  0  0  0  0  0  0  0  0 16  0  0
+   35.2465  -21.5466    0.3377 C   0  0  0  0  0  0  0  0  0 17  0  0
+   36.0936  -22.5720   -0.2282 N   0  0  0  0  0  0  0  0  0 18  0  0
+   37.3041  -21.9105   -0.5959 C   0  0  0  0  0  0  0  0  0 19  0  0
+   38.4182  -22.5265   -1.4445 C   0  0  0  0  0  0  0  0  0 20  0  0
+   33.8186  -21.6746    0.8252 C   0  0  0  0  0  0  0  0  0 21  0  0
+   35.8722  -24.0618   -0.1883 C   0  0  0  0  0  0  0  0  0 22  0  0
+   34.6575  -24.6009   -0.0657 C   0  0  0  0  0  0  0  0  0 23  0  0
+   34.4783  -26.0598    0.0348 C   0  0  0  0  0  0  0  0  0 24  0  0
+   35.5317  -26.8734    0.0363 C   0  0  0  0  0  0  0  0  0 25  0  0
+   36.8670  -26.3183   -0.0752 C   0  0  0  0  0  0  0  0  0 26  0  0
+   37.0303  -25.0030   -0.1869 C   0  0  0  0  0  0  0  0  0 27  0  0
+   44.2506  -26.6432   -0.0968 O   0  0  0  0  0  0  0  0  0 28  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  8  1  0
+ 11 13  2  0
+ 13 14  1  0
+ 10 15  2  0
+ 14 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 14  2  0
+ 19 20  1  0
+ 17 21  1  0
+ 18 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 27 22  1  0
+  4 28  1  0
+M  END
+> <Name>
+Molecule
+
+> <OSM_ID>
+OSM-S-114
+
+> <Sample_ID>
+MNR94-1
+
+> <IC50_nM_Assay01>
+1200
+
+$$$$
+Molecule
+  SciTegic02221311313D
+
+ 28 31  0  0  0  0            999 V2000
+   41.0437  -23.9669    0.2991 C   0  0  0  0  0  0  0  0  0  1  0  0
+   40.8041  -25.2700    0.2636 C   0  0  0  0  0  0  0  0  0  2  0  0
+   41.8938  -26.1911    0.0769 C   0  0  0  0  0  0  0  0  0  3  0  0
+   43.1375  -25.7267   -0.0592 C   0  0  0  0  0  0  0  0  0  4  0  0
+   43.4037  -24.2663   -0.0343 C   0  0  0  0  0  0  0  0  0  5  0  0
+   42.3986  -23.4077    0.1458 C   0  0  0  0  0  0  0  0  0  6  0  0
+   42.6546  -21.9589    0.0934 N   0  0  0  0  0  0  0  0  0  7  0  0
+   41.7660  -21.0425    0.2888 C   0  0  0  0  0  0  0  0  0  8  0  0
+   41.9798  -19.6354    0.0443 N   0  0  0  0  0  0  0  0  0  9  0  0
+   40.8008  -18.9689   -0.0749 C   0  0  0  0  0  0  0  0  0 10  0  0
+   39.6085  -19.8279    0.0732 C   0  0  0  0  0  0  0  0  0 11  0  0
+   40.1162  -21.3357    0.6876 S   0  0  0  0  0  0  0  0  0 12  0  0
+   38.3363  -19.5567   -0.2268 C   0  0  0  0  0  0  0  0  0 13  0  0
+   37.2402  -20.6249   -0.1336 C   0  0  0  0  0  0  0  0  0 14  0  0
+   40.7277  -17.7553   -0.3573 O   0  0  0  0  0  0  0  0  0 15  0  0
+   35.9119  -20.3990    0.4375 C   0  0  0  0  0  0  0  0  0 16  0  0
+   35.2274  -21.5420    0.3419 C   0  0  0  0  0  0  0  0  0 17  0  0
+   36.0731  -22.5621   -0.2275 N   0  0  0  0  0  0  0  0  0 18  0  0
+   37.2862  -21.9062   -0.6028 C   0  0  0  0  0  0  0  0  0 19  0  0
+   38.3985  -22.5085   -1.4508 C   0  0  0  0  0  0  0  0  0 20  0  0
+   33.8025  -21.6764    0.8363 C   0  0  0  0  0  0  0  0  0 21  0  0
+   35.8623  -24.0553   -0.1911 C   0  0  0  0  0  0  0  0  0 22  0  0
+   34.6435  -24.5979   -0.0633 C   0  0  0  0  0  0  0  0  0 23  0  0
+   34.4705  -26.0570    0.0360 C   0  0  0  0  0  0  0  0  0 24  0  0
+   35.5250  -26.8680    0.0325 C   0  0  0  0  0  0  0  0  0 25  0  0
+   36.8592  -26.3092   -0.0841 C   0  0  0  0  0  0  0  0  0 26  0  0
+   37.0177  -24.9940   -0.1949 C   0  0  0  0  0  0  0  0  0 27  0  0
+   41.6361  -27.5578    0.0420 O   0  0  0  0  0  0  0  0  0 28  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12  8  1  0
+ 11 13  2  0
+ 13 14  1  0
+ 10 15  2  0
+ 14 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 14  2  0
+ 19 20  1  0
+ 17 21  1  0
+ 18 22  1  0
+ 22 23  2  0
+ 23 24  1  0
+ 24 25  2  0
+ 25 26  1  0
+ 26 27  2  0
+ 27 22  1  0
+  3 28  1  0
+M  END
+> <Name>
+Molecule
+
+> <OSM_ID>
+OSM-S-115
+
+> <Sample_ID>
+MNR95-1
+
+> <IC50_nM_Assay01>
+1800
+
+$$$$
+Molecule
+  SciTegic02221311313D
+
+ 22 23  0  0  0  0            999 V2000
+   40.1840  -21.2050    0.2933 C   0  0  0  0  0  0  0  0  0  1  0  0
+   41.1468  -22.3709    0.1293 C   0  0  0  0  0  0  0  0  0  2  0  0
+   42.4761  -22.2345    0.0748 C   0  0  0  0  0  0  0  0  0  3  0  0
+   43.1014  -23.5418   -0.0890 C   0  0  0  0  0  0  0  0  0  4  0  0
+   42.1255  -24.4498   -0.1227 C   0  0  0  0  0  0  0  0  0  5  0  0
+   42.4267  -25.9289   -0.2804 C   0  0  0  0  0  0  0  0  0  6  0  0
+   40.8299  -23.7834    0.0035 N   0  0  0  0  0  0  0  0  0  7  0  0
+   39.4597  -24.4198   -0.0028 C   0  0  0  0  0  0  0  0  0  8  0  0
+   39.3040  -25.7460   -0.0638 C   0  0  0  0  0  0  0  0  0  9  0  0
+   37.9736  -26.3650   -0.0694 C   0  0  0  0  0  0  0  0  0 10  0  0
+   36.8831  -25.6071   -0.0159 C   0  0  0  0  0  0  0  0  0 11  0  0
+   37.0147  -24.1645    0.0480 C   0  0  0  0  0  0  0  0  0 12  0  0
+   38.2219  -23.6059    0.0551 C   0  0  0  0  0  0  0  0  0 13  0  0
+   35.6669  -26.1710   -0.0201 F   0  0  0  0  0  0  0  0  0 14  0  0
+   43.2486  -20.9633    0.1671 C   0  0  0  0  0  0  0  0  0 15  0  0
+   42.6764  -19.8929    0.4042 O   0  0  0  0  0  0  0  0  0 16  0  0
+   44.6511  -20.9973    0.0029 O   0  0  0  0  0  0  0  0  0 17  0  0
+   45.2668  -19.6840    0.1097 C   0  0  0  0  0  0  0  0  0 18  0  0
+   46.7609  -19.7905    0.1091 C   0  0  0  0  0  0  0  0  0 19  0  0
+   47.4465  -18.8151   -0.2184 O   0  0  0  0  0  0  0  0  0 20  0  0
+   47.3772  -20.9926    0.4555 N   0  0  0  0  0  0  0  0  0 21  0  0
+   44.8304  -18.6570   -0.9706 C   0  0  0  0  0  0  0  0  0 22  0  0
+  1  2  1  0
+  2  7  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  5  7  1  0
+  7  8  1  0
+  8 13  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 11 14  1  0
+ 12 13  2  0
+ 15 16  2  0
+ 15 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  2  0
+ 15  3  1  0
+ 21 19  1  0
+ 18 22  1  0
+M  END
+> <Name>
+Molecule
+
+> <OSM_ID>
+OSM-S-116
+
+> <Sample_ID>
+MD
+
+> <IC50_nM_Assay01>
+11000
+
+$$$$
 (2Z,5Z)-5-((1-(3-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methylene)-3-phenyl-2-(phenylimino)thiazolidin-4-one
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  34 38  0  0  0  0            999 V2000
    -0.2000   -3.6446   -0.1020 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7228,7 +7970,7 @@ dep1
 
 $$$$
 chloroquine
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  22 23  0  0  0  0            999 V2000
     1.5444   -3.8862   -0.0689 Cl  0  0  0  0  0  0  0  0  0  1  0  0
@@ -7291,7 +8033,7 @@ dep1
 
 $$$$
 artemisinin
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  25 28  0  0  0  0            999 V2000
     1.4648    1.9211   -0.5332 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7362,7 +8104,7 @@ dep1
 
 $$$$
 artesunate
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  33 36  0  0  0  0            999 V2000
    -4.7850   -5.6787    0.2945 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7446,7 +8188,7 @@ dep1
 
 $$$$
 Pyrimethamine
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  17 18  0  0  0  0            999 V2000
     3.5789    0.7114   -0.0001 Cl  0  0  0  0  0  0  0  0  0  1  0  0
@@ -7499,7 +8241,7 @@ dep1
 
 $$$$
 Tafenoquine
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  33 35  0  0  0  0            999 V2000
     4.1994   -1.3183    0.5021 F   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7585,7 +8327,7 @@ dep1
 
 $$$$
 Pyronaridine
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  37 42  0  0  0  0            999 V2000
    -5.5131    2.8279    0.2570 Cl  0  0  0  0  0  0  0  0  0  1  0  0
@@ -7679,7 +8421,7 @@ dep1
 
 $$$$
 Epoxomicin
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  46 46  0  0  0  0            999 V2000
     2.1928   -2.6204   -0.6772 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7789,7 +8531,7 @@ dep1
 
 $$$$
 Atovaquone
-  SciTegic01151318003D
+  SciTegic02221311313D
 
  28 31  0  0  0  0            999 V2000
     2.4533    1.8316   -5.3120 O   0  0  0  0  0  0  0  0  0  1  0  0
