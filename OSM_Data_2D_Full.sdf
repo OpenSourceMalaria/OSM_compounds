@@ -38,9 +38,12 @@ OSM-S-1
 > <Sample_ID>
 PMY 1-1, PMY 1-2, PMY 1-3, PMY 1-4, PMY 1-5, PMY 1-6
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/5403/Preparation_of_14Fluorophenyl25dimethyl1Hpyrrole_OSMS1.html
+
 $$$$
 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carbaldehyde
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  16 17  0  0  0  0            999 V2000
     1.9206   -1.7688    0.7886 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -89,12 +92,24 @@ PMY 2-4
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_GSK>
+>5000
+
+> <K1_IC50_nM_Avery>
+50%@120uM
+
+> <HEK293_at_120uM>
+25%
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/5848/Preparation_of_14fluorophenyl25dimethyl1Hpyrrole3carbaldehyde_OSMS2.html
+
+> <3D7_IC50_nM_Avery>
 60% @ 120000
 
 $$$$
 ethyl 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  19 20  0  0  0  0            999 V2000
     5.3610    5.2335    0.9158 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -146,15 +161,27 @@ OSM-S-3
 > <Sample_ID>
 PMY 6-1, JRC 1-1
 
-> <IC50_nM_Assay01>
-11960
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_GSK>
+>5000
+
+> <K1_IC50_nM_Avery>
+12400
+
+> <HEK293_at_120uM>
+25%
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7048/Preparation_of_OSMS3.html
+
+> <3D7_IC50_nM_Avery>
+11960
+
 $$$$
 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylic acid
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  17 18  0  0  0  0            999 V2000
     1.9509   -1.7378    0.7137 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -202,15 +229,27 @@ OSM-S-4
 > <Sample_ID>
 PMY 8-2, JRC 2-1
 
-> <IC50_nM_Assay01>
-75% @ 120000
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_GSK>
+>5000
+
+> <K1_IC50_nM_Avery>
+50%@120uM
+
+> <HEK293_at_120uM>
+20%
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7051/Preparation_of_OSMS4.html
+
+> <3D7_IC50_nM_Avery>
+75% @ 120000
+
 $$$$
 TCMDC-123812
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 22  0  0  0  0            999 V2000
     0.5975    2.6010    0.4260 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -266,15 +305,51 @@ OSM-S-5
 > <Sample_ID>
 PMY 10-2
 
-> <IC50_nM_Assay01>
-404
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_GSK>
+818
+
+> <K1_IC50_nM_Avery>
+375
+
+> <HEK293_at_120uM>
+20%
+
+> <Late_stage_gametocyte_IC50_nM>
+598
+
+> <Kinetic_solubility_pH2_ug_per_mL>
+50-100
+
+> <Kinetic_solubilitiy_pH6.5_ug_per_mL>
+50-100
+
+> <In_vitro_CLint_uL_min_mg_protein>
+29
+
+> <Degradation_half_life _mins>
+59
+
+> <Degradation_rate_classification>
+moderate
+
+> <hERG_IC50_uM>
+>33
+
+> <In_vivo_mouse_ P.Berghei_ora_50mg_per_kg>
+neg
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7054/Preparation_of_OSMS5.html
+
+> <3D7_IC50_nM_Avery>
+404
+
 $$$$
 TCMDC-123794
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  35 38  0  0  0  0            999 V2000
    -3.8429    7.1921    0.4559 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -360,15 +435,45 @@ OSM-S-6
 > <Sample_ID>
 PMY 11-2
 
-> <IC50_nM_Assay01>
-345
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_GSK>
+245
+
+> <K1_IC50_nM_Avery>
+152
+
+> <HEK293_at_120uM>
+20%
+
+> <Kinetic_solubility_pH2_ug_per_mL>
+12.5-25
+
+> <Kinetic_solubilitiy_pH6.5_ug_per_mL>
+12.5-25
+
+> <In_vitro_CLint_uL_min_mg_protein>
+60
+
+> <Degradation_half_life _mins>
+29
+
+> <Degradation_rate_classification>
+modrate
+
+> <In_vivo_mouse_ P.Berghei_ora_50mg_per_kg>
+neg
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7057/Preparation_of_OSMS6.html
+
+> <3D7_IC50_nM_Avery>
+345
+
 $$$$
 N-cyclohexyl-N-(cyclohexylcarbamoyl)-1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  32 35  0  0  0  0            999 V2000
    17.6958  -40.6723   -0.1277 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -448,15 +553,30 @@ OSM-S-7
 > <Sample_ID>
 PMY 12-1
 
-> <IC50_nM_Assay01>
-7800
-
 > <ChEMBL>
 dep1+2
 
+> <3D7_IC50_nM_Ralph>
+>1000
+
+> <3D7_IC50_nM_GSK>
+>5000
+
+> <K1_IC50_nM_Avery>
+4550
+
+> <HEK293_at_120uM>
+75%
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7059/Preparation_of_OSMS7.html
+
+> <3D7_IC50_nM_Avery>
+7800
+
 $$$$
 N-(1,5-dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazol-4-yl)-1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  31 34  0  0  0  0            999 V2000
     9.8129  -24.2040   -0.0004 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -534,15 +654,24 @@ OSM-S-8
 > <Sample_ID>
 PMY 12-5
 
-> <IC50_nM_Assay01>
-100% @ 80000
-
 > <ChEMBL>
 dep1+2
 
+> <3D7_IC50_nM_Ralph>
+>1000
+
+> <3D7_IC50_nM_GSK>
+>5000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7060/Preparation_of_OSMS8.html
+
+> <3D7_IC50_nM_Avery>
+100% @ 80000
+
 $$$$
 (Z)-N-(5-((1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methylene)-4-oxo-4,5-
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  31 34  0  0  0  0            999 V2000
     3.8269    1.8638   -0.0027 F   0  0  0  0  0  0  0  0  0  1  0  0
@@ -620,15 +749,39 @@ OSM-S-9
 > <Sample_ID>
 PMY 14-1, PMY 35-1
 
-> <IC50_nM_Assay01>
-47
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_GSK>
+46.5
+
+> <K1_IC50_nM_Avery>
+66.2
+
+> <HEK293_at_120uM>
+75%
+
+> <Late_stage_gametocyte_IC50_nM>
+53
+
+> <Kinetic_solubility_pH2_ug_per_mL>
+0-1.6
+
+> <Kinetic_solubilitiy_pH6.5_ug_per_mL>
+0-1.6
+
+> <Degradation_rate_classification>
+rapid non-NADPH acetamide hydrolysis to OSM-S-10
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7061/Preparation_of_OSMS9.html
+
+> <3D7_IC50_nM_Avery>
+47
+
 $$$$
 (Z)-5-((1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methylene)-2-(phenylamin
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  28 31  0  0  0  0            999 V2000
    -0.1525    3.5390   -0.1100 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -700,15 +853,39 @@ OSM-S-10
 > <Sample_ID>
 PMY 14-3-A, PMY 14-4, PMY 16-1
 
-> <IC50_nM_Assay01>
-176
-
 > <ChEMBL>
 dep1
 
+> <K1_IC50_nM_Avery>
+360.8
+
+> <HEK293_at_120uM>
+25%
+
+> <Kinetic_solubility_pH2_ug_per_mL>
+0-1.6
+
+> <Kinetic_solubilitiy_pH6.5_ug_per_mL>
+0-1.6
+
+> <In_vitro_CLint_uL_min_mg_protein>
+15-19
+
+> <Degradation_half_life _mins>
+92-113
+
+> <Degradation_rate_classification>
+moderate
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7062/Preparation_of_OSMS10.html
+
+> <3D7_IC50_nM_Avery>
+176
+
 $$$$
 (1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methanol
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  16 17  0  0  0  0            999 V2000
    13.0699  -31.3954   -0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -754,9 +931,12 @@ OSM-S-11
 > <Sample_ID>
 PMY 18-3, PMY 15-2
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7064/Preparation_of_OSMS11.html
+
 $$$$
 2,5-dimethyl-1-phenyl-1H-pyrrole-3-carboxylic acid
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  16 17  0  0  0  0            999 V2000
     0.8633    2.5980    0.0000 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -805,12 +985,21 @@ PMY 20-1
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <K1_IC50_nM_Avery>
+50%@120uM
+
+> <HEK293_at_120uM>
+0%
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7065/Preparation_of_OSMS12.html
+
+> <3D7_IC50_nM_Avery>
 70% @ 120000
 
 $$$$
 2,5-dimethyl-1-(p-tolyl)-1H-pyrrole-3-carboxylic acid
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  17 18  0  0  0  0            999 V2000
     5.9787    2.3111    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -858,15 +1047,24 @@ OSM-S-13
 > <Sample_ID>
 PMY 21-1
 
-> <IC50_nM_Assay01>
-70% @ 120000
-
 > <ChEMBL>
 dep1
 
+> <K1_IC50_nM_Avery>
+0%
+
+> <HEK293_at_120uM>
+0%
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7066/Preparation_of_OSMS13.html
+
+> <3D7_IC50_nM_Avery>
+70% @ 120000
+
 $$$$
 2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrole-3-carboxylic acid
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  20 21  0  0  0  0            999 V2000
     1.1630    2.7602   -0.0330 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -920,15 +1118,24 @@ OSM-S-14
 > <Sample_ID>
 PMY 22-1
 
-> <IC50_nM_Assay01>
-25% @ 120000
-
 > <ChEMBL>
 dep1
 
+> <K1_IC50_nM_Avery>
+0%
+
+> <HEK293_at_120uM>
+0%
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7068/Preparation_of_OSMS14.html
+
+> <3D7_IC50_nM_Avery>
+25% @ 120000
+
 $$$$
 2-benzamidoacetic acid
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  13 13  0  0  0  0            999 V2000
    19.7827  -17.9834    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -967,9 +1174,12 @@ OSM-S-15
 > <Sample_ID>
 PMY 26-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7069/Preparation_of_OSMS15.html
+
 $$$$
 N-(2-((1,5-dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazol-4-yl)amino)-2-oxoethyl)benzamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  27 29  0  0  0  0            999 V2000
     7.1680   -2.9938   -2.3229 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1041,12 +1251,18 @@ PMY 27-2
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_GSK>
+>5000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7070/Preparation_of_OSMS16.html
+
+> <3D7_IC50_nM_Avery>
 >80000
 
 $$$$
 tert-butyl (2-((1,5-dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazol-4-yl)amino)-2-oxoethyl)carbamate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  26 27  0  0  0  0            999 V2000
    28.5224  -18.9275    0.3943 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1112,9 +1328,12 @@ OSM-S-17
 > <Sample_ID>
 PMY 29-1, PMY 29-2
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7071/Preparation_of_OSMS17.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  19 20  0  0  0  0            999 V2000
    29.1461  -17.9926    0.0033 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1166,9 +1385,12 @@ OSM-S-18
 > <Sample_ID>
 PMY 30-3
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7072/Preparation_of_OSMS18.html
+
 $$$$
 N-(2-amino-2-oxoethyl)-1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 22  0  0  0  0            999 V2000
     0.7808    2.8242    0.0551 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1227,12 +1449,21 @@ PMY 31-5
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Ralph>
+>1000
+
+> <3D7_IC50_nM_GSK>
+>5000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7073/Preparation_of_OSMS19.html
+
+> <3D7_IC50_nM_Avery>
 25-80% @ 80000
 
 $$$$
 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carbonyl chloride
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  17 18  0  0  0  0            999 V2000
    26.7178  -39.1434    0.0003 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1280,9 +1511,12 @@ OSM-S-20
 > <Sample_ID>
 PMY 32-3
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7077/Preparation_of_OSMS20.html
+
 $$$$
 N-(2-((1,5-dimethyl-3-oxo-2-phenyl-2,3-dihydro-1H-pyrazol-4-yl)amino)-2-oxoethyl)-1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  35 38  0  0  0  0            999 V2000
    11.4612  -27.1678   -0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1371,12 +1605,21 @@ PMY 34-1
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Ralph>
+>1000
+
+> <3D7_IC50_nM_GSK>
+>5000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7078/Preparation_of_OSMS21.html
+
+> <3D7_IC50_nM_Avery>
 31000
 
 $$$$
 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  17 18  0  0  0  0            999 V2000
    12.1561  -34.7416   -0.0003 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1424,9 +1667,12 @@ OSM-S-22
 > <Sample_ID>
 PMY 42-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7079/Preparation_of_OSMS22.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  17 18  0  0  0  0            999 V2000
    12.3116  -34.6922    0.0023 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1474,9 +1720,12 @@ OSM-S-23
 > <Sample_ID>
 PMY 43-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7080/Preparation_of_OSMS23.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  15 16  0  0  0  0            999 V2000
    12.2366  -34.7597    0.0009 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1520,9 +1769,12 @@ OSM-S-24
 > <Sample_ID>
 PMY 44-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7081/Preparation_of_OSMS24.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  13 14  0  0  0  0            999 V2000
    12.1166  -34.8065    0.0006 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1562,9 +1814,12 @@ OSM-S-25
 > <Sample_ID>
 LMW 1-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7082/Preparation_of_OSMS25.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  14 15  0  0  0  0            999 V2000
    12.0686  -34.8455    0.0007 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1606,9 +1861,12 @@ OSM-S-26
 > <Sample_ID>
 LMW 2-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7083/Preparation_of_OSMS26.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  17 18  0  0  0  0            999 V2000
    11.8348  -34.9821    0.0304 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1656,9 +1914,12 @@ OSM-S-27
 > <Sample_ID>
 LMW 3-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7084/Preparation_of_OSMS27.html
+
 $$$$
 2,5-dimethyl-1-phenyl-1H-pyrrole-3-carbaldehyde
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  15 16  0  0  0  0            999 V2000
     0.9412    2.6332    0.0008 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1705,12 +1966,21 @@ LMW 4-1
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <K1_IC50_nM_Avery>
+80%@120uM
+
+> <HEK293_at_120uM>
+25%
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7085/Preparation_of_OSMS28.html
+
+> <3D7_IC50_nM_Avery>
 55% @ 120000
 
 $$$$
 2,5-dimethyl-1-(p-tolyl)-1H-pyrrole-3-carbaldehyde
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  16 17  0  0  0  0            999 V2000
     5.8946    2.2774    0.0008 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1756,15 +2026,24 @@ OSM-S-29
 > <Sample_ID>
 LMW 5-1
 
-> <IC50_nM_Assay01>
-could not determine
-
 > <ChEMBL>
 dep1
 
+> <K1_IC50_nM_Avery>
+Hook over
+
+> <HEK293_at_120uM>
+Hook over
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7086/Preparation_of_OSMS29.html
+
+> <3D7_IC50_nM_Avery>
+could not determine
+
 $$$$
 ethyl 2,5-dimethyl-1-(p-tolyl)-1H-pyrrole-3-carboxylate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  19 20  0  0  0  0            999 V2000
     5.3643    5.2412    0.9143 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1816,15 +2095,24 @@ OSM-S-30
 > <Sample_ID>
 LMW 6-1
 
-> <IC50_nM_Assay01>
-85% @ 120000
-
 > <ChEMBL>
 dep1
 
+> <K1_IC50_nM_Avery>
+50%@120uM
+
+> <HEK293_at_120uM>
+0%
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7087/Preparation_of_OSMS30.html
+
+> <3D7_IC50_nM_Avery>
+85% @ 120000
+
 $$$$
 ethyl 2,5-dimethyl-1-phenyl-1H-pyrrole-3-carboxylate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  18 19  0  0  0  0            999 V2000
     5.2740    5.1861    0.9066 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1874,15 +2162,24 @@ OSM-S-31
 > <Sample_ID>
 LMW 8-1
 
-> <IC50_nM_Assay01>
-80% @ 120000
-
 > <ChEMBL>
 dep1
 
+> <K1_IC50_nM_Avery>
+0%
+
+> <HEK293_at_120uM>
+0%
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7088/Preparation_of_OSMS31.html
+
+> <3D7_IC50_nM_Avery>
+80% @ 120000
+
 $$$$
 ethyl 2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrole-3-carboxylate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  22 23  0  0  0  0            999 V2000
     5.5553    5.4224    0.8989 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -1940,15 +2237,24 @@ OSM-S-32
 > <Sample_ID>
 LMW 9-1
 
-> <IC50_nM_Assay01>
-85% @ 120000
-
 > <ChEMBL>
 dep1
 
+> <K1_IC50_nM_Avery>
+20%@120uM
+
+> <HEK293_at_120uM>
+75%
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7089/Preparation_of_OSMS32.html
+
+> <3D7_IC50_nM_Avery>
+85% @ 120000
+
 $$$$
 1-(3,5-bis(trifluoromethyl)phenyl)-2,5-dimethyl-1H-pyrrole
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 22  0  0  0  0            999 V2000
    11.7475  -35.0705   -0.1407 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2004,9 +2310,12 @@ OSM-S-33
 > <Sample_ID>
 ZYH 1-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7090/Preparation_of_OSMS33.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  19 20  0  0  0  0            999 V2000
    11.9155  -34.8971    0.0252 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2058,9 +2367,12 @@ OSM-S-34
 > <Sample_ID>
 ZYH 2-2
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7091/Preparation_of_OSMS34.html
+
 $$$$
 (2Z,5Z)-5-((2,5-dimethyl-1-phenyl-1H-pyrrol-3-yl)methylene)-2-(phenylimino)thiazolidin-4-one
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  27 30  0  0  0  0            999 V2000
    -0.1720    3.5819   -0.0921 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2133,12 +2445,27 @@ ZYH 3-1, PMY 47-1, MNR93-1
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Ralph>
+10.9
+
+> <3D7_IC50_nM_GSK>
+36
+
+> <hERG_IC50_uM>
+>33
+
+> <In_vivo_mouse_ P.Berghei_ora_50mg_per_kg>
+neg
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7092/Preparation_of_OSMS35.html
+
+> <3D7_IC50_nM_Avery>
 26
 
 $$$$
 1-(3,5-bis(trifluoromethyl)phenyl)-2,5-dimethyl-1H-pyrrole-3-carbaldehyde
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  23 24  0  0  0  0            999 V2000
    11.8944  -35.5839   -0.0844 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2198,9 +2525,12 @@ OSM-S-36
 > <Sample_ID>
 ZYH 4-2/4-3
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7094/Preparation_of_OSMS36.html
+
 $$$$
 (2Z,5Z)-5-((2,5-dimethyl-1-(p-tolyl)-1H-pyrrol-3-yl)methylene)-2-(phenylimino)thiazolidin-4-one
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  28 31  0  0  0  0            999 V2000
     6.9696    2.5415    0.0050 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2275,12 +2605,36 @@ ZYH 5-1
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Ralph>
+9.2
+
+> <3D7_IC50_nM_GSK>
+15
+
+> <Kinetic_solubility_pH2_ug_per_mL>
+0-1.6
+
+> <Kinetic_solubilitiy_pH6.5_ug_per_mL>
+0-1.6
+
+> <In_vitro_CLint_uL_min_mg_protein>
+7
+
+> <Degradation_half_life _mins>
+245
+
+> <Degradation_rate_classification>
+low
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7095/Preparation_of_OSMS37.html
+
+> <3D7_IC50_nM_Avery>
 15
 
 $$$$
 (2Z,5Z)-5-((2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrol-3-yl)methylene)-2-(phenylimino)thiazolidin-4-one
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  31 34  0  0  0  0            999 V2000
    -0.0043    3.3934    0.5783 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2358,15 +2712,42 @@ OSM-S-38
 > <Sample_ID>
 ZYH 6-1/6-2
 
-> <IC50_nM_Assay01>
-2
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Ralph>
+205
+
+> <3D7_IC50_nM_GSK>
+29
+
+> <Late_stage_gametocyte_IC50_nM>
+2.2
+
+> <Kinetic_solubility_pH2_ug_per_mL>
+0.1-6
+
+> <Kinetic_solubilitiy_pH6.5_ug_per_mL>
+0-1.6
+
+> <In_vitro_CLint_uL_min_mg_protein>
+<7
+
+> <Degradation_half_life _mins>
+>250
+
+> <Degradation_rate_classification>
+low
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7096/Preparation_of_OSMS38.html
+
+> <3D7_IC50_nM_Avery>
+2
+
 $$$$
 (2Z,5Z)-5-((1-(3,5-bis(trifluoromethyl)phenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methylene)-2-(phenylimino)thiazolidin-4-one
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  35 38  0  0  0  0            999 V2000
     0.1115    3.2919   -0.6447 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2452,15 +2833,42 @@ OSM-S-39
 > <Sample_ID>
 ZYH 7-2
 
-> <IC50_nM_Assay01>
-0.78
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Ralph>
+4.7
+
+> <3D7_IC50_nM_GSK>
+7
+
+> <Late_stage_gametocyte_IC50_nM>
+0.78
+
+> <Kinetic_solubility_pH2_ug_per_mL>
+0-1.6
+
+> <Kinetic_solubilitiy_pH6.5_ug_per_mL>
+0-1.6
+
+> <In_vitro_CLint_uL_min_mg_protein>
+<7
+
+> <Degradation_half_life _mins>
+>250
+
+> <Degradation_rate_classification>
+low
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7097/Preparation_of_OSMS39.html
+
+> <3D7_IC50_nM_Avery>
+0.78
+
 $$$$
 ethyl 4-(2,5-dimethyl-1H-pyrrol-1-yl)benzoate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  18 19  0  0  0  0            999 V2000
    11.8223  -35.6489    0.0005 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2510,9 +2918,12 @@ OSM-S-40
 > <Sample_ID>
 ZYH 8-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7098/Preparation_of_OSMS40.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  13 14  0  0  0  0            999 V2000
    12.1407  -35.5620    0.0004 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2552,9 +2963,12 @@ OSM-S-41
 > <Sample_ID>
 ZYH 9-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7099/Preparation_of_OSMS41.html
+
 $$$$
 2-((2Z,5Z)-5-((2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrol-3-yl)methylene)-4-oxo-2-(phenylimino)thiazolidin-3-yl)acetonitrile
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  34 37  0  0  0  0            999 V2000
    -0.2522    3.4907   -0.0009 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2641,12 +3055,24 @@ ZYH 10-1 A
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Ralph>
+>1000
+
+> <3D7_IC50_nM_GSK>
+>5000
+
+> <HEK293_at_120uM>
+40%
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7100/Preparation_of_OSMS42.html
+
+> <3D7_IC50_nM_Avery>
 could not determine
 
 $$$$
 (Z)-2-((5-((2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrol-3-yl)methylene)-4-oxo-4,5-dihydrothiazol-2-yl)(phenyl)amino)acetonitrile
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  34 37  0  0  0  0            999 V2000
     0.4705   -3.5767   -0.0012 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2730,15 +3156,24 @@ OSM-S-43
 > <Sample_ID>
 ZYH 10-1 B
 
-> <IC50_nM_Assay01>
-3120
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Ralph>
+>1000
+
+> <3D7_IC50_nM_GSK>
+>5000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7110/Preparation_of_OSMS43.html
+
+> <3D7_IC50_nM_Avery>
+3120
+
 $$$$
 2,5-dimethyl-1-(pyridin-2-yl)-1H-pyrrole-3-carbaldehyde
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  15 16  0  0  0  0            999 V2000
    12.1857  -35.5087    0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2782,9 +3217,12 @@ OSM-S-44
 > <Sample_ID>
 ZYH 11-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7111/Preparation_of_OSMS44.html
+
 $$$$
 (Z)-N-(5-((2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrol-3-yl)methylene)-4-oxo-4,5-dihydrothiazol-2-yl)-N-phenylacetamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  34 37  0  0  0  0            999 V2000
     7.5037    1.9038    0.1298 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2871,12 +3309,21 @@ ZYH 12-1/12-2
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Ralph>
+7.7
+
+> <3D7_IC50_nM_GSK>
+26
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7112/Preparation_of_OSMS45.html
+
+> <3D7_IC50_nM_Avery>
 12
 
 $$$$
 ethyl 4-(3-formyl-2,5-dimethyl-1H-pyrrol-1-yl)benzoate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  20 21  0  0  0  0            999 V2000
    11.8768  -35.5676   -0.0006 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2930,9 +3377,12 @@ OSM-S-46
 > <Sample_ID>
 ZYH 13-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7113/Preparation_of_OSMS46.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  19 21  0  0  0  0            999 V2000
    27.7011  -21.6173   -0.0006 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -2985,9 +3435,12 @@ OSM-S-47
 > <Sample_ID>
 ZYH 14-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7114/Preparation_of_OSMS47.html
+
 $$$$
 ethyl 4-(2,5-dimethyl-3-((Z)-((Z)-4-oxo-2-(phenylimino)thiazolidin-5-ylidene)methyl)-1H-pyrrol-1-yl)benzoate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  32 35  0  0  0  0            999 V2000
     9.8647    1.0958    0.0005 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3070,12 +3523,21 @@ ZYH 15-1
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Ralph>
+338.9
+
+> <3D7_IC50_nM_GSK>
+267
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7115/Preparation_of_OSMS48.html
+
+> <3D7_IC50_nM_Avery>
 169
 
 $$$$
 (Z)-N-(5-((2,5-dimethyl-1-phenyl-1H-pyrrol-3-yl)methylene)-4-oxo-4,5-dihydrothiazol-2-yl)-N-phenylacetamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  30 33  0  0  0  0            999 V2000
     7.2492    1.7861   -0.0450 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3151,15 +3613,24 @@ OSM-S-49
 > <Sample_ID>
 ZYH 16-1
 
-> <IC50_nM_Assay01>
-63
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Ralph>
+27.6
+
+> <3D7_IC50_nM_GSK>
+85
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7116/Preparation_of_OSMS49.html
+
+> <3D7_IC50_nM_Avery>
+63
+
 $$$$
 (Z)-N-(5-((2,5-dimethyl-1-(p-tolyl)-1H-pyrrol-3-yl)methylene)-4-oxo-4,5-dihydrothiazol-2-yl)-N-phenylacetamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  31 34  0  0  0  0            999 V2000
     7.3380    1.8243   -0.0436 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3237,15 +3708,24 @@ OSM-S-50
 > <Sample_ID>
 ZYH 17-1
 
-> <IC50_nM_Assay01>
-326
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Ralph>
+156
+
+> <3D7_IC50_nM_GSK>
+25
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7117/Preparation_of_OSMS50.html
+
+> <3D7_IC50_nM_Avery>
+326
+
 $$$$
 (2Z,5Z)-5-((2,5-dimethyl-1-(pyridin-2-yl)-1H-pyrrol-3-yl)methylene)-2-(phenylimino)thiazolidin-4-one
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  27 30  0  0  0  0            999 V2000
    -0.2484    3.4588   -0.0940 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3315,15 +3795,24 @@ OSM-S-51
 > <Sample_ID>
 ZYH 18-1
 
-> <IC50_nM_Assay01>
-307
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Ralph>
+442.4
+
+> <3D7_IC50_nM_GSK>
+309
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7118/Preparation_of_OSMS51.html
+
+> <3D7_IC50_nM_Avery>
+307
+
 $$$$
 (2Z,5Z)-5-((2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrol-3-yl)methylene)-3-phenyl-2-(phenylimino)thiazolidin-4-one
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  37 41  0  0  0  0            999 V2000
    -0.3272   -3.4468    0.4952 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3414,15 +3903,24 @@ OSM-S-52
 > <Sample_ID>
 ZYH 19-1
 
-> <IC50_nM_Assay01>
-54
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Ralph>
+484.7
+
+> <3D7_IC50_nM_GSK>
+372
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7119/Preparation_of_OSMS52.html
+
+> <3D7_IC50_nM_Avery>
+54
+
 $$$$
 N-(phenylcarbamoyl)acetamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  13 13  0  0  0  0            999 V2000
    24.9258  -36.1119   -0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3461,9 +3959,12 @@ OSM-S-53
 > <Sample_ID>
 ZYH 20-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7120/Preparation_of_OSMS53.html
+
 $$$$
 (2Z,5Z)-3-cyclopentyl-5-((2,5-dimethyl-1-(4-(trifluoromethyl)phenyl)-1H-pyrrol-3-yl)methylene)-2-(phenylimino)thiazolidin-4-one
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  36 40  0  0  0  0            999 V2000
    -0.3604    3.5055    0.1854 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3555,12 +4056,36 @@ ZYH 22-3
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Ralph>
+520.1
+
+> <3D7_IC50_nM_GSK>
+276
+
+> <Kinetic_solubility_pH2_ug_per_mL>
+0-1.6
+
+> <Kinetic_solubilitiy_pH6.5_ug_per_mL>
+0-1.6
+
+> <In_vitro_CLint_uL_min_mg_protein>
+14
+
+> <Degradation_half_life _mins>
+121
+
+> <Degradation_rate_classification>
+moderate
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7121/Preparation_of_OSMS54.html
+
+> <3D7_IC50_nM_Avery>
 34
 
 $$$$
 (2Z,5E)-5-benzylidene-2-(phenylimino)thiazolidin-4-one
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  20 22  0  0  0  0            999 V2000
     3.3165    4.1216    0.0004 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3615,15 +4140,24 @@ OSM-S-55
 > <Sample_ID>
 ZYH 23-1
 
-> <IC50_nM_Assay01>
-could not determine
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Ralph>
+>1000
+
+> <3D7_IC50_nM_GSK>
+>5000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7122/Preparation_of_OSMS55.html
+
+> <3D7_IC50_nM_Avery>
+could not determine
+
 $$$$
 3-(N-(4-chlorobenzyl)sulfamoyl)-N,N-dimethyl-1H-1,2,4-triazole-1-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 22  0  0  0  0            999 V2000
    20.2984   -9.8956   -0.0814 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3679,15 +4213,18 @@ OSM-S-56
 > <Sample_ID>
 JRC 12-4(a)
 
-> <IC50_nM_Assay01>
-333
-
 > <ChEMBL>
 dep2
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7126/Preparation_of_OSMS56.html
+
+> <3D7_IC50_nM_Avery>
+333
+
 $$$$
 2-amino-2-oxoethyl 5-methyl-1-phenyl-1H-pyrazole-4-carboxylate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  19 20  0  0  0  0            999 V2000
    12.4845  -32.9606    0.0035 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3739,15 +4276,18 @@ OSM-S-57
 > <Sample_ID>
 PMY 50-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7127/Preparation_of_OSMS57.html
+
+> <3D7_IC50_nM_Avery>
+>40000
+
 $$$$
 2-(((1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)amino)acetamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  20 21  0  0  0  0            999 V2000
    26.1087   -7.7645    0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3801,15 +4341,18 @@ OSM-S-58
 > <Sample_ID>
 PMY 38-5-B
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7138/Preparation_of_OSMS58.html
+
 $$$$
 N-(2-amino-2-oxoethyl)-1-(4-fluorophenyl)-N,2,5-trimethyl-1H-pyrrole-3-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  22 23  0  0  0  0            999 V2000
    26.1159   -7.7400    0.0000 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3867,15 +4410,18 @@ OSM-S-59
 > <Sample_ID>
 PMY 55-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7140/Preparation_of_OSMS59.html
+
 $$$$
 2-(((1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)(methyl)amino)acetamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 22  0  0  0  0            999 V2000
    26.1753   -7.9026    0.0461 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -3931,220 +4477,226 @@ OSM-S-60
 > <Sample_ID>
 PMY 56-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7141/Preparation_of_OSMS60.html
+
 $$$$
-methyl 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamido)-3-hydroxypropanoate
-  SciTegic03201316493D
+methyl 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamido)-3-hydroxypr
+  DSViewer          3D                             0
 
- 24 25  0  0  0  0            999 V2000
-   25.2731   -7.6732   -0.0749 C   0  0  0  0  0  0  0  0  0  1  0  0
-   23.9381   -7.8316   -0.0508 C   0  0  0  0  0  0  0  0  0  2  0  0
-   23.6554   -9.2565    0.0356 N   0  0  0  0  0  0  0  0  0  3  0  0
-   24.9624   -9.9013    0.0690 C   0  0  0  0  0  0  0  0  0  4  0  0
-   25.9231   -8.9762    0.0083 C   0  0  0  0  0  0  0  0  0  5  0  0
-   22.2921   -9.9172    0.0473 C   0  0  0  0  0  0  0  0  0  6  0  0
-   21.1704   -9.1926    0.0320 C   0  0  0  0  0  0  0  0  0  7  0  0
-   19.8465   -9.8049    0.0272 C   0  0  0  0  0  0  0  0  0  8  0  0
-   19.7274  -11.1260    0.0349 C   0  0  0  0  0  0  0  0  0  9  0  0
-   20.9244  -11.9562    0.0534 C   0  0  0  0  0  0  0  0  0 10  0  0
-   22.1323  -11.3913    0.0606 C   0  0  0  0  0  0  0  0  0 11  0  0
-   18.5110  -11.6896    0.0257 F   0  0  0  0  0  0  0  0  0 12  0  0
-   25.9993   -6.3693   -0.1919 C   0  0  0  0  0  0  0  0  0 13  0  0
-   27.3459   -6.3416   -0.1627 N   0  0  0  0  0  0  0  0  0 14  0  0
-   28.1002   -5.0859   -0.3167 C   0  0  3  0  0  0  0  0  0 15  0  0
-   29.5803   -5.2838   -0.1280 C   0  0  0  0  0  0  0  0  0 16  0  0
-   30.3880   -4.1923    0.2044 O   0  0  0  0  0  0  0  0  0 17  0  0
-   30.0789   -6.4059   -0.2671 O   0  0  0  0  0  0  0  0  0 18  0  0
-   22.9482   -6.6744   -0.1183 C   0  0  0  0  0  0  0  0  0 19  0  0
-   25.2848  -11.3780    0.1553 C   0  0  0  0  0  0  0  0  0 20  0  0
-   25.3718   -5.3235   -0.3574 O   0  0  0  0  0  0  0  0  0 21  0  0
-   27.5896   -3.8567    0.4889 C   0  0  0  0  0  0  0  0  0 22  0  0
-   28.3017   -2.6814    0.0935 O   0  0  0  0  0  0  0  0  0 23  0  0
-   31.7505   -4.6032    0.3308 C   0  0  0  0  0  0  0  0  0 24  0  0
-  1  2  2  0
-  2  3  1  0
-  3  4  1  0
-  4  5  2  0
-  5  1  1  0
-  3  6  1  0
-  6  7  2  0
-  7  8  1  0
-  8  9  2  0
-  9 10  1  0
- 10 11  2  0
- 11  6  1  0
-  9 12  1  0
-  1 13  1  0
- 13 14  1  0
- 14 15  1  0
- 15 16  1  0
- 16 17  1  0
- 16 18  2  0
-  2 19  1  0
-  4 20  1  0
- 13 21  2  0
- 15 22  1  0
- 22 23  1  0
- 17 24  1  0
+ 24 25  0  0  0  0  0  0  0  0999 V2000
+   25.2731   -7.6732   -0.0749 C   0  0  0  0  0  0  0  0  0  1
+   23.9381   -7.8316   -0.0508 C   0  0  0  0  0  0  0  0  0  2
+   23.6554   -9.2565    0.0356 N   0  0  0  0  0  0  0  0  0  3
+   24.9624   -9.9013    0.0690 C   0  0  0  0  0  0  0  0  0  4
+   25.9231   -8.9762    0.0083 C   0  0  0  0  0  0  0  0  0  5
+   22.2921   -9.9172    0.0473 C   0  0  0  0  0  0  0  0  0  6
+   21.1704   -9.1926    0.0320 C   0  0  0  0  0  0  0  0  0  7
+   19.8465   -9.8049    0.0272 C   0  0  0  0  0  0  0  0  0  8
+   19.7274  -11.1260    0.0349 C   0  0  0  0  0  0  0  0  0  9
+   20.9244  -11.9562    0.0534 C   0  0  0  0  0  0  0  0  0 10
+   22.1323  -11.3913    0.0606 C   0  0  0  0  0  0  0  0  0 11
+   18.5110  -11.6896    0.0257 F   0  0  0  0  0  0  0  0  0 12
+   25.9993   -6.3693   -0.1919 C   0  0  0  0  0  0  0  0  0 13
+   27.3459   -6.3416   -0.1627 N   0  0  0  0  0  0  0  0  0 14
+   28.1002   -5.0859   -0.3167 C   0  0  3  0  0  0  0  0  0 15
+   29.5803   -5.2838   -0.1280 C   0  0  0  0  0  0  0  0  0 16
+   30.3880   -4.1923    0.2044 O   0  0  0  0  0  0  0  0  0 17
+   30.0789   -6.4059   -0.2671 O   0  0  0  0  0  0  0  0  0 18
+   22.9482   -6.6744   -0.1183 C   0  0  0  0  0  0  0  0  0 19
+   25.2848  -11.3780    0.1553 C   0  0  0  0  0  0  0  0  0 20
+   25.3718   -5.3235   -0.3574 O   0  0  0  0  0  0  0  0  0 21
+   27.5896   -3.8567    0.4889 C   0  0  0  0  0  0  0  0  0 22
+   28.3017   -2.6814    0.0935 O   0  0  0  0  0  0  0  0  0 23
+   31.7505   -4.6032    0.3308 C   0  0  0  0  0  0  0  0  0 24
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  3  4  1  0  0  0
+  4  5  2  0  0  0
+  5  1  1  0  0  0
+  3  6  1  0  0  0
+  6  7  2  0  0  0
+  7  8  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  2  0  0  0
+ 11  6  1  0  0  0
+  9 12  1  0  0  0
+  1 13  1  0  0  0
+ 13 14  1  0  0  0
+ 14 15  1  0  0  0
+ 15 16  1  0  0  0
+ 16 17  1  0  0  0
+ 16 18  2  0  0  0
+  2 19  1  0  0  0
+  4 20  1  0  0  0
+ 13 21  2  0  0  0
+ 15 22  1  0  0  0
+ 22 23  1  0  0  0
+ 17 24  1  0  0  0
 M  END
-> <Name>
-methyl 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamido)-3-hydroxypropanoate
-
 > <OSM_ID>
 OSM-S-61
 
 > <Sample_ID>
 PMY 57-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7142/Preparation_of_OSMS61.html
+
 $$$$
 methyl 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)oxazole-4-carboxylate
-  SciTegic03201316493D
+  DSViewer          3D                             0
 
- 23 25  0  0  0  0            999 V2000
-   26.9912   -7.0866    5.7388 C   0  0  0  0  0  0  0  0  0  1  0  0
-   25.6838   -7.3497    5.7388 C   0  0  0  0  0  0  0  0  0  2  0  0
-   25.5150   -8.7953    5.7389 N   0  0  0  0  0  0  0  0  0  3  0  0
-   26.8732   -9.3304    5.7389 C   0  0  0  0  0  0  0  0  0  4  0  0
-   27.7509   -8.3277    5.7389 C   0  0  0  0  0  0  0  0  0  5  0  0
-   24.2217   -9.5699    5.7388 C   0  0  0  0  0  0  0  0  0  6  0  0
-   23.0387   -8.9474    5.7385 C   0  0  0  0  0  0  0  0  0  7  0  0
-   21.7769   -9.6850    5.7384 C   0  0  0  0  0  0  0  0  0  8  0  0
-   21.7822  -11.0126    5.7386 C   0  0  0  0  0  0  0  0  0  9  0  0
-   23.0492  -11.7267    5.7390 C   0  0  0  0  0  0  0  0  0 10  0  0
-   24.1967  -11.0508    5.7390 C   0  0  0  0  0  0  0  0  0 11  0  0
-   20.6256  -11.6897    5.7385 F   0  0  0  0  0  0  0  0  0 12  0  0
-   27.6169   -5.7485    5.7387 C   0  0  0  0  0  0  0  0  0 13  0  0
-   28.8739   -5.5557    5.7387 N   0  0  0  0  0  0  0  0  0 14  0  0
-   29.0465   -4.1789    5.7386 C   0  0  0  0  0  0  0  0  0 15  0  0
-   30.3321   -3.4938    5.7386 C   0  0  0  0  0  0  0  0  0 16  0  0
-   30.3706   -2.1012    5.7385 O   0  0  0  0  0  0  0  0  0 17  0  0
-   31.3815   -4.1474    5.7386 O   0  0  0  0  0  0  0  0  0 18  0  0
-   24.6144   -6.2664    5.7388 C   0  0  0  0  0  0  0  0  0 19  0  0
-   27.3260  -10.7747    5.7390 C   0  0  0  0  0  0  0  0  0 20  0  0
-   26.9411   -4.5549    5.7386 O   0  0  0  0  0  0  0  0  0 21  0  0
-   27.8688   -3.5681    5.7386 C   0  0  0  0  0  0  0  0  0 22  0  0
-   31.7276   -1.6525    5.7385 C   0  0  0  0  0  0  0  0  0 23  0  0
-  1  2  2  0
-  2  3  1  0
-  3  4  1  0
-  4  5  2  0
-  5  1  1  0
-  3  6  1  0
-  6  7  2  0
-  7  8  1  0
-  8  9  2  0
-  9 10  1  0
- 10 11  2  0
- 11  6  1  0
-  9 12  1  0
-  1 13  1  0
- 13 14  2  0
- 14 15  1  0
- 15 16  1  0
- 16 17  1  0
- 16 18  2  0
-  2 19  1  0
-  4 20  1  0
- 15 22  2  0
- 17 23  1  0
- 22 21  1  0
- 13 21  1  0
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+   26.9912   -7.0866    5.7388 C   0  0  0  0  0  0  0  0  0  1
+   25.6838   -7.3497    5.7388 C   0  0  0  0  0  0  0  0  0  2
+   25.5150   -8.7953    5.7389 N   0  0  0  0  0  0  0  0  0  3
+   26.8732   -9.3304    5.7389 C   0  0  0  0  0  0  0  0  0  4
+   27.7509   -8.3277    5.7389 C   0  0  0  0  0  0  0  0  0  5
+   24.2217   -9.5699    5.7388 C   0  0  0  0  0  0  0  0  0  6
+   23.0387   -8.9474    5.7385 C   0  0  0  0  0  0  0  0  0  7
+   21.7769   -9.6850    5.7384 C   0  0  0  0  0  0  0  0  0  8
+   21.7822  -11.0126    5.7386 C   0  0  0  0  0  0  0  0  0  9
+   23.0492  -11.7267    5.7390 C   0  0  0  0  0  0  0  0  0 10
+   24.1967  -11.0508    5.7390 C   0  0  0  0  0  0  0  0  0 11
+   20.6256  -11.6897    5.7385 F   0  0  0  0  0  0  0  0  0 12
+   27.6169   -5.7485    5.7387 C   0  0  0  0  0  0  0  0  0 13
+   28.8739   -5.5557    5.7387 N   0  0  0  0  0  0  0  0  0 14
+   29.0465   -4.1789    5.7386 C   0  0  0  0  0  0  0  0  0 15
+   30.3321   -3.4938    5.7386 C   0  0  0  0  0  0  0  0  0 16
+   30.3706   -2.1012    5.7385 O   0  0  0  0  0  0  0  0  0 17
+   31.3815   -4.1474    5.7386 O   0  0  0  0  0  0  0  0  0 18
+   24.6144   -6.2664    5.7388 C   0  0  0  0  0  0  0  0  0 19
+   27.3260  -10.7747    5.7390 C   0  0  0  0  0  0  0  0  0 20
+   26.9411   -4.5549    5.7386 O   0  0  0  0  0  0  0  0  0 21
+   27.8688   -3.5681    5.7386 C   0  0  0  0  0  0  0  0  0 22
+   31.7276   -1.6525    5.7385 C   0  0  0  0  0  0  0  0  0 23
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  3  4  1  0  0  0
+  4  5  2  0  0  0
+  5  1  1  0  0  0
+  3  6  1  0  0  0
+  6  7  2  0  0  0
+  7  8  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  2  0  0  0
+ 11  6  1  0  0  0
+  9 12  1  0  0  0
+  1 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 15 16  1  0  0  0
+ 16 17  1  0  0  0
+ 16 18  2  0  0  0
+  2 19  1  0  0  0
+  4 20  1  0  0  0
+ 15 22  2  0  0  0
+ 17 23  1  0  0  0
+ 22 21  1  0  0  0
+ 13 21  1  0  0  0
 M  END
-> <Name>
-methyl 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)oxazole-4-carboxylate
-
 > <OSM_ID>
 OSM-S-62
 
 > <Sample_ID>
 PMY 58-1-A
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7143/Preparation_of_OSMS62.html
+
 $$$$
-methyl 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)-4,5-dihydrooxazole-4-carboxylate
-  SciTegic03201316493D
+methyl 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)-4,5-dihydrooxazole-4-
+  DSViewer          3D                             0
 
- 23 25  0  0  0  0            999 V2000
-   36.9959  -20.0934   -0.0399 C   0  0  0  0  0  0  0  0  0  1  0  0
-   35.6900  -20.3654   -0.0041 C   0  0  0  0  0  0  0  0  0  2  0  0
-   35.5308  -21.8117    0.0305 N   0  0  0  0  0  0  0  0  0  3  0  0
-   36.8920  -22.3383    0.0225 C   0  0  0  0  0  0  0  0  0  4  0  0
-   37.7635  -21.3306   -0.0207 C   0  0  0  0  0  0  0  0  0  5  0  0
-   34.2411  -22.5942    0.0375 C   0  0  0  0  0  0  0  0  0  6  0  0
-   33.0548  -21.9780    0.0342 C   0  0  0  0  0  0  0  0  0  7  0  0
-   31.7968  -22.7210    0.0290 C   0  0  0  0  0  0  0  0  0  8  0  0
-   31.8082  -24.0483    0.0251 C   0  0  0  0  0  0  0  0  0  9  0  0
-   33.0789  -24.7566    0.0293 C   0  0  0  0  0  0  0  0  0 10  0  0
-   34.2235  -24.0754    0.0358 C   0  0  0  0  0  0  0  0  0 11  0  0
-   30.6545  -24.7305    0.0174 F   0  0  0  0  0  0  0  0  0 12  0  0
-   37.6125  -18.7488   -0.1046 C   0  0  0  0  0  0  0  0  0 13  0  0
-   38.8677  -18.5646   -0.1587 N   0  0  0  0  0  0  0  0  0 14  0  0
-   39.0746  -17.1727   -0.2950 C   0  0  3  0  0  0  0  0  0 15  0  0
-   40.3957  -16.5177   -0.0442 C   0  0  0  0  0  0  0  0  0 16  0  0
-   40.4569  -15.1348    0.1203 O   0  0  0  0  0  0  0  0  0 17  0  0
-   41.4264  -17.1986    0.0024 O   0  0  0  0  0  0  0  0  0 18  0  0
-   34.6116  -19.2909   -0.0165 C   0  0  0  0  0  0  0  0  0 19  0  0
-   37.3528  -23.7799    0.0523 C   0  0  0  0  0  0  0  0  0 20  0  0
-   36.9051  -17.5628   -0.1137 O   0  0  0  0  0  0  0  0  0 21  0  0
-   37.7669  -16.4594    0.0298 C   0  0  0  0  0  0  0  0  0 22  0  0
-   41.8109  -14.7284    0.3306 C   0  0  0  0  0  0  0  0  0 23  0  0
-  1  2  2  0
-  2  3  1  0
-  3  4  1  0
-  4  5  2  0
-  5  1  1  0
-  3  6  1  0
-  6  7  2  0
-  7  8  1  0
-  8  9  2  0
-  9 10  1  0
- 10 11  2  0
- 11  6  1  0
-  9 12  1  0
-  1 13  1  0
- 13 14  2  0
- 14 15  1  0
- 15 16  1  0
- 16 17  1  0
- 16 18  2  0
-  2 19  1  0
-  4 20  1  0
- 15 22  1  0
- 17 23  1  0
- 22 21  1  0
- 13 21  1  0
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+   36.9959  -20.0934   -0.0399 C   0  0  0  0  0  0  0  0  0  1
+   35.6900  -20.3654   -0.0041 C   0  0  0  0  0  0  0  0  0  2
+   35.5308  -21.8117    0.0305 N   0  0  0  0  0  0  0  0  0  3
+   36.8920  -22.3383    0.0225 C   0  0  0  0  0  0  0  0  0  4
+   37.7635  -21.3306   -0.0207 C   0  0  0  0  0  0  0  0  0  5
+   34.2411  -22.5942    0.0375 C   0  0  0  0  0  0  0  0  0  6
+   33.0548  -21.9780    0.0342 C   0  0  0  0  0  0  0  0  0  7
+   31.7968  -22.7210    0.0290 C   0  0  0  0  0  0  0  0  0  8
+   31.8082  -24.0483    0.0251 C   0  0  0  0  0  0  0  0  0  9
+   33.0789  -24.7566    0.0293 C   0  0  0  0  0  0  0  0  0 10
+   34.2235  -24.0754    0.0358 C   0  0  0  0  0  0  0  0  0 11
+   30.6545  -24.7305    0.0174 F   0  0  0  0  0  0  0  0  0 12
+   37.6125  -18.7488   -0.1046 C   0  0  0  0  0  0  0  0  0 13
+   38.8677  -18.5646   -0.1587 N   0  0  0  0  0  0  0  0  0 14
+   39.0746  -17.1727   -0.2950 C   0  0  3  0  0  0  0  0  0 15
+   40.3957  -16.5177   -0.0442 C   0  0  0  0  0  0  0  0  0 16
+   40.4569  -15.1348    0.1203 O   0  0  0  0  0  0  0  0  0 17
+   41.4264  -17.1986    0.0024 O   0  0  0  0  0  0  0  0  0 18
+   34.6116  -19.2909   -0.0165 C   0  0  0  0  0  0  0  0  0 19
+   37.3528  -23.7799    0.0523 C   0  0  0  0  0  0  0  0  0 20
+   36.9051  -17.5628   -0.1137 O   0  0  0  0  0  0  0  0  0 21
+   37.7669  -16.4594    0.0298 C   0  0  0  0  0  0  0  0  0 22
+   41.8109  -14.7284    0.3306 C   0  0  0  0  0  0  0  0  0 23
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  3  4  1  0  0  0
+  4  5  2  0  0  0
+  5  1  1  0  0  0
+  3  6  1  0  0  0
+  6  7  2  0  0  0
+  7  8  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  2  0  0  0
+ 11  6  1  0  0  0
+  9 12  1  0  0  0
+  1 13  1  0  0  0
+ 13 14  2  0  0  0
+ 14 15  1  0  0  0
+ 15 16  1  0  0  0
+ 16 17  1  0  0  0
+ 16 18  2  0  0  0
+  2 19  1  0  0  0
+  4 20  1  0  0  0
+ 15 22  1  0  0  0
+ 17 23  1  0  0  0
+ 22 21  1  0  0  0
+ 13 21  1  0  0  0
 M  END
-> <Name>
-methyl 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)-4,5-dihydrooxazole-4-carboxylate
-
 > <OSM_ID>
 OSM-S-63
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <Sample_ID>
+PMY 58-1
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7144/Preparation_of_OSMS63.html
+
 $$$$
 4-(thieno[3,2-d]pyrimidin-4-yl)morpholine
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  15 17  0  0  0  0            999 V2000
    20.5656   -7.8758   -0.0701 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4189,15 +4741,18 @@ OSM-S-64
 > <Sample_ID>
 JRC 17-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7145/Preparation_of_OSMS64.html
+
 $$$$
 6-iodothieno[3,2-d]pyrimidin-4-ol
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  11 12  0  0  0  0            999 V2000
    18.8282   -8.0647   -0.0020 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4233,15 +4788,18 @@ OSM-S-65
 > <Sample_ID>
 JRC 20-3
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7146/Preparation_of_OSMS65.html
+
 $$$$
 3-(benzylthio)-1H-1,2,4-triazole
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  13 14  0  0  0  0            999 V2000
    11.4623  -15.5590   -0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4281,15 +4839,18 @@ OSM-S-66
 > <Sample_ID>
 JRC 6-5
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7147/Preparation_of_OSMS66.html
+
 $$$$
 3-(benzylthio)-N,N-dimethyl-1H-1,2,4-triazole-1-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  18 19  0  0  0  0            999 V2000
    13.3971   -5.0703   -0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4339,15 +4900,18 @@ OSM-S-67
 > <Sample_ID>
 JRC 10-5
 
-> <IC50_nM_Assay01>
-438
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+438
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7148/Preparation_of_OSMS67.html
+
 $$$$
 1-amino-2-methyl-1-oxopropan-2-yl 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  23 24  0  0  0  0            999 V2000
    18.0751   -8.0462   -0.0159 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4407,15 +4971,18 @@ OSM-S-68
 > <Sample_ID>
 MD 5-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7149/Preparation_of_OSMS68.html
+
 $$$$
 methyl 3-formamidothiophene-2-carboxylate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  12 12  0  0  0  0            999 V2000
    18.1190  -10.8069   -0.0009 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4452,15 +5019,18 @@ OSM-S-69
 > <Sample_ID>
 JRC15-3
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7150/Preparation_of_OSMS69.html
+
 $$$$
 4-chlorothieno[3,2-d]pyrimidine
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  10 11  0  0  0  0            999 V2000
    11.1813  -10.2524   -0.0005 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4494,15 +5064,18 @@ OSM-S-70
 > <Sample_ID>
 JRC13-3
 
-> <IC50_nM_Assay01>
-94000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+94000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7151/Preparation_of_OSMS70.html
+
 $$$$
 thieno[3,2-d]pyrimidin-4-amine
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  10 11  0  0  0  0            999 V2000
    11.1828  -10.2052   -0.0006 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4536,15 +5109,18 @@ OSM-S-71
 > <Sample_ID>
 JRC 14-5
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7152/Preparation_of_OSMS71.html
+
 $$$$
 N-(6-phenylthieno[2,3-d]pyrimidin-4-yl)benzenesulfonamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  25 28  0  0  0  0            999 V2000
     4.8636    3.0984   -1.0132 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4604,12 +5180,6 @@ M  END
 > <Name>
 N-(6-phenylthieno[2,3-d]pyrimidin-4-yl)benzenesulfonamide
 
-> <Mol Weight>
-367.045
-
-> <Mol Formula>
-C18H13N3O2S2
-
 > <Catalog No.>
 Z31210525
 
@@ -4619,15 +5189,18 @@ OSM-S-72
 > <Sample_ID>
 Z31210525
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7153/Preparation_of_OSMS72.html
+
 $$$$
 N-(3-hydrosulfonyl-4-methylphenyl)thieno[3,2-d]pyrimidin-4-amine
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  23 25  0  0  0  0            999 V2000
     1.3365    6.3824   -0.5402 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4682,12 +5255,6 @@ M  END
 > <Name>
 N-(3-hydrosulfonyl-4-methylphenyl)thieno[3,2-d]pyrimidin-4-amine
 
-> <Mol Weight>
-348.071
-
-> <Mol Formula>
-C15H16N4O2S2
-
 > <Catalog No.>
 Z196131886
 
@@ -4697,15 +5264,18 @@ OSM-S-73
 > <Sample_ID>
 Z196131886
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7154/Preparation_of_OSMS73.html
+
 $$$$
 5-(((6-(4-methoxyphenyl)thieno[3,2-d]pyrimidin-4-yl)amino)methyl)-N-methylthiophene-2-sulfonamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  29 32  0  0  0  0            999 V2000
     3.7463    8.0014    0.6487 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4773,12 +5343,6 @@ M  END
 > <Name>
 5-(((6-(4-methoxyphenyl)thieno[3,2-d]pyrimidin-4-yl)amino)methyl)-N-methylthiophene-2-sulfonamide
 
-> <Mol Weight>
-446.054
-
-> <Mol Formula>
-C19H18N4O3S3
-
 > <Catalog No.>
 Z217709300
 
@@ -4788,15 +5352,18 @@ OSM-S-74
 > <Sample_ID>
 Z217709300
 
-> <IC50_nM_Assay01>
-17600
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+17600
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7155/Preparation_of_OSMS74.html
+
 $$$$
 N-(1-((4-methoxyphenyl)sulfonyl)piperidin-4-yl)thieno[3,2-d]pyrimidin-4-amine
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  27 30  0  0  0  0            999 V2000
    -0.3995    4.1088    0.3382 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4860,12 +5427,6 @@ M  END
 > <Name>
 N-(1-((4-methoxyphenyl)sulfonyl)piperidin-4-yl)thieno[3,2-d]pyrimidin-4-amine
 
-> <Mol Weight>
-404.098
-
-> <Mol Formula>
-C18H20N4O3S2
-
 > <Catalog No.>
 Z229496652
 
@@ -4875,15 +5436,18 @@ OSM-S-75
 > <Sample_ID>
 Z229496652
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7156/Preparation_of_OSMS75.html
+
 $$$$
 (S)-3-(1-(thieno[3,2-d]pyrimidin-4-ylamino)ethyl)benzenesulfonamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  22 24  0  0  0  0            999 V2000
     6.7046    6.9296    0.0604 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -4936,12 +5500,6 @@ M  END
 > <Name>
 (S)-3-(1-(thieno[3,2-d]pyrimidin-4-ylamino)ethyl)benzenesulfonamide
 
-> <Mol Weight>
-334.056
-
-> <Mol Formula>
-C14H14N4O2S2
-
 > <Catalog No.>
 Z196139376
 
@@ -4951,15 +5509,18 @@ OSM-S-76
 > <Sample_ID>
 Z196139376
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7157/Preparation_of_OSMS76.html
+
 $$$$
 2-ethoxy-N,N-dimethyl-5-(thieno[3,2-d]pyrimidin-4-ylamino)benzenesulfonamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  25 27  0  0  0  0            999 V2000
    -0.6685    2.2093   -0.7095 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5018,12 +5579,6 @@ M  END
 > <Name>
 2-ethoxy-N,N-dimethyl-5-(thieno[3,2-d]pyrimidin-4-ylamino)benzenesulfonamide
 
-> <Mol Weight>
-378.082
-
-> <Mol Formula>
-C16H18N4O3S2
-
 > <Catalog No.>
 Z196139364
 
@@ -5033,15 +5588,18 @@ OSM-S-77
 > <Sample_ID>
 Z196139364
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7158/Preparation_of_OSMS77.html
+
 $$$$
 4-(((2-(thiophen-3-yl)quinazolin-4-yl)amino)methyl)benzenesulfonamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  27 30  0  0  0  0            999 V2000
     2.4212   -9.3126   -0.1885 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5105,12 +5663,6 @@ M  END
 > <Name>
 4-(((2-(thiophen-3-yl)quinazolin-4-yl)amino)methyl)benzenesulfonamide
 
-> <Mol Weight>
-396.071
-
-> <Mol Formula>
-C19H16N4O2S2
-
 > <Catalog No.>
 Z86248675
 
@@ -5120,15 +5672,18 @@ OSM-S-78
 > <Sample_ID>
 Z86248675
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7159/Preparation_of_OSMS78.html
+
 $$$$
 3-((thieno[3,2-d]pyrimidin-4-ylamino)methyl)benzenesulfonamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 23  0  0  0  0            999 V2000
     0.0349    6.9867   -0.5688 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5179,12 +5734,6 @@ M  END
 > <Name>
 3-((thieno[3,2-d]pyrimidin-4-ylamino)methyl)benzenesulfonamide
 
-> <Mol Weight>
-320.04
-
-> <Mol Formula>
-C13H12N4O2S2
-
 > <Catalog No.>
 Z367550756
 
@@ -5194,15 +5743,18 @@ OSM-S-79
 > <Sample_ID>
 Z367550756
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7160/Preparation_of_OSMS79.html
+
 $$$$
 4-((4-((6-(4-methoxyphenyl)thieno[3,2-d]pyrimidin-4-yl)oxy)phenyl)sulfonyl)morpholine
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  33 37  0  0  0  0            999 V2000
    -0.5171   -5.5954   -0.7751 S   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5279,12 +5831,6 @@ M  END
 > <Name>
 4-((4-((6-(4-methoxyphenyl)thieno[3,2-d]pyrimidin-4-yl)oxy)phenyl)sulfonyl)morpholine
 
-> <Mol Weight>
-483.092
-
-> <Mol Formula>
-C23H21N3O5S2
-
 > <Catalog No.>
 Z127173570
 
@@ -5294,15 +5840,18 @@ OSM-S-80
 > <Sample_ID>
 Z127173570
 
-> <IC50_nM_Assay01>
-80% @ 40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+80% @ 40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7161/Preparation_of_OSMS80.html
+
 $$$$
 N-(2-(dimethylamino)-2-oxoethyl)-2,5-dimethyl-1-phenyl-1H-pyrrole-3-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  22 23  0  0  0  0            999 V2000
     5.4667   -5.6882    0.0007 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5354,12 +5903,6 @@ M  END
 > <Name>
 N-(2-(dimethylamino)-2-oxoethyl)-2,5-dimethyl-1-phenyl-1H-pyrrole-3-carboxamide
 
-> <Mol Weight>
-299.163
-
-> <Mol Formula>
-C17H21N3O2
-
 > <Catalog No.>
 Z102381252
 
@@ -5369,15 +5912,18 @@ OSM-S-81
 > <Sample_ID>
 Z102381252
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7162/Preparation_of_OSMS81.html
+
 $$$$
 2-(methylamino)-2-oxoethyl 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  22 23  0  0  0  0            999 V2000
     5.1900   -5.6482    0.0008 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5429,12 +5975,6 @@ M  END
 > <Name>
 2-(methylamino)-2-oxoethyl 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylate
 
-> <Mol Weight>
-304.122
-
-> <Mol Formula>
-C16H17FN2O3
-
 > <Catalog No.>
 Z18964039
 
@@ -5444,15 +5984,18 @@ OSM-S-82
 > <Sample_ID>
 Z18964039
 
-> <IC50_nM_Assay01>
-9400
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+9400
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7164/Preparation_of_OSMS82.html
+
 $$$$
 4-(2,5-dimethyl-1-phenyl-1H-pyrrole-3-carbonyl)piperazin-2-one
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  22 24  0  0  0  0            999 V2000
     1.1951   -2.5497   -0.0158 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5505,12 +6048,6 @@ M  END
 > <Name>
 4-(2,5-dimethyl-1-phenyl-1H-pyrrole-3-carbonyl)piperazin-2-one
 
-> <Mol Weight>
-297.148
-
-> <Mol Formula>
-C17H19N3O2
-
 > <Catalog No.>
 Z31603451
 
@@ -5520,15 +6057,18 @@ OSM-S-83
 > <Sample_ID>
 Z31603451
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7165/Preparation_of_OSMS83.html
+
 $$$$
 1-(4-bromophenyl)-N,2,5-trimethyl-N-(2-(methylamino)-2-oxoethyl)-1H-pyrrole-3-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  23 24  0  0  0  0            999 V2000
     5.3235   -5.5548    0.0006 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5582,12 +6122,6 @@ M  END
 > <Name>
 1-(4-bromophenyl)-N,2,5-trimethyl-N-(2-(methylamino)-2-oxoethyl)-1H-pyrrole-3-carboxamide
 
-> <Mol Weight>
-377.074
-
-> <Mol Formula>
-C17H20BrN3O2
-
 > <Catalog No.>
 Z322133338
 
@@ -5597,15 +6131,18 @@ OSM-S-84
 > <Sample_ID>
 Z322133338
 
-> <IC50_nM_Assay01>
-70% @ 40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+70% @ 40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7166/Preparation_of_OSMS84.html
+
 $$$$
 2-((5-(2,5-dimethyl-1-phenyl-1H-pyrrol-3-yl)-1,3,4-oxadiazol-2-yl)thio)-N-(3-methoxyphenyl)acetamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  31 34  0  0  0  0            999 V2000
     0.1828   -6.0720    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5677,12 +6214,6 @@ M  END
 > <Name>
 2-((5-(2,5-dimethyl-1-phenyl-1H-pyrrol-3-yl)-1,3,4-oxadiazol-2-yl)thio)-N-(3-methoxyphenyl)acetamide
 
-> <Mol Weight>
-434.141
-
-> <Mol Formula>
-C23H22N4O3S
-
 > <Catalog No.>
 Z56895831
 
@@ -5692,15 +6223,18 @@ OSM-S-85
 > <Sample_ID>
 Z56895831
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7167/Preparation_of_OSMS85.html
+
 $$$$
 N-(2-((2,6-difluorophenyl)amino)-2-oxoethyl)-N-ethyl-1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  31 33  0  0  0  0            999 V2000
     6.3705   -5.6478   -0.0393 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5771,12 +6305,6 @@ M  END
 > <Name>
 N-(2-((2,6-difluorophenyl)amino)-2-oxoethyl)-N-ethyl-1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxamide
 
-> <Mol Weight>
-429.166
-
-> <Mol Formula>
-C23H22F3N3O2
-
 > <Catalog No.>
 Z252425684
 
@@ -5786,15 +6314,18 @@ OSM-S-86
 > <Sample_ID>
 Z252425684
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7168/Preparation_of_OSMS86.html
+
 $$$$
 N,2,5-trimethyl-N-(2-((5-methylisoxazol-3-yl)amino)-2-oxoethyl)-1-(m-tolyl)-1H-pyrrole-3-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  28 30  0  0  0  0            999 V2000
     6.1197   -5.5395    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5859,12 +6390,6 @@ M  END
 > <Name>
 N,2,5-trimethyl-N-(2-((5-methylisoxazol-3-yl)amino)-2-oxoethyl)-1-(m-tolyl)-1H-pyrrole-3-carboxamide
 
-> <Mol Weight>
-380.185
-
-> <Mol Formula>
-C21H24N4O3
-
 > <Catalog No.>
 Z168527658
 
@@ -5874,15 +6399,18 @@ OSM-S-87
 > <Sample_ID>
 Z168527658
 
-> <IC50_nM_Assay01>
-85% @ 40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+85% @ 40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7169/Preparation_of_OSMS87.html
+
 $$$$
 2-(4-(((1-(4-chlorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)amino)piperidin-1-yl)-N-methylacetamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  27 29  0  0  0  0            999 V2000
     0.1550   -3.9466    0.0095 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -5945,12 +6473,6 @@ M  END
 > <Name>
 2-(4-(((1-(4-chlorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)amino)piperidin-1-yl)-N-methylacetamide
 
-> <Mol Weight>
-388.203
-
-> <Mol Formula>
-C21H29ClN4O
-
 > <Catalog No.>
 Z401944072
 
@@ -5960,15 +6482,18 @@ OSM-S-88
 > <Sample_ID>
 Z401944072
 
-> <IC50_nM_Assay01>
-14700
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+14700
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7170/Preparation_of_OSMS88.html
+
 $$$$
 4-amino-1-((1-(2-chlorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)-N-ethylpyrrolidine-2-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  26 28  0  0  0  0            999 V2000
    -0.6876   -5.2808    0.0233 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6029,12 +6554,6 @@ M  END
 > <Name>
 4-amino-1-((1-(2-chlorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)-N-ethylpyrrolidine-2-carboxamide
 
-> <Mol Weight>
-374.187
-
-> <Mol Formula>
-C20H27ClN4O
-
 > <Catalog No.>
 70163819
 
@@ -6044,15 +6563,18 @@ OSM-S-89
 > <Sample_ID>
 70163819
 
-> <IC50_nM_Assay01>
-24700
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+24700
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7171/Preparation_of_OSMS89.html
+
 $$$$
 1-((1-(4-ethylphenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)piperidine-4-carboxylic acid
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  25 27  0  0  0  0            999 V2000
     4.2953    1.7301   -0.0169 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6111,12 +6633,6 @@ M  END
 > <Name>
 1-((1-(4-ethylphenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)piperidine-4-carboxylic acid
 
-> <Mol Weight>
-340.215
-
-> <Mol Formula>
-C21H28N2O2
-
 > <Catalog No.>
 C799-0833
 
@@ -6126,15 +6642,18 @@ OSM-S-90
 > <Sample_ID>
 C799-0833
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7172/Preparation_of_OSMS90.html
+
 $$$$
 2-(dimethylamino)-2-oxoethyl 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  23 24  0  0  0  0            999 V2000
     5.3198   -5.6173    0.0009 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6188,12 +6707,6 @@ M  END
 > <Name>
 2-(dimethylamino)-2-oxoethyl 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylate
 
-> <Mol Weight>
-318.138
-
-> <Mol Formula>
-C17H19FN2O3
-
 > <Catalog No.>
 Z18963831
 
@@ -6203,15 +6716,18 @@ OSM-S-91
 > <Sample_ID>
 Z18963831
 
-> <IC50_nM_Assay01>
-11300
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+11300
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7173/Preparation_of_OSMS91.html
+
 $$$$
 2-amino-2-oxoethyl 1-(4-fluorophenyl)-1H-pyrazole-4-carboxylate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  19 20  0  0  0  0            999 V2000
    25.2018  -44.9054   -0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6263,15 +6779,18 @@ OSM-S-92
 > <Sample_ID>
 PMY 66-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7174/Preparation_of_OSMS92.html
+
 $$$$
 1-(4-fluorophenyl)-N,N,2,5-tetramethyl-1H-pyrrole-3-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  19 20  0  0  0  0            999 V2000
    40.7006  -43.9233    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6323,15 +6842,18 @@ OSM-S-93
 > <Sample_ID>
 AEW 16-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7175/Preparation_of_OSMS93.html
+
 $$$$
 1-(4-fluorophenyl)-2,5-dimethyl-3-(pyrrolidin-1-ylmethyl)-1H-pyrrole
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  20 22  0  0  0  0            999 V2000
    52.3476  -43.8303    0.0368 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6386,15 +6908,18 @@ OSM-S-94
 > <Sample_ID>
 AEW 12-1
 
-> <IC50_nM_Assay01>
-96% @ 40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+96% @ 40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7177/Preparation_of_OSMS94.html
+
 $$$$
 1-benzyl-N-((1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methyl)piperidin-4-amine
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  29 32  0  0  0  0            999 V2000
    65.9044  -45.0247    0.0495 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6468,15 +6993,18 @@ OSM-S-95
 > <Sample_ID>
 AEW 9-2
 
-> <IC50_nM_Assay01>
-4800
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+4800
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7178/Preparation_of_OSMS95.html
+
 $$$$
 methyl 2-(1-(4-fluorophenyl)-5-methyl-1H-pyrazol-4-yl)oxazole-4-carboxylate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  22 24  0  0  0  0            999 V2000
     8.5064  -10.2965   -0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6535,15 +7063,18 @@ OSM-S-96
 > <Sample_ID>
 MJT6-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7179/Preparation_of_OSMS96.html
+
 $$$$
 4-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)-4-oxobutanoic acid
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 22  0  0  0  0            999 V2000
    10.5098  -10.7295   -0.0004 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6599,15 +7130,18 @@ OSM-S-97
 > <Sample_ID>
 MNR51-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7180/Preparation_of_OSMS97.html
+
 $$$$
 4-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)-N,N-dimethyl-4-oxobutanamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  23 24  0  0  0  0            999 V2000
     8.9022  -10.8805    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6667,15 +7201,18 @@ OSM-S-98
 > <Sample_ID>
 MNR52-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7181/Preparation_of_OSMS98.html
+
 $$$$
 1-ethoxy-1-oxopropan-2-yl 1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carboxylate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  24 25  0  0  0  0            999 V2000
    12.1490  -10.4430   -0.0721 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6737,15 +7274,18 @@ OSM-S-99
 > <Sample_ID>
 MD17-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7182/Preparation_of_OSMS99.html
+
 $$$$
 2-((1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrole-3-carbonyl)oxy)propanoic acid
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  22 23  0  0  0  0            999 V2000
     8.9601  -11.0027   -0.0694 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6803,15 +7343,18 @@ OSM-S-100
 > <Sample_ID>
 MD18-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7183/Preparation_of_OSMS100.html
+
 $$$$
 2-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)oxazole-4-carboxylic acid
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  22 24  0  0  0  0            999 V2000
    10.4859  -13.3517    0.0000 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6870,15 +7413,18 @@ OSM-S-101
 > <Sample_ID>
 PMY59-3
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7184/Preparation_of_OSMS101.html
+
 $$$$
 4-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)-N-methyl-4-oxobutanamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  22 23  0  0  0  0            999 V2000
     9.4864  -11.6090    0.0000 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -6936,15 +7482,18 @@ OSM-S-102
 > <Sample_ID>
 MNR53-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7185/Preparation_of_OSMS102.html
+
 $$$$
 4-(1-(4-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)-4-oxobutanamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 22  0  0  0  0            999 V2000
    10.6043  -11.6267    0.0001 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7000,15 +7549,18 @@ OSM-S-103
 > <Sample_ID>
 MNR54-1
 
-> <IC50_nM_Assay01>
-61% @ 40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+61% @ 40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7186/Preparation_of_OSMS103.html
+
 $$$$
 2-(1-(4-fluorophenyl)-5-methyl-1H-pyrazol-4-yl)oxazole-4-carboxylic acid
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 23  0  0  0  0            999 V2000
     7.7878  -10.9128   -0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7065,15 +7617,18 @@ OSM-S-104
 > <Sample_ID>
 MNR55-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7187/Preparation_of_OSMS104.html
+
 $$$$
 2-(1-(4-fluorophenyl)-5-methyl-1H-pyrazol-4-yl)oxazole-4-carboxamide
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 23  0  0  0  0            999 V2000
     8.3120  -10.2538   -0.0002 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7130,133 +7685,148 @@ OSM-S-105
 > <Sample_ID>
 MNR56-1
 
-> <IC50_nM_Assay01>
->40000
-
 > <ChEMBL>
 dep2
 
+> <3D7_IC50_nM_Avery>
+>40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7188/Preparation_of_OSMS105.html
+
 $$$$
 Molecule
-  DSViewer          3D                             0
+  SciTegic03271313473D
 
- 20 22  0  0  0  0  0  0  0  0999 V2000
-   33.4954  -26.1670   -0.0207 N   0  0  0  0  0  0  0  0  0  1
-   33.6940  -27.4348   -0.0281 C   0  0  0  0  0  0  0  0  0  2
-   35.0116  -27.9781   -0.0404 N   0  0  0  0  0  0  0  0  0  3
-   35.9975  -27.1803   -0.0463 C   0  0  0  0  0  0  0  0  0  4
-   35.7997  -25.7893   -0.0394 C   0  0  0  0  0  0  0  0  0  5
-   34.5833  -25.2726   -0.0262 C   0  0  0  0  0  0  0  0  0  6
-   37.4293  -27.5622   -0.0502 C   0  0  0  0  0  0  0  0  0  7
-   38.2158  -26.4726   -0.0488 C   0  0  0  0  0  0  0  0  0  8
-   37.3094  -24.9438   -0.0472 S   0  0  0  0  0  0  0  0  0  9
-   39.6735  -26.5322   -0.0295 C   0  0  0  0  0  0  0  0  0 10
-   40.2961  -27.7099   -0.0126 C   0  0  0  0  0  0  0  0  0 11
-   41.7592  -27.7622    0.0300 C   0  0  0  0  0  0  0  0  0 12
-   42.4646  -26.6325    0.0525 C   0  0  0  0  0  0  0  0  0 13
-   41.7795  -25.3392    0.0281 C   0  0  0  0  0  0  0  0  0 14
-   40.4497  -25.2918   -0.0113 C   0  0  0  0  0  0  0  0  0 15
-   44.2303  -26.6925    0.1249 S   0  0  0  0  0  0  0  0  0 16
-   44.7648  -25.3985    0.7088 O   0  0  0  0  0  0  0  0  0 17
-   44.6653  -27.8817    0.9600 O   0  0  0  0  0  0  0  0  0 18
-   44.8536  -26.8893   -1.4865 N   0  0  0  0  0  0  0  0  0 19
-   34.3855  -23.8913   -0.0170 N   0  0  0  0  0  0  0  0  0 20
-  1  2  2  0  0  0
-  2  3  1  0  0  0
-  3  4  2  0  0  0
-  4  5  1  0  0  0
-  5  6  2  0  0  0
-  6  1  1  0  0  0
-  4  7  1  0  0  0
-  7  8  2  0  0  0
-  8  9  1  0  0  0
-  9  5  1  0  0  0
-  8 10  1  0  0  0
- 10 11  2  0  0  0
- 11 12  1  0  0  0
- 12 13  2  0  0  0
- 13 14  1  0  0  0
- 14 15  2  0  0  0
- 15 10  1  0  0  0
- 16 17  2  0  0  0
- 16 18  2  0  0  0
- 16 19  1  0  0  0
-  6 20  1  0  0  0
- 14 16  1  0  0  0
+ 20 22  0  0  0  0            999 V2000
+   33.4954  -26.1670   -0.0207 N   0  0  0  0  0  0  0  0  0  1  0  0
+   33.6940  -27.4348   -0.0281 C   0  0  0  0  0  0  0  0  0  2  0  0
+   35.0116  -27.9781   -0.0404 N   0  0  0  0  0  0  0  0  0  3  0  0
+   35.9975  -27.1803   -0.0463 C   0  0  0  0  0  0  0  0  0  4  0  0
+   35.7997  -25.7893   -0.0394 C   0  0  0  0  0  0  0  0  0  5  0  0
+   34.5833  -25.2726   -0.0262 C   0  0  0  0  0  0  0  0  0  6  0  0
+   37.4293  -27.5622   -0.0502 C   0  0  0  0  0  0  0  0  0  7  0  0
+   38.2158  -26.4726   -0.0488 C   0  0  0  0  0  0  0  0  0  8  0  0
+   37.3094  -24.9438   -0.0472 S   0  0  0  0  0  0  0  0  0  9  0  0
+   39.6735  -26.5322   -0.0295 C   0  0  0  0  0  0  0  0  0 10  0  0
+   40.2961  -27.7099   -0.0126 C   0  0  0  0  0  0  0  0  0 11  0  0
+   41.7592  -27.7622    0.0300 C   0  0  0  0  0  0  0  0  0 12  0  0
+   42.4646  -26.6325    0.0525 C   0  0  0  0  0  0  0  0  0 13  0  0
+   41.7795  -25.3392    0.0281 C   0  0  0  0  0  0  0  0  0 14  0  0
+   40.4497  -25.2918   -0.0113 C   0  0  0  0  0  0  0  0  0 15  0  0
+   44.2303  -26.6925    0.1249 S   0  0  0  0  0  0  0  0  0 16  0  0
+   44.7648  -25.3985    0.7088 O   0  0  0  0  0  0  0  0  0 17  0  0
+   44.6653  -27.8817    0.9600 O   0  0  0  0  0  0  0  0  0 18  0  0
+   44.8536  -26.8893   -1.4865 N   0  0  0  0  0  0  0  0  0 19  0  0
+   34.3855  -23.8913   -0.0170 N   0  0  0  0  0  0  0  0  0 20  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  4  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9  5  1  0
+  8 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 10  1  0
+ 16 17  2  0
+ 16 18  2  0
+ 16 19  1  0
+  6 20  1  0
+ 14 16  1  0
 M  END
+> <Name>
+Molecule
+
 > <OSM_ID>
 OSM-S-106
 
 > <Sample_ID>
 JRC50-2
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Avery>
 36
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7189/Preparation_of_OSMS106.html
 
 $$$$
 Molecule
-  DSViewer          3D                             0
+  SciTegic03271313473D
 
- 23 26  0  0  0  0  0  0  0  0999 V2000
-   17.7695  -15.4054    0.1167 N   0  0  0  0  0  0  0  0  0  1
-   17.7561  -16.6848    0.1627 C   0  0  0  0  0  0  0  0  0  2
-   18.9516  -17.4320    0.1082 N   0  0  0  0  0  0  0  0  0  3
-   20.0539  -16.8154    0.0067 C   0  0  0  0  0  0  0  0  0  4
-   20.1052  -15.4051   -0.0585 C   0  0  0  0  0  0  0  0  0  5
-   18.9780  -14.6836   -0.0062 C   0  0  0  0  0  0  0  0  0  6
-   21.3882  -17.4598   -0.0421 C   0  0  0  0  0  0  0  0  0  7
-   22.3874  -16.5658   -0.1354 C   0  0  0  0  0  0  0  0  0  8
-   21.7742  -14.8989   -0.1756 S   0  0  0  0  0  0  0  0  0  9
-   18.8976  -13.2563   -0.0521 N   0  0  0  0  0  0  0  0  0 10
-   20.0007  -12.4318   -0.5168 C   0  0  0  0  0  0  0  0  0 11
-   19.9358  -10.9855    0.0019 C   0  0  0  0  0  0  0  0  0 12
-   18.5940  -10.4211   -0.1556 N   0  0  0  0  0  0  0  0  0 13
-   17.7333  -11.2182    0.7405 C   0  0  0  0  0  0  0  0  0 14
-   17.6072  -12.6581    0.2080 C   0  0  0  0  0  0  0  0  0 15
-   18.6767   -8.9924    0.2725 C   0  0  0  0  0  0  0  0  0 16
-   17.4057   -8.1450    0.1109 C   0  0  0  0  0  0  0  0  0 17
-   17.4663   -6.8559    0.4427 C   0  0  0  0  0  0  0  0  0 18
-   16.2883   -5.9970    0.3083 C   0  0  0  0  0  0  0  0  0 19
-   15.1426   -6.5001   -0.1456 C   0  0  0  0  0  0  0  0  0 20
-   15.0618   -7.9103   -0.5216 C   0  0  0  0  0  0  0  0  0 21
-   16.1336   -8.6915   -0.4091 C   0  0  0  0  0  0  0  0  0 22
-   14.0642   -5.7129   -0.2611 F   0  0  0  0  0  0  0  0  0 23
-  1  2  2  0  0  0
-  2  3  1  0  0  0
-  3  4  2  0  0  0
-  4  5  1  0  0  0
-  5  6  2  0  0  0
-  6  1  1  0  0  0
-  4  7  1  0  0  0
-  7  8  2  0  0  0
-  8  9  1  0  0  0
-  9  5  1  0  0  0
-  6 10  1  0  0  0
- 10 11  1  0  0  0
- 11 12  1  0  0  0
- 12 13  1  0  0  0
- 13 14  1  0  0  0
- 14 15  1  0  0  0
- 15 10  1  0  0  0
- 13 16  1  0  0  0
- 16 17  1  0  0  0
- 17 18  2  0  0  0
- 18 19  1  0  0  0
- 19 20  2  0  0  0
- 20 21  1  0  0  0
- 21 22  2  0  0  0
- 22 17  1  0  0  0
- 20 23  1  0  0  0
+ 23 26  0  0  0  0            999 V2000
+   17.7695  -15.4054    0.1167 N   0  0  0  0  0  0  0  0  0  1  0  0
+   17.7561  -16.6848    0.1627 C   0  0  0  0  0  0  0  0  0  2  0  0
+   18.9516  -17.4320    0.1082 N   0  0  0  0  0  0  0  0  0  3  0  0
+   20.0539  -16.8154    0.0067 C   0  0  0  0  0  0  0  0  0  4  0  0
+   20.1052  -15.4051   -0.0585 C   0  0  0  0  0  0  0  0  0  5  0  0
+   18.9780  -14.6836   -0.0062 C   0  0  0  0  0  0  0  0  0  6  0  0
+   21.3882  -17.4598   -0.0421 C   0  0  0  0  0  0  0  0  0  7  0  0
+   22.3874  -16.5658   -0.1354 C   0  0  0  0  0  0  0  0  0  8  0  0
+   21.7742  -14.8989   -0.1756 S   0  0  0  0  0  0  0  0  0  9  0  0
+   18.8976  -13.2563   -0.0521 N   0  0  0  0  0  0  0  0  0 10  0  0
+   20.0007  -12.4318   -0.5168 C   0  0  0  0  0  0  0  0  0 11  0  0
+   19.9358  -10.9855    0.0019 C   0  0  0  0  0  0  0  0  0 12  0  0
+   18.5940  -10.4211   -0.1556 N   0  0  0  0  0  0  0  0  0 13  0  0
+   17.7333  -11.2182    0.7405 C   0  0  0  0  0  0  0  0  0 14  0  0
+   17.6072  -12.6581    0.2080 C   0  0  0  0  0  0  0  0  0 15  0  0
+   18.6767   -8.9924    0.2725 C   0  0  0  0  0  0  0  0  0 16  0  0
+   17.4057   -8.1450    0.1109 C   0  0  0  0  0  0  0  0  0 17  0  0
+   17.4663   -6.8559    0.4427 C   0  0  0  0  0  0  0  0  0 18  0  0
+   16.2883   -5.9970    0.3083 C   0  0  0  0  0  0  0  0  0 19  0  0
+   15.1426   -6.5001   -0.1456 C   0  0  0  0  0  0  0  0  0 20  0  0
+   15.0618   -7.9103   -0.5216 C   0  0  0  0  0  0  0  0  0 21  0  0
+   16.1336   -8.6915   -0.4091 C   0  0  0  0  0  0  0  0  0 22  0  0
+   14.0642   -5.7129   -0.2611 F   0  0  0  0  0  0  0  0  0 23  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  1  1  0
+  4  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9  5  1  0
+  6 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 10  1  0
+ 13 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 18 19  1  0
+ 19 20  2  0
+ 20 21  1  0
+ 21 22  2  0
+ 22 17  1  0
+ 20 23  1  0
 M  END
+> <Name>
+Molecule
+
 > <OSM_ID>
 OSM-S-107
 
 > <Sample_ID>
 MNR113-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7190/Preparation_of_OSMS107.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 23  0  0  0  0            999 V2000
    41.7457  -27.6715    0.0045 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7313,12 +7883,15 @@ OSM-S-108
 > <Sample_ID>
 AEW34-1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Avery>
 1200
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7191/Preparation_of_OSMS108.html
 
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  30 33  0  0  0  0            999 V2000
    41.1937  -23.9857    0.2400 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7395,12 +7968,15 @@ OSM-S-109
 > <Sample_ID>
 MNR82-1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Avery>
 262
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7192/Preparation_of_OSMS109.html
 
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  31 34  0  0  0  0            999 V2000
    41.0883  -24.0549    0.2470 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7479,12 +8055,15 @@ OSM-S-110
 > <Sample_ID>
 MNR83-1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Avery>
 2300
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7193/Preparation_of_OSMS110.html
 
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  29 32  0  0  0  0            999 V2000
    41.2066  -23.9605    0.2373 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7558,12 +8137,15 @@ OSM-S-111
 > <Sample_ID>
 MNR84-1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Avery>
 146
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7194/Preparation_of_OSMS111.html
 
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  30 33  0  0  0  0            999 V2000
    41.0954  -24.0292    0.2435 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7639,12 +8221,15 @@ OSM-S-112
 > <Sample_ID>
 MNR85-1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Avery>
 1600
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7195/Preparation_of_OSMS112.html
 
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  28 31  0  0  0  0            999 V2000
    41.0705  -23.9868    0.2927 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7716,12 +8301,15 @@ OSM-S-113
 > <Sample_ID>
 MNR92-1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Avery>
 >40000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7196/Preparation_of_OSMS113.html
 
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  28 31  0  0  0  0            999 V2000
    41.0794  -23.9961    0.2678 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7793,152 +8381,155 @@ OSM-S-114
 > <Sample_ID>
 MNR94-1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Avery>
 1200
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7197/Preparation_of_OSMS114.html
 
 $$$$
 Molecule
-  SciTegic03201316493D
+  DSViewer          3D                             0
 
- 28 31  0  0  0  0            999 V2000
-   41.0437  -23.9669    0.2991 C   0  0  0  0  0  0  0  0  0  1  0  0
-   40.8041  -25.2700    0.2636 C   0  0  0  0  0  0  0  0  0  2  0  0
-   41.8938  -26.1911    0.0769 C   0  0  0  0  0  0  0  0  0  3  0  0
-   43.1375  -25.7267   -0.0592 C   0  0  0  0  0  0  0  0  0  4  0  0
-   43.4037  -24.2663   -0.0343 C   0  0  0  0  0  0  0  0  0  5  0  0
-   42.3986  -23.4077    0.1458 C   0  0  0  0  0  0  0  0  0  6  0  0
-   42.6546  -21.9589    0.0934 N   0  0  0  0  0  0  0  0  0  7  0  0
-   41.7660  -21.0425    0.2888 C   0  0  0  0  0  0  0  0  0  8  0  0
-   41.9798  -19.6354    0.0443 N   0  0  0  0  0  0  0  0  0  9  0  0
-   40.8008  -18.9689   -0.0749 C   0  0  0  0  0  0  0  0  0 10  0  0
-   39.6085  -19.8279    0.0732 C   0  0  0  0  0  0  0  0  0 11  0  0
-   40.1162  -21.3357    0.6876 S   0  0  0  0  0  0  0  0  0 12  0  0
-   38.3363  -19.5567   -0.2268 C   0  0  0  0  0  0  0  0  0 13  0  0
-   37.2402  -20.6249   -0.1336 C   0  0  0  0  0  0  0  0  0 14  0  0
-   40.7277  -17.7553   -0.3573 O   0  0  0  0  0  0  0  0  0 15  0  0
-   35.9119  -20.3990    0.4375 C   0  0  0  0  0  0  0  0  0 16  0  0
-   35.2274  -21.5420    0.3419 C   0  0  0  0  0  0  0  0  0 17  0  0
-   36.0731  -22.5621   -0.2275 N   0  0  0  0  0  0  0  0  0 18  0  0
-   37.2862  -21.9062   -0.6028 C   0  0  0  0  0  0  0  0  0 19  0  0
-   38.3985  -22.5085   -1.4508 C   0  0  0  0  0  0  0  0  0 20  0  0
-   33.8025  -21.6764    0.8363 C   0  0  0  0  0  0  0  0  0 21  0  0
-   35.8623  -24.0553   -0.1911 C   0  0  0  0  0  0  0  0  0 22  0  0
-   34.6435  -24.5979   -0.0633 C   0  0  0  0  0  0  0  0  0 23  0  0
-   34.4705  -26.0570    0.0360 C   0  0  0  0  0  0  0  0  0 24  0  0
-   35.5250  -26.8680    0.0325 C   0  0  0  0  0  0  0  0  0 25  0  0
-   36.8592  -26.3092   -0.0841 C   0  0  0  0  0  0  0  0  0 26  0  0
-   37.0177  -24.9940   -0.1949 C   0  0  0  0  0  0  0  0  0 27  0  0
-   41.6361  -27.5578    0.0420 O   0  0  0  0  0  0  0  0  0 28  0  0
-  1  2  2  0
-  2  3  1  0
-  3  4  2  0
-  4  5  1  0
-  5  6  2  0
-  6  1  1  0
-  6  7  1  0
-  7  8  2  0
-  8  9  1  0
-  9 10  1  0
- 10 11  1  0
- 11 12  1  0
- 12  8  1  0
- 11 13  2  0
- 13 14  1  0
- 10 15  2  0
- 14 16  1  0
- 16 17  2  0
- 17 18  1  0
- 18 19  1  0
- 19 14  2  0
- 19 20  1  0
- 17 21  1  0
- 18 22  1  0
- 22 23  2  0
- 23 24  1  0
- 24 25  2  0
- 25 26  1  0
- 26 27  2  0
- 27 22  1  0
-  3 28  1  0
+ 28 31  0  0  0  0  0  0  0  0999 V2000
+   41.0437  -23.9669    0.2991 C   0  0  0  0  0  0  0  0  0  1
+   40.8041  -25.2700    0.2636 C   0  0  0  0  0  0  0  0  0  2
+   41.8938  -26.1911    0.0769 C   0  0  0  0  0  0  0  0  0  3
+   43.1375  -25.7267   -0.0592 C   0  0  0  0  0  0  0  0  0  4
+   43.4037  -24.2663   -0.0343 C   0  0  0  0  0  0  0  0  0  5
+   42.3986  -23.4077    0.1458 C   0  0  0  0  0  0  0  0  0  6
+   42.6546  -21.9589    0.0934 N   0  0  0  0  0  0  0  0  0  7
+   41.7660  -21.0425    0.2888 C   0  0  0  0  0  0  0  0  0  8
+   41.9798  -19.6354    0.0443 N   0  0  0  0  0  0  0  0  0  9
+   40.8008  -18.9689   -0.0749 C   0  0  0  0  0  0  0  0  0 10
+   39.6085  -19.8279    0.0732 C   0  0  0  0  0  0  0  0  0 11
+   40.1162  -21.3357    0.6876 S   0  0  0  0  0  0  0  0  0 12
+   38.3363  -19.5567   -0.2268 C   0  0  0  0  0  0  0  0  0 13
+   37.2402  -20.6249   -0.1336 C   0  0  0  0  0  0  0  0  0 14
+   40.7277  -17.7553   -0.3573 O   0  0  0  0  0  0  0  0  0 15
+   35.9119  -20.3990    0.4375 C   0  0  0  0  0  0  0  0  0 16
+   35.2274  -21.5420    0.3419 C   0  0  0  0  0  0  0  0  0 17
+   36.0731  -22.5621   -0.2275 N   0  0  0  0  0  0  0  0  0 18
+   37.2862  -21.9062   -0.6028 C   0  0  0  0  0  0  0  0  0 19
+   38.3985  -22.5085   -1.4508 C   0  0  0  0  0  0  0  0  0 20
+   33.8025  -21.6764    0.8363 C   0  0  0  0  0  0  0  0  0 21
+   35.8623  -24.0553   -0.1911 C   0  0  0  0  0  0  0  0  0 22
+   34.6435  -24.5979   -0.0633 C   0  0  0  0  0  0  0  0  0 23
+   34.4705  -26.0570    0.0360 C   0  0  0  0  0  0  0  0  0 24
+   35.5250  -26.8680    0.0325 C   0  0  0  0  0  0  0  0  0 25
+   36.8592  -26.3092   -0.0841 C   0  0  0  0  0  0  0  0  0 26
+   37.0177  -24.9940   -0.1949 C   0  0  0  0  0  0  0  0  0 27
+   41.6361  -27.5578    0.0420 O   0  0  0  0  0  0  0  0  0 28
+  1  2  2  0  0  0
+  2  3  1  0  0  0
+  3  4  2  0  0  0
+  4  5  1  0  0  0
+  5  6  2  0  0  0
+  6  1  1  0  0  0
+  6  7  1  0  0  0
+  7  8  2  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+ 10 11  1  0  0  0
+ 11 12  1  0  0  0
+ 12  8  1  0  0  0
+ 11 13  2  0  0  0
+ 13 14  1  0  0  0
+ 10 15  2  0  0  0
+ 14 16  1  0  0  0
+ 16 17  2  0  0  0
+ 17 18  1  0  0  0
+ 18 19  1  0  0  0
+ 19 14  2  0  0  0
+ 19 20  1  0  0  0
+ 17 21  1  0  0  0
+ 18 22  1  0  0  0
+ 22 23  2  0  0  0
+ 23 24  1  0  0  0
+ 24 25  2  0  0  0
+ 25 26  1  0  0  0
+ 26 27  2  0  0  0
+ 27 22  1  0  0  0
+  3 28  1  0  0  0
 M  END
-> <Name>
-Molecule
-
 > <OSM_ID>
 OSM-S-115
 
 > <Sample_ID>
 MNR95-1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Avery>
 1800
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7198/Preparation_of_OSMS115.html
 
 $$$$
 Molecule
-  SciTegic03201316493D
+  DSViewer          3D                             0
 
- 22 23  0  0  0  0            999 V2000
-   40.1840  -21.2050    0.2933 C   0  0  0  0  0  0  0  0  0  1  0  0
-   41.1468  -22.3709    0.1293 C   0  0  0  0  0  0  0  0  0  2  0  0
-   42.4761  -22.2345    0.0748 C   0  0  0  0  0  0  0  0  0  3  0  0
-   43.1014  -23.5418   -0.0890 C   0  0  0  0  0  0  0  0  0  4  0  0
-   42.1255  -24.4498   -0.1227 C   0  0  0  0  0  0  0  0  0  5  0  0
-   42.4267  -25.9289   -0.2804 C   0  0  0  0  0  0  0  0  0  6  0  0
-   40.8299  -23.7834    0.0035 N   0  0  0  0  0  0  0  0  0  7  0  0
-   39.4597  -24.4198   -0.0028 C   0  0  0  0  0  0  0  0  0  8  0  0
-   39.3040  -25.7460   -0.0638 C   0  0  0  0  0  0  0  0  0  9  0  0
-   37.9736  -26.3650   -0.0694 C   0  0  0  0  0  0  0  0  0 10  0  0
-   36.8831  -25.6071   -0.0159 C   0  0  0  0  0  0  0  0  0 11  0  0
-   37.0147  -24.1645    0.0480 C   0  0  0  0  0  0  0  0  0 12  0  0
-   38.2219  -23.6059    0.0551 C   0  0  0  0  0  0  0  0  0 13  0  0
-   35.6669  -26.1710   -0.0201 F   0  0  0  0  0  0  0  0  0 14  0  0
-   43.2486  -20.9633    0.1671 C   0  0  0  0  0  0  0  0  0 15  0  0
-   42.6764  -19.8929    0.4042 O   0  0  0  0  0  0  0  0  0 16  0  0
-   44.6511  -20.9973    0.0029 O   0  0  0  0  0  0  0  0  0 17  0  0
-   45.2668  -19.6840    0.1097 C   0  0  0  0  0  0  0  0  0 18  0  0
-   46.7609  -19.7905    0.1091 C   0  0  0  0  0  0  0  0  0 19  0  0
-   47.4465  -18.8151   -0.2184 O   0  0  0  0  0  0  0  0  0 20  0  0
-   47.3772  -20.9926    0.4555 N   0  0  0  0  0  0  0  0  0 21  0  0
-   44.8304  -18.6570   -0.9706 C   0  0  0  0  0  0  0  0  0 22  0  0
-  1  2  1  0
-  2  7  1  0
-  2  3  2  0
-  3  4  1  0
-  4  5  2  0
-  5  6  1  0
-  5  7  1  0
-  7  8  1  0
-  8 13  1  0
-  8  9  2  0
-  9 10  1  0
- 10 11  2  0
- 11 12  1  0
- 11 14  1  0
- 12 13  2  0
- 15 16  2  0
- 15 17  1  0
- 17 18  1  0
- 18 19  1  0
- 19 20  2  0
- 15  3  1  0
- 21 19  1  0
- 18 22  1  0
+ 22 23  0  0  0  0  0  0  0  0999 V2000
+   40.1840  -21.2050    0.2933 C   0  0  0  0  0  0  0  0  0  1
+   41.1468  -22.3709    0.1293 C   0  0  0  0  0  0  0  0  0  2
+   42.4761  -22.2345    0.0748 C   0  0  0  0  0  0  0  0  0  3
+   43.1014  -23.5418   -0.0890 C   0  0  0  0  0  0  0  0  0  4
+   42.1255  -24.4498   -0.1227 C   0  0  0  0  0  0  0  0  0  5
+   42.4267  -25.9289   -0.2804 C   0  0  0  0  0  0  0  0  0  6
+   40.8299  -23.7834    0.0035 N   0  0  0  0  0  0  0  0  0  7
+   39.4597  -24.4198   -0.0028 C   0  0  0  0  0  0  0  0  0  8
+   39.3040  -25.7460   -0.0638 C   0  0  0  0  0  0  0  0  0  9
+   37.9736  -26.3650   -0.0694 C   0  0  0  0  0  0  0  0  0 10
+   36.8831  -25.6071   -0.0159 C   0  0  0  0  0  0  0  0  0 11
+   37.0147  -24.1645    0.0480 C   0  0  0  0  0  0  0  0  0 12
+   38.2219  -23.6059    0.0551 C   0  0  0  0  0  0  0  0  0 13
+   35.6669  -26.1710   -0.0201 F   0  0  0  0  0  0  0  0  0 14
+   43.2486  -20.9633    0.1671 C   0  0  0  0  0  0  0  0  0 15
+   42.6764  -19.8929    0.4042 O   0  0  0  0  0  0  0  0  0 16
+   44.6511  -20.9973    0.0029 O   0  0  0  0  0  0  0  0  0 17
+   45.2668  -19.6840    0.1097 C   0  0  0  0  0  0  0  0  0 18
+   46.7609  -19.7905    0.1091 C   0  0  0  0  0  0  0  0  0 19
+   47.4465  -18.8151   -0.2184 O   0  0  0  0  0  0  0  0  0 20
+   47.3772  -20.9926    0.4555 N   0  0  0  0  0  0  0  0  0 21
+   44.8304  -18.6570   -0.9706 C   0  0  0  0  0  0  0  0  0 22
+  1  2  1  0  0  0
+  2  7  1  0  0  0
+  2  3  2  0  0  0
+  3  4  1  0  0  0
+  4  5  2  0  0  0
+  5  6  1  0  0  0
+  5  7  1  0  0  0
+  7  8  1  0  0  0
+  8 13  1  0  0  0
+  8  9  2  0  0  0
+  9 10  1  0  0  0
+ 10 11  2  0  0  0
+ 11 12  1  0  0  0
+ 11 14  1  0  0  0
+ 12 13  2  0  0  0
+ 15 16  2  0  0  0
+ 15 17  1  0  0  0
+ 17 18  1  0  0  0
+ 18 19  1  0  0  0
+ 19 20  2  0  0  0
+ 15  3  1  0  0  0
+ 21 19  1  0  0  0
+ 18 22  1  0  0  0
 M  END
-> <Name>
-Molecule
+> <Sample_ID>
+MD21-1
 
 > <OSM_ID>
 OSM-S-116
 
-> <Sample_ID>
-MD
-
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Avery>
 11000
+
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7199/Preparation_of_OSMS116.html
 
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  15 17  0  0  0  0            999 V2000
    17.0190  -12.7354   -0.0165 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -7983,9 +8574,12 @@ OSM-S-117
 > <Sample_ID>
 MNR100-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7200/Preparation_of_OSMS117.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  15 17  0  0  0  0            999 V2000
    16.8070  -11.5422   -0.0002 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8030,9 +8624,12 @@ OSM-S-118
 > <Sample_ID>
 AT-2-5
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7201/Preparation_of_OSMS118.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  17 19  0  0  0  0            999 V2000
    17.4974  -11.9011   -0.0001 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8081,9 +8678,12 @@ OSM-S-119
 > <Sample_ID>
 AT-4-1-f3
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7202/Preparation_of_OSMS119.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  16 18  0  0  0  0            999 V2000
    17.1930  -13.2808   -0.0002 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8130,9 +8730,12 @@ OSM-S-120
 > <Sample_ID>
 AT-4-1-f4
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7203/Preparation_of_OSMS120.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  11 12  0  0  0  0            999 V2000
    16.9296  -12.4355   -0.0003 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8168,9 +8771,12 @@ OSM-S-121
 > <Sample_ID>
 AT-5-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7204/Preparation_of_OSMS121.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 24  0  0  0  0            999 V2000
    14.8746  -14.0186   -0.0003 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8228,9 +8834,12 @@ OSM-S-122
 > <Sample_ID>
 AT-7-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7205/Preparation_of_OSMS122.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  16 18  0  0  0  0            999 V2000
    15.5987  -13.4562   -0.0003 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8277,9 +8886,12 @@ OSM-S-123
 > <Sample_ID>
 AT-9-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7206/Preparation_of_OSMS123.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  23 26  0  0  0  0            999 V2000
    17.2944  -14.4510    0.0157 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8341,9 +8953,12 @@ OSM-S-124
 > <Sample_ID>
 MNR114-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7207/Preparation_of_OSMS124.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  16 18  0  0  0  0            999 V2000
    21.3270  -14.1724    0.0132 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8390,9 +9005,12 @@ OSM-S-125
 > <Sample_ID>
 MNR101-2
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7208/Preparation_of_OSMS125.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 24  0  0  0  0            999 V2000
    18.7151  -15.3506    0.0149 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8450,9 +9068,12 @@ OSM-S-126
 > <Sample_ID>
 MNR104-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7209/Preparation_of_OSMS126.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  25 28  0  0  0  0            999 V2000
    19.4687  -16.1920    0.0357 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8518,9 +9139,12 @@ OSM-S-127
 > <Sample_ID>
 MNR106-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7210/Preparation_of_OSMS127.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  20 22  0  0  0  0            999 V2000
    20.9953  -14.3663    0.0168 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8575,9 +9199,12 @@ OSM-S-128
 > <Sample_ID>
 AT-14-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7211/Preparation_of_OSMS128.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  20 22  0  0  0  0            999 V2000
    18.0605  -15.8576   -0.0136 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8632,9 +9259,12 @@ OSM-S-129
 > <Sample_ID>
 AT-10-4
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7212/Preparation_of_OSMS129.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  21 23  0  0  0  0            999 V2000
    20.2167  -15.3370   -0.0008 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8691,9 +9321,12 @@ OSM-S-130
 > <Sample_ID>
 AT-17-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7213/Preparation_of_OSMS130.html
+
 $$$$
 Molecule
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  18 20  0  0  0  0            999 V2000
    23.2853  -15.0286   -0.0007 N   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8744,9 +9377,12 @@ OSM-S-131
 > <Sample_ID>
 AT-13-1
 
+> <link>
+http://malaria.ourexperiment.org/osm_procedures/7214/Preparation_of_OSMS131.html
+
 $$$$
 (2Z,5Z)-5-((1-(3-fluorophenyl)-2,5-dimethyl-1H-pyrrol-3-yl)methylene)-3-phenyl-2-(phenylimino)thiazolidin-4-one
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  34 38  0  0  0  0            999 V2000
    -0.2000   -3.6446   -0.1020 C   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8828,15 +9464,15 @@ M  END
 > <OSM_ID>
 OSM-L-01
 
-> <IC50_nM_Assay01>
-3200
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Avery>
+3200
+
 $$$$
 chloroquine
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  22 23  0  0  0  0            999 V2000
     1.5444   -3.8862   -0.0689 Cl  0  0  0  0  0  0  0  0  0  1  0  0
@@ -8891,15 +9527,15 @@ chloroquine
 > <OSM_ID>
 chloroquine
 
-> <IC50_nM_Assay01>
-18.7
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Avery>
+18.7
+
 $$$$
 artemisinin
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  25 28  0  0  0  0            999 V2000
     1.4648    1.9211   -0.5332 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -8962,15 +9598,15 @@ artemisinin
 > <OSM_ID>
 artemisinin
 
-> <IC50_nM_Assay01>
-6
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Avery>
+6
+
 $$$$
 artesunate
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  33 36  0  0  0  0            999 V2000
    -4.7850   -5.6787    0.2945 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -9054,7 +9690,7 @@ dep1
 
 $$$$
 Pyrimethamine
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  17 18  0  0  0  0            999 V2000
     3.5789    0.7114   -0.0001 Cl  0  0  0  0  0  0  0  0  0  1  0  0
@@ -9102,12 +9738,12 @@ Pyrimethamine
 > <ChEMBL>
 dep1
 
-> <IC50_nM_Assay01>
+> <3D7_IC50_nM_Avery>
 11
 
 $$$$
 Tafenoquine
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  33 35  0  0  0  0            999 V2000
     4.1994   -1.3183    0.5021 F   0  0  0  0  0  0  0  0  0  1  0  0
@@ -9185,15 +9821,15 @@ Tafenoquine
 > <OSM_ID>
 Tafenoquine
 
-> <IC50_nM_Assay01>
-451
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Avery>
+451
+
 $$$$
 Pyronaridine
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  37 42  0  0  0  0            999 V2000
    -5.5131    2.8279    0.2570 Cl  0  0  0  0  0  0  0  0  0  1  0  0
@@ -9287,7 +9923,7 @@ dep1
 
 $$$$
 Epoxomicin
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  46 46  0  0  0  0            999 V2000
     2.1928   -2.6204   -0.6772 O   0  0  0  0  0  0  0  0  0  1  0  0
@@ -9389,15 +10025,15 @@ Epoxomicin
 > <OSM_ID>
 Stan-Epoxomicin
 
-> <IC50_nM_Assay01>
-4.2
-
 > <ChEMBL>
 dep1
 
+> <3D7_IC50_nM_Avery>
+4.2
+
 $$$$
 Atovaquone
-  SciTegic03201316493D
+  SciTegic03271313473D
 
  28 31  0  0  0  0            999 V2000
     2.4533    1.8316   -5.3120 O   0  0  0  0  0  0  0  0  0  1  0  0
