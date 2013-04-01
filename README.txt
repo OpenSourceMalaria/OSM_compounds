@@ -1,10 +1,18 @@
 ## About
 
-This is the working directory for the database of the OSM compounds synthesised to date, biological data will be added as it is recieved.  
+This is the working directory for the database of the OSM compounds synthesised to date, biological data will be added as it is received.  
 
-This database is in alpha status; the current *live* version is at:
+images of the structures can be found here:
 
-https://docs.google.com/spreadsheet/ccc?key=0AtiWawH-4xdfdExVd3g5Y1MxNF9hcEtJcTQ1b2stR3c#gid=0
+http://malaria.ourexperiment.org/osm_procedures/group/Compound%20List
+
+clicking the image will direct you to relevant synthetic experimental and links to biological data.  
+
+Alternatively, the compounds are tabulated here:
+
+http://malaria.ourexperiment.org/osm_procedures/group/Summary%20Page
+
+again with links to the synthetic experimental and biological data
 
 
 For project info see:
@@ -15,11 +23,9 @@ http://openwetware.org/wiki/OSDDMalaria
 
 http://www.twitter/OSDDMalaria
 
-If you make changes and feel like doing so, log your changes in this file. Don't worry if you don't have the time, we don't have too much many people to keep track of at the moment.
+https://plus.google.com/u/0/114702323662314783325/posts
 
-## Contents
-
-/deposition1/ containts tab separated .txt files and .sdf describing biological data in a ChEMBL friendly format.
+If you make changes and feel like doing so, log your changes in this file. Don't worry if you don't have the time, we don't have too many people to keep track of at the moment.
 
 ## Log
 
